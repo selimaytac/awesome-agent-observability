@@ -2,7 +2,9 @@
 
 > A neutral list of resources for observing AI agents: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-Every entry is one YAML file in entries/; entries.json holds all fields, including OTel support with an evidence link, license and repository metadata.
+Every entry is one YAML file in entries/. All fields, including OTel support with an evidence link, license and repository metadata, are in https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json.
+
+To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `conventions`, `telemetry`, `license`, `hosting`, `languages` and `agent_types`, and skip entries with `historical_section: true`. A missing or `unknown` value means not confirmed, not no. Each OTel claim links its evidence in `otel_evidence` or `telemetry_docs`. Order is alphabetical and says nothing about quality.
 
 ## Standards and specifications
 
@@ -45,7 +47,6 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Logfire](https://github.com/pydantic/logfire): SDK that sends OpenTelemetry traces and metrics, with integrations for LLM clients and agent frameworks.
 - [Maxim Python SDK](https://github.com/maximhq/maxim-py): Python SDK for Maxim tracing and evaluation.
 - [Microsoft.Extensions.AI libraries](https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai): Documents .NET AI abstractions that include OpenTelemetry middleware for chat clients.
-- [Monocle](https://github.com/monocle2ai/monocle): Python library that traces GenAI apps and agents with automatic instrumentation and exports spans over OTLP, with an optional GenAI semantic conventions mode.
 - [New Relic OpenTelemetry examples](https://github.com/newrelic/newrelic-opentelemetry-examples): Examples for sending OpenTelemetry data to New Relic.
 - [OpenInference](https://github.com/Arize-ai/openinference): Instrumentation packages for LLM clients and agent frameworks that follow the OpenInference conventions.
 - [OpenLIT](https://github.com/openlit/openlit): SDK and tooling that instruments LLM calls and agents and exports OpenTelemetry data.
@@ -490,4 +491,4 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 
 ## Optional
 
-- [entries.json](entries.json): all entries with every field, for programs and agents.
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): all entries with every field, for programs and agents.
