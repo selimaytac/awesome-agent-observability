@@ -105,3 +105,67 @@ Commit only your entry file. After the merge, a job regenerates README.md, entri
 
 Entries that are archived, gone or inactive for 12 months are flagged, get 14 days of grace, and are then moved to
 "Archived and historical" or removed, one removal per commit with the reason.
+
+## Frequent questions
+
+**Can I suggest something without writing the file?**
+Yes. Open an issue with the
+[Suggest an entry](https://github.com/selimaytac/awesome-agent-observability/issues/new?template=1-suggest-entry.yml)
+form. A maintainer checks it and writes the entry.
+
+**Can I submit my own project?**
+Yes. Set `vendor_affiliation` (for example `vendor_affiliation: Author of the project.`) and keep the description as
+neutral as every other entry.
+
+**My project has no OpenTelemetry support. Can it be listed?**
+Yes, if it fits the scope. OpenTelemetry support is not a gate; an honest statement is. Write `otlp: []` when the
+documentation shows there is none, and `unknown` when you are not sure.
+
+**Which category should I pick?**
+The one whose scope line in [registry/categories.yml](registry/categories.yml) fits the main thing the resource does.
+If it really belongs in a second place, add `also_in`. If you are unsure, say so in the pull request; the maintainer
+decides.
+
+**Do I need to run the build or commit README.md?**
+No. Commit only your entry file. A job regenerates README.md, entries.json and llms.txt after the merge.
+
+**A check failed on my pull request. What now?**
+Open the failed step in the Checks tab; the message names the file and the rule.
+
+- `Validate entries`: run `npm run validate -- --no-drift` locally and fix what it reports. Most failures are the
+  description rules, the file name (the validator prints the expected one) or a value that is not in `registry/`.
+- `One entry per pull request`: split the pull request.
+- `Link check of changed entries`: open the link yourself. If the site blocks automated requests, say so in the pull
+  request; the maintainer can add an exception to `registry/link-check-exclude.yml`.
+
+**The maintainer asked me to rebase. How?**
+Fetch the default branch of this repository, rebase your branch on it, and push your branch again with
+`--force-with-lease`. GitHub's guide [About Git rebase](https://docs.github.com/en/get-started/using-git/about-git-rebase)
+walks through it.
+
+**Why are `stars`, `pushed_at` and the other metadata missing from my file?**
+A daily job fills them from the GitHub API. Leave them out; values set by hand are removed in review.
+
+**How do I correct an entry?**
+Open a pull request that changes that one file, or use the
+[Correct an entry](https://github.com/selimaytac/awesome-agent-observability/issues/new?template=2-correct-entry.yml)
+form. Both need a public source whose text says what the right value is.
+
+**A listed project moved, was archived or is dead.**
+Use the
+[Report a moved, archived or dead entry](https://github.com/selimaytac/awesome-agent-observability/issues/new?template=3-report-inactive.yml)
+form. See [Removal](#removal) for what happens next.
+
+**How long does a review take?**
+Usually a few days. A pull request without a reply from its author for 15 days is closed; you can reopen it at any
+time.
+
+**Can I use AI tools?**
+Yes, to prepare the entry. A person opens the pull request and answers the review. [AGENTS.md](AGENTS.md) tells coding
+agents what they may do.
+
+**Does order or placement depend on stars or payment?**
+No. Entries are ordered alphabetically inside each section. There are no paid or sponsored listings.
+
+**Can I use the list in my own program or agent?**
+Yes, it is CC0. See "Use the data" in the README for `entries.json`, `llms.txt` and `jq` examples.
