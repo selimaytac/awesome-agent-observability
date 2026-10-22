@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+name: Evidently
+url: https://github.com/evidentlyai/evidently
+description: Framework to evaluate and monitor LLM apps and ML systems, with a trace store and viewer that receives OpenTelemetry traces over OTLP.
+type: platform
+category: platforms
+subcategory: llm-agent
+added: 2026-10-22
+docs_url: https://docs.evidentlyai.com/docs/platform/tracing_overview
+tags:
+  - tracing
+  - evals
+  - metrics
+license: Apache-2.0
+hosting: both
+languages:
+  - python
+otlp:
+  - ingest
+conventions: unknown
+otel_evidence: https://github.com/evidentlyai/evidently/blob/main/src/evidently/ui/service/tracing/api.py

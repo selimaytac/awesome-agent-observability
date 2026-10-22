@@ -160,6 +160,7 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix): Self-hostable tracing and evaluation tool that ingests OpenInference traces over OTLP.
 - [Braintrust](https://www.braintrust.dev/docs/guides/traces): Hosted platform for logging traces, evaluating and monitoring LLM applications, with an open source JavaScript SDK.
 - [Databricks: MLflow tracing overview](https://docs.databricks.com/aws/en/mlflow3/genai/tracing/): Documents MLflow tracing on Databricks for generative AI applications and agents.
+- [Evidently](https://github.com/evidentlyai/evidently): Framework to evaluate and monitor LLM apps and ML systems, with a trace store and viewer that receives OpenTelemetry traces over OTLP.
 - [Fiddler documentation](https://docs.fiddler.ai/): Documentation of Fiddler, a platform for monitoring and governing agents and models.
 - [Galileo documentation](https://docs.galileo.ai/): Documentation of Galileo, a platform for evaluating and monitoring agents, with OpenTelemetry ingest.
 - [Helicone](https://github.com/Helicone/helicone): Platform for logging requests, cost and sessions of LLM applications.
