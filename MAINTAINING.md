@@ -82,4 +82,5 @@ packages. Set up with `nvm use && npm ci`.
 ## Release and handover
 
 There are no releases; `main` is the list. To hand the list over, transfer the repository and give the new owner
-write access; nothing else holds state.
+write access; nothing else holds state. After a transfer, update `RAW_BASE` in `scripts/lib/render.mjs` and the raw
+links in `templates/README.md.tmpl`, then build.

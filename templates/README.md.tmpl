@@ -18,6 +18,28 @@ Short tags after an entry:
 
 A missing tag means the point was not confirmed, not that the answer is no. Every entry is a data file in [entries/](entries/) with more fields: the evidence link for OTel support, the license, the kinds of agents it is specific to (`agent_types`), and repository metadata refreshed by a script (stars, archived, last push, last release). The same data is in [entries.json](entries.json) and [llms.txt](llms.txt) for programs and agents.
 
+## Use the data
+
+The list is also data, for scripts and agents:
+
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): every entry with every field, plus the categories.
+- [llms.txt](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/llms.txt): the list as plain text for language models.
+
+Examples with `jq`:
+
+```sh
+# Self-hosted open source tools that send or receive OTLP
+jq -r '.entries[] | select(.historical_section | not) | select(.otel and (.tags | index("self-hosted")) and (.tags | index("oss"))) | .name' entries.json
+
+# Python instrumentation that follows the OpenTelemetry GenAI semantic conventions
+jq -r '.entries[] | select(.category == "instrumentation" and (.tags | index("python")) and (.tags | index("genai-semconv"))) | "\(.name) \(.url)"' entries.json
+
+# How each agent framework emits telemetry, with the page it was read from
+jq -r '.entries[] | select(.category == "frameworks") | "\(.name): \(.telemetry) \(.telemetry_docs // "")"' entries.json
+```
+
+A missing or `unknown` value means the point was not confirmed, not that the answer is no.
+
 ## Contents
 
 {{toc}}

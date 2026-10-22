@@ -114,6 +114,15 @@ test('llms.txt lists entries by category', () => {
   assert.ok(llms.includes('## Tools\n\n- [Alpha](https://github.com/example/alpha): Library that does one thing for agent traces.'));
 });
 
+test('llms.txt links the data by absolute URL and the table of contents leaves out Contributing and License', () => {
+  const root = makeRoot({ alpha: entry() }, { template: '{{toc}}' });
+  const out = buildOutputs(root);
+  assert.ok(out['llms.txt'].includes('https://raw.githubusercontent.com/'));
+  assert.ok(!out['llms.txt'].includes('](entries.json)'));
+  assert.ok(!out['README.md'].includes('#contributing'));
+  assert.ok(!out['README.md'].includes('#license'));
+});
+
 test('unknown template placeholders fail loudly', () => {
   const root = makeRoot({ alpha: entry() }, { template: '{{nope}}' });
   assert.throws(() => buildOutputs(root), /nope/);

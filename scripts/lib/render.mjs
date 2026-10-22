@@ -69,7 +69,7 @@ export function renderReadme(data, template) {
       const subs = c.subs.filter((s) => s.entries.length).map((s) => `  - [${s.title}](#${anchor(s.title)})`);
       return [`- [${c.title}](#${anchor(c.title)})`, ...subs].join('\n');
     })
-    .concat(['- [Archived and historical](#archived-and-historical)', '- [Contributing](#contributing)', '- [License](#license)'])
+    .concat(['- [Archived and historical](#archived-and-historical)'])
     .join('\n');
   const sections = groups.map((c) => sectionMarkdown(data, c)).join('\n').trimEnd();
   const hist = data.entries.filter(isHistorical).sort(compareEntries);
@@ -113,14 +113,19 @@ export function renderEntriesJson(data) {
   return JSON.stringify({ name: 'Awesome Agent Observability', license: 'CC0-1.0', categories, entries }, null, 2) + '\n';
 }
 
-/** llms.txt (https://llmstxt.org): title, summary, then one list per category. */
+/** Where the generated files are served from. Change it when the repository moves (see MAINTAINING.md). */
+export const RAW_BASE = 'https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main';
+
+/** llms.txt (https://llmstxt.org): title, summary, how to use the data, then one list per category. */
 export function renderLlms(data) {
   const lines = [
     '# Awesome Agent Observability',
     '',
     '> A neutral list of resources for observing AI agents: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.',
     '',
-    'Every entry is one YAML file in entries/; entries.json holds all fields, including OTel support with an evidence link, license and repository metadata.',
+    `Every entry is one YAML file in entries/. All fields, including OTel support with an evidence link, license and repository metadata, are in ${RAW_BASE}/entries.json.`,
+    '',
+    'To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `conventions`, `telemetry`, `license`, `hosting`, `languages` and `agent_types`, and skip entries with `historical_section: true`. A missing or `unknown` value means not confirmed, not no. Each OTel claim links its evidence in `otel_evidence` or `telemetry_docs`. Order is alphabetical and says nothing about quality.',
     '',
   ];
   for (const c of group(data)) {
@@ -130,6 +135,6 @@ export function renderLlms(data) {
     for (const e of all) lines.push(`- [${e.name}](${e.url}): ${e.description}`);
     lines.push('');
   }
-  lines.push('## Optional', '', '- [entries.json](entries.json): all entries with every field, for programs and agents.', '');
+  lines.push('## Optional', '', `- [entries.json](${RAW_BASE}/entries.json): all entries with every field, for programs and agents.`, '');
   return lines.join('\n');
 }

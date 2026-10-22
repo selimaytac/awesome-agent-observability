@@ -2,7 +2,9 @@
 
 > A neutral list of resources for observing AI agents: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-Every entry is one YAML file in entries/; entries.json holds all fields, including OTel support with an evidence link, license and repository metadata.
+Every entry is one YAML file in entries/. All fields, including OTel support with an evidence link, license and repository metadata, are in https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json.
+
+To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `conventions`, `telemetry`, `license`, `hosting`, `languages` and `agent_types`, and skip entries with `historical_section: true`. A missing or `unknown` value means not confirmed, not no. Each OTel claim links its evidence in `otel_evidence` or `telemetry_docs`. Order is alphabetical and says nothing about quality.
 
 ## Standards and specifications
 
@@ -489,4 +491,4 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 
 ## Optional
 
-- [entries.json](entries.json): all entries with every field, for programs and agents.
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): all entries with every field, for programs and agents.
