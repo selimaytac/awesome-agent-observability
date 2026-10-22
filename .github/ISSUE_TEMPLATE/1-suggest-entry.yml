@@ -1,0 +1,71 @@
+name: Suggest an entry
+description: Suggest a resource for the list without writing the entry file.
+title: "Suggest: "
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. A maintainer checks the suggestion against the gates in
+        [CONTRIBUTING.md](https://github.com/selimaytac/awesome-agent-observability/blob/main/CONTRIBUTING.md)
+        and writes the entry. You can also open a pull request with the entry file yourself.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The repository, or the official page when there is no repository.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Standards and specifications
+        - Instrumentation
+        - Agent frameworks
+        - Agent protocols and tool servers
+        - Collectors and pipelines
+        - Platforms
+        - Gateways and proxies
+        - Evaluation and testing
+        - Cost and usage
+        - Safety signals
+        - On-chain agents and payments
+        - Findings
+        - Benchmarks and datasets
+        - Learning
+        - Community
+        - Related lists
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: How it helps observe agents
+      description: One or two factual sentences. What does it trace, measure, evaluate or record?
+    validations:
+      required: true
+  - type: input
+    id: otel
+    attributes:
+      label: OpenTelemetry evidence
+      description: A public page that shows OTLP support or semantic conventions. Leave empty if you do not know.
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Do you work on this project?
+      description: Self-submissions are welcome; the entry then carries a `vendor_affiliation` field.
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true

@@ -1,0 +1,40 @@
+name: Correct an entry
+description: Report a wrong field, such as the license, OTel support, category or description.
+title: "Correct: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections need a public source. If you work on the project, say so below; that is fine and helps the review.
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: The name, or the file name in `entries/`.
+      placeholder: entries/example-tracer.yml
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What is wrong and what it should be
+      placeholder: "otlp is unknown, but the project exports OTLP since version 1.4."
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: A public page whose text says what the correct value is. A page that only loads is not evidence.
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Do you work on this project?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true

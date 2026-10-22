@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: How to contribute and frequent questions
+    url: https://github.com/selimaytac/awesome-agent-observability/blob/main/CONTRIBUTING.md
+    about: Gates, field rules, pull requests, and answers to common questions.
+  - name: Use the data in a program or agent
+    url: https://github.com/selimaytac/awesome-agent-observability/blob/main/entries.json
+    about: All entries with every field as JSON; llms.txt holds the same list as text.

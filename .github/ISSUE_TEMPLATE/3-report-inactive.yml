@@ -1,0 +1,34 @@
+name: Report a moved, archived or dead entry
+description: Report an entry whose link is broken, whose repository moved or was archived, or that has had no activity for 12 months.
+title: "Inactive: "
+labels: [lifecycle]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Flagged entries get 14 days of grace, then move to "Archived and historical" or are removed. See
+        [Lifecycle in MAINTAINING.md](https://github.com/selimaytac/awesome-agent-observability/blob/main/MAINTAINING.md#lifecycle).
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: The name, or the file name in `entries/`.
+    validations:
+      required: true
+  - type: dropdown
+    id: state
+    attributes:
+      label: What happened
+      options:
+        - The link is broken
+        - The repository moved or was renamed
+        - The repository is archived
+        - No activity for 12 months
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: The new location, or a link that shows the state.
