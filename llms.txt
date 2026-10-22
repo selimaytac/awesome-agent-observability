@@ -2,7 +2,9 @@
 
 > A neutral list of resources for observing AI agents: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-Every entry is one YAML file in entries/; entries.json holds all fields, including OTel support with an evidence link, license and repository metadata.
+Every entry is one YAML file in entries/. All fields, including OTel support with an evidence link, license and repository metadata, are in https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json.
+
+To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `conventions`, `telemetry`, `license`, `hosting`, `languages` and `agent_types`, and skip entries with `historical_section: true`. A missing or `unknown` value means not confirmed, not no. Each OTel claim links its evidence in `otel_evidence` or `telemetry_docs`. Order is alphabetical and says nothing about quality.
 
 ## Standards and specifications
 
@@ -82,7 +84,6 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Cline](https://github.com/cline/cline): Open source coding agent for the editor, with telemetry and OpenTelemetry export documented for enterprise setups.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent framework in Python whose built-in tracing exports OpenTelemetry spans, with integrations for other tracing tools.
 - [Dify](https://github.com/langgenius/dify): Platform for agentic workflows with integrations to tracing backends such as Opik, Langfuse and Arize Phoenix.
-- [DSPy](https://github.com/stanfordnlp/dspy): Python framework for programming language model pipelines, with a callback interface for custom logging and tracing through MLflow autolog.
 - [Embabel](https://github.com/embabel/embabel-agent): JVM agent framework whose user guide documents observation of its services through Micrometer.
 - [Gemini CLI telemetry](https://geminicli.com/docs/cli/telemetry/): Documentation of the OpenTelemetry traces, metrics and logs of the Gemini CLI terminal agent, with GenAI conventions.
 - [Genkit](https://github.com/genkit-ai/genkit): Framework for AI-powered applications that collects traces and metrics through OpenTelemetry instrumentation.
@@ -490,4 +491,4 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 
 ## Optional
 
-- [entries.json](entries.json): all entries with every field, for programs and agents.
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): all entries with every field, for programs and agents.

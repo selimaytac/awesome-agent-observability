@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -17,6 +17,28 @@ Short tags after an entry:
 - `Open`, `Fixed in X` - state of a finding.
 
 A missing tag means the point was not confirmed, not that the answer is no. Every entry is a data file in [entries/](entries/) with more fields: the evidence link for OTel support, the license, the kinds of agents it is specific to (`agent_types`), and repository metadata refreshed by a script (stars, archived, last push, last release). The same data is in [entries.json](entries.json) and [llms.txt](llms.txt) for programs and agents.
+
+## Use the data
+
+The list is also data, for scripts and agents:
+
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): every entry with every field, plus the categories.
+- [llms.txt](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/llms.txt): the list as plain text for language models.
+
+Examples with `jq`:
+
+```sh
+# Self-hosted open source tools that send or receive OTLP
+jq -r '.entries[] | select(.historical_section | not) | select(.otel and (.tags | index("self-hosted")) and (.tags | index("oss"))) | .name' entries.json
+
+# Python instrumentation that follows the OpenTelemetry GenAI semantic conventions
+jq -r '.entries[] | select(.category == "instrumentation" and (.tags | index("python")) and (.tags | index("genai-semconv"))) | "\(.name) \(.url)"' entries.json
+
+# How each agent framework emits telemetry, with the page it was read from
+jq -r '.entries[] | select(.category == "frameworks") | "\(.name): \(.telemetry) \(.telemetry_docs // "")"' entries.json
+```
+
+A missing or `unknown` value means the point was not confirmed, not that the answer is no.
 
 ## Contents
 
@@ -54,8 +76,6 @@ A missing tag means the point was not confirmed, not that the answer is no. Ever
 - [Community](#community)
 - [Related lists](#related-lists)
 - [Archived and historical](#archived-and-historical)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Standards and specifications
 
@@ -147,7 +167,6 @@ Frameworks for building agents, with a note on how each one emits telemetry.
 - [Cline](https://github.com/cline/cline) - Open source coding agent for the editor, with telemetry and OpenTelemetry export documented for enterprise setups. ([Docs](https://docs.cline.bot/more-info/telemetry)) `OTel` `OSS`
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Multi-agent framework in Python whose built-in tracing exports OpenTelemetry spans, with integrations for other tracing tools. ([Telemetry](https://docs.crewai.com/en/observability/tracing)) `OTel` `OSS`
 - [Dify](https://github.com/langgenius/dify) - Platform for agentic workflows with integrations to tracing backends such as Opik, Langfuse and Arize Phoenix. `Source-available` `Self-hosted`
-- [DSPy](https://github.com/stanfordnlp/dspy) - Python framework for programming language model pipelines, with a callback interface for custom logging and tracing through MLflow autolog. ([Telemetry](https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/observability/index.md)) `OSS`
 - [Embabel](https://github.com/embabel/embabel-agent) - JVM agent framework whose user guide documents observation of its services through Micrometer. ([Docs](https://docs.embabel.com/)) `OSS`
 - [Gemini CLI telemetry](https://geminicli.com/docs/cli/telemetry/) - Documentation of the OpenTelemetry traces, metrics and logs of the Gemini CLI terminal agent, with GenAI conventions. ([Source](https://github.com/google-gemini/gemini-cli)) `OTel` `GenAI semconv` `OSS`
 - [Genkit](https://github.com/genkit-ai/genkit) - Framework for AI-powered applications that collects traces and metrics through OpenTelemetry instrumentation. ([Telemetry](https://genkit.dev/docs/js/observability/advanced-configuration/)) `OTel` `OSS`
