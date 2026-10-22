@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -17,6 +17,28 @@ Short tags after an entry:
 - `Open`, `Fixed in X` - state of a finding.
 
 A missing tag means the point was not confirmed, not that the answer is no. Every entry is a data file in [entries/](entries/) with more fields: the evidence link for OTel support, the license, the kinds of agents it is specific to (`agent_types`), and repository metadata refreshed by a script (stars, archived, last push, last release). The same data is in [entries.json](entries.json) and [llms.txt](llms.txt) for programs and agents.
+
+## Use the data
+
+The list is also data, for scripts and agents:
+
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): every entry with every field, plus the categories.
+- [llms.txt](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/llms.txt): the list as plain text for language models.
+
+Examples with `jq`:
+
+```sh
+# Self-hosted open source tools that send or receive OTLP
+jq -r '.entries[] | select(.historical_section | not) | select(.otel and (.tags | index("self-hosted")) and (.tags | index("oss"))) | .name' entries.json
+
+# Python instrumentation that follows the OpenTelemetry GenAI semantic conventions
+jq -r '.entries[] | select(.category == "instrumentation" and (.tags | index("python")) and (.tags | index("genai-semconv"))) | "\(.name) \(.url)"' entries.json
+
+# How each agent framework emits telemetry, with the page it was read from
+jq -r '.entries[] | select(.category == "frameworks") | "\(.name): \(.telemetry) \(.telemetry_docs // "")"' entries.json
+```
+
+A missing or `unknown` value means the point was not confirmed, not that the answer is no.
 
 ## Contents
 
@@ -54,8 +76,6 @@ A missing tag means the point was not confirmed, not that the answer is no. Ever
 - [Community](#community)
 - [Related lists](#related-lists)
 - [Archived and historical](#archived-and-historical)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Standards and specifications
 
@@ -242,7 +262,6 @@ Platforms built for tracing, evaluating and monitoring LLM applications and agen
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) - Self-hostable tracing and evaluation tool that ingests OpenInference traces over OTLP. `OTel` `OpenInference` `Source-available` `Self-hosted` `SaaS`
 - [Braintrust](https://www.braintrust.dev/docs/guides/traces) - Hosted platform for logging traces, evaluating and monitoring LLM applications, with an open source JavaScript SDK. ([Source](https://github.com/braintrustdata/braintrust-sdk-javascript)) `Proprietary` `SaaS`
 - [Databricks: MLflow tracing overview](https://docs.databricks.com/aws/en/mlflow3/genai/tracing/) - Documents MLflow tracing on Databricks for generative AI applications and agents. `OTel` `Proprietary` `SaaS`
-- [Evidently](https://github.com/evidentlyai/evidently) - Framework to evaluate and monitor LLM apps and ML systems, with a trace store and viewer that receives OpenTelemetry traces over OTLP. ([Docs](https://docs.evidentlyai.com/docs/platform/tracing_overview)) `OTel` `OSS` `Self-hosted` `SaaS`
 - [Fiddler documentation](https://docs.fiddler.ai/) - Documentation of Fiddler, a platform for monitoring and governing agents and models. `Proprietary` `SaaS`
 - [Galileo documentation](https://docs.galileo.ai/) - Documentation of Galileo, a platform for evaluating and monitoring agents, with OpenTelemetry ingest. `OTel` `Proprietary` `SaaS`
 - [Helicone](https://github.com/Helicone/helicone) - Platform for logging requests, cost and sessions of LLM applications. `OSS` `Self-hosted` `SaaS`
