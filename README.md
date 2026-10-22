@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -194,6 +194,7 @@ SDKs and servers for agent protocols such as MCP and A2A, and how they carry tra
 - [A2A enterprise features](https://a2a-protocol.org/latest/topics/enterprise-ready/) - Page of the A2A documentation that covers tracing, monitoring and auditing for agents that use the protocol.
 - [A2A Java SDK](https://github.com/a2aproject/a2a-java) - Official Java SDK for the A2A protocol, with an OpenTelemetry module for tracing and context propagation in servers and clients. `OTel` `OSS`
 - [A2A Python SDK](https://github.com/a2aproject/a2a-python) - Python library for building A2A clients and servers, with optional OpenTelemetry tracing. `OTel` `OSS`
+- [AG-UI](https://github.com/ag-ui-protocol/ag-ui) - Agent-user interaction protocol with Python, TypeScript and .NET SDKs, where the .NET SDK emits OpenTelemetry spans for each run. `OTel` `OSS`
 - [Datadog MCP server](https://docs.datadoghq.com/mcp_server/) - Managed MCP server that lets agents query logs, metrics, traces and incidents in Datadog. ([Source](https://github.com/datadog-labs/mcp-server)) `OSS` `SaaS`
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - Python framework for MCP servers and clients with documented OpenTelemetry tracing. ([Docs](https://gofastmcp.com/servers/telemetry)) `OTel` `OSS`
 - [Last9 MCP server](https://github.com/last9/last9-mcp-server) - MCP server that lets agents query Last9 telemetry such as logs, traces and metrics. `OSS`

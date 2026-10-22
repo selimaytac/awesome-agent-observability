@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+name: AG-UI
+url: https://github.com/ag-ui-protocol/ag-ui
+description: Agent-user interaction protocol with Python, TypeScript and .NET SDKs, where the .NET SDK emits OpenTelemetry spans for each run.
+type: sdk
+category: protocols
+added: 2026-10-22
+license: MIT
+languages:
+  - python
+  - typescript
+  - dotnet
+otlp:
+  - export
+conventions: unknown
+otel_evidence: https://github.com/ag-ui-protocol/ag-ui/blob/main/sdks/dotnet/docs/architecture.md

@@ -125,6 +125,7 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [A2A enterprise features](https://a2a-protocol.org/latest/topics/enterprise-ready/): Page of the A2A documentation that covers tracing, monitoring and auditing for agents that use the protocol.
 - [A2A Java SDK](https://github.com/a2aproject/a2a-java): Official Java SDK for the A2A protocol, with an OpenTelemetry module for tracing and context propagation in servers and clients.
 - [A2A Python SDK](https://github.com/a2aproject/a2a-python): Python library for building A2A clients and servers, with optional OpenTelemetry tracing.
+- [AG-UI](https://github.com/ag-ui-protocol/ag-ui): Agent-user interaction protocol with Python, TypeScript and .NET SDKs, where the .NET SDK emits OpenTelemetry spans for each run.
 - [Datadog MCP server](https://docs.datadoghq.com/mcp_server/): Managed MCP server that lets agents query logs, metrics, traces and incidents in Datadog.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp): Python framework for MCP servers and clients with documented OpenTelemetry tracing.
 - [Last9 MCP server](https://github.com/last9/last9-mcp-server): MCP server that lets agents query Last9 telemetry such as logs, traces and metrics.
