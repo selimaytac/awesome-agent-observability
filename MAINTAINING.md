@@ -38,13 +38,13 @@ packages. Set up with `nvm use && npm ci`.
 
 | Workflow | When | What |
 |---|---|---|
-| `ci.yml` | every pull request and push to `main` | `npm test`, `npm run validate` (blocking, including drift), at most one added entry per pull request, link check of the entries the pull request adds or changes. |
-| `refresh.yml` | daily at 03:17 UTC, or by hand | `refresh`, `build`, `validate`, then a bot commit "chore: refresh repository metadata" when something changed. Needs `contents: write`. |
+| `ci.yml` | every pull request and push to `main` | Pull request: `npm test`, `npm run validate -- --no-drift`, at most one added entry, link check of the entries the pull request adds or changes. Push to `main`: `npm test`, `build`, a bot commit "chore: regenerate README, entries.json and llms.txt" when the output changed (rebuilt on the latest `main`, up to 3 attempts), then `validate` including drift. The build job needs `contents: write`; its bot commit does not start another run. |
+| `refresh.yml` | daily at 03:17 UTC, or by hand | `refresh`, `build`, `validate`, then a bot commit "chore: refresh repository metadata" when something changed. Needs `contents: write`. Shares the `write-main` concurrency group with the build job, so the two never push at the same time. |
 | `links.yml` | weekly on Monday at 04:41 UTC, or by hand | Full link check; writes the failures (at most 30) into one standing issue titled "Entries to review", creating it on the first failure. Needs `issues: write`. |
 
 ## Review
 
-1. Run `npm ci && npm run validate`; read the warnings for the new entry.
+1. Run `npm ci && npm run validate -- --no-drift`; read the warnings for the new entry.
 2. Open `otel_evidence` and `telemetry_docs` and check that the page says what the fields claim. A page that only
    loads is not evidence.
 3. Check the license in the project's LICENSE file. The root license goes in `license`; it is `OSS` only when it is
@@ -53,7 +53,8 @@ packages. Set up with `nvm use && npm ci`.
    source-available. Hosted products: `proprietary`.
 4. Check the description: factual, neutral, one sentence.
 5. If the submitter works on the project, `vendor_affiliation` must be set.
-6. Run `npm run build` and commit the regenerated files with the entry (or ask the contributor to).
+6. Merge. The build job on `main` regenerates README.md, entries.json and llms.txt. If a pull request still carries
+   generated files, merging works the same; the job overwrites them.
 
 ## Lifecycle
 

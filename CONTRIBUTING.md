@@ -79,11 +79,11 @@ Before you open the pull request:
 ```sh
 nvm use            # Node.js 24
 npm ci
-npm run validate   # schema, registries, description rules, duplicates
-npm run build      # regenerates README.md, entries.json and llms.txt
+npm run validate -- --no-drift   # schema, registries, description rules, duplicates
 ```
 
-Commit the regenerated files with your entry, or leave them to a maintainer.
+Commit only your entry file. After the merge, a job regenerates README.md, entries.json and llms.txt on `main`.
+`npm run build` shows the result locally; do not commit its output.
 
 ## Pull requests
 

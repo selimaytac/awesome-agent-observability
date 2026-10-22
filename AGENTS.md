@@ -13,10 +13,11 @@ Instructions for coding agents that help someone contribute to this list.
 
   ```sh
   nvm use && npm ci
-  npm run validate
-  npm run build
+  npm run validate -- --no-drift
   npm test
   ```
+
+  Commit only the entry file. README.md, entries.json and llms.txt are regenerated on `main` after the merge.
 
 - Fix an existing entry that is wrong, with the source of the correction.
 

@@ -1,5 +1,7 @@
-# Runs on every pull request and push to main: tests, validation (including README drift) and a link check of the
-# entries a pull request touches. All checks here are blocking.
+# Pull requests: tests, validation of the entries (without the generated files), at most one added entry, and a link
+# check of the entries the pull request touches. All checks here are blocking.
+# Push to main: tests, then the build job regenerates README.md, entries.json and llms.txt, commits them as a bot
+# when they changed, and validates the result including drift. Contributors never need to run the build.
 name: ci
 
 on:
@@ -12,6 +14,7 @@ permissions:
 
 jobs:
   check:
+    if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,10 +26,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm test
-      - name: Validate entries and generated files
-        run: npm run validate -- --quiet
+      - name: Validate entries
+        run: npm run validate -- --no-drift --quiet
       - name: One entry per pull request
-        if: github.event_name == 'pull_request'
         run: |
           added=$(git diff --name-only --diff-filter=A "origin/${{ github.base_ref }}...HEAD" -- entries/ | wc -l)
           echo "entries added: $added"
@@ -35,8 +37,39 @@ jobs:
             exit 1
           fi
       - name: Link check of changed entries
-        if: github.event_name == 'pull_request'
         run: |
           for f in $(git diff --name-only --diff-filter=AM "origin/${{ github.base_ref }}...HEAD" -- 'entries/*.yml'); do
             node scripts/check-links.mjs --only "$(basename "$f" .yml)"
           done
+
+  build:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: write-main
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Build and commit generated files
+        # Rebuilds on the latest main and retries when another commit landed in between.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            npm run build
+            if git diff --quiet; then echo "generated files are up to date"; exit 0; fi
+            git commit -qam "chore: regenerate README, entries.json and llms.txt"
+            git push origin HEAD:main && exit 0
+          done
+          exit 1
+      - name: Validate including generated files
+        run: npm run validate -- --quiet
