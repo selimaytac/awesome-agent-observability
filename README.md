@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -17,6 +17,28 @@ Short tags after an entry:
 - `Open`, `Fixed in X` - state of a finding.
 
 A missing tag means the point was not confirmed, not that the answer is no. Every entry is a data file in [entries/](entries/) with more fields: the evidence link for OTel support, the license, the kinds of agents it is specific to (`agent_types`), and repository metadata refreshed by a script (stars, archived, last push, last release). The same data is in [entries.json](entries.json) and [llms.txt](llms.txt) for programs and agents.
+
+## Use the data
+
+The list is also data, for scripts and agents:
+
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): every entry with every field, plus the categories.
+- [llms.txt](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/llms.txt): the list as plain text for language models.
+
+Examples with `jq`:
+
+```sh
+# Self-hosted open source tools that send or receive OTLP
+jq -r '.entries[] | select(.historical_section | not) | select(.otel and (.tags | index("self-hosted")) and (.tags | index("oss"))) | .name' entries.json
+
+# Python instrumentation that follows the OpenTelemetry GenAI semantic conventions
+jq -r '.entries[] | select(.category == "instrumentation" and (.tags | index("python")) and (.tags | index("genai-semconv"))) | "\(.name) \(.url)"' entries.json
+
+# How each agent framework emits telemetry, with the page it was read from
+jq -r '.entries[] | select(.category == "frameworks") | "\(.name): \(.telemetry) \(.telemetry_docs // "")"' entries.json
+```
+
+A missing or `unknown` value means the point was not confirmed, not that the answer is no.
 
 ## Contents
 
@@ -54,8 +76,6 @@ A missing tag means the point was not confirmed, not that the answer is no. Ever
 - [Community](#community)
 - [Related lists](#related-lists)
 - [Archived and historical](#archived-and-historical)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Standards and specifications
 
@@ -363,7 +383,6 @@ Evaluation, testing and simulation tools with a documented link to traces or obs
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Evaluation framework for models and agents, with trace logging for debugging evaluation runs. ([Docs](https://inspect.aisi.org.uk/tracing.html)) `OSS`
 - [Opik evaluation](https://www.comet.com/docs/opik/) - Documentation of the evaluation features that run on traced data in Opik.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test and red-team tool for prompts and agents that reads OpenTelemetry (OTLP) traces of the application under test. ([Docs](https://www.promptfoo.dev/docs/tracing/)) `OTel` `OSS`
-- [Ragas](https://github.com/vibrantlabsai/ragas) - Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik. ([Docs](https://docs.ragas.io/)) `OSS`
 - [TruLens](https://github.com/truera/trulens) - Library for evaluating and tracking LLM applications with instrumented traces, described as OpenTelemetry-native. ([Docs](https://www.trulens.org/)) `OSS`
 
 **[Back to top](#contents)**

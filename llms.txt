@@ -2,7 +2,9 @@
 
 > A neutral list of resources for observing AI agents: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-Every entry is one YAML file in entries/; entries.json holds all fields, including OTel support with an evidence link, license and repository metadata.
+Every entry is one YAML file in entries/. All fields, including OTel support with an evidence link, license and repository metadata, are in https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json.
+
+To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `conventions`, `telemetry`, `license`, `hosting`, `languages` and `agent_types`, and skip entries with `historical_section: true`. A missing or `unknown` value means not confirmed, not no. Each OTel claim links its evidence in `otel_evidence` or `telemetry_docs`. Order is alphabetical and says nothing about quality.
 
 ## Standards and specifications
 
@@ -251,7 +253,6 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai): Evaluation framework for models and agents, with trace logging for debugging evaluation runs.
 - [Opik evaluation](https://www.comet.com/docs/opik/): Documentation of the evaluation features that run on traced data in Opik.
 - [promptfoo](https://github.com/promptfoo/promptfoo): Test and red-team tool for prompts and agents that reads OpenTelemetry (OTLP) traces of the application under test.
-- [Ragas](https://github.com/vibrantlabsai/ragas): Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik.
 - [TruLens](https://github.com/truera/trulens): Library for evaluating and tracking LLM applications with instrumented traces, described as OpenTelemetry-native.
 
 ## Cost and usage
@@ -490,4 +491,4 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 
 ## Optional
 
-- [entries.json](entries.json): all entries with every field, for programs and agents.
+- [entries.json](https://raw.githubusercontent.com/selimaytac/awesome-agent-observability/main/entries.json): all entries with every field, for programs and agents.
