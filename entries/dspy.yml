@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+name: DSPy
+url: https://github.com/stanfordnlp/dspy
+description: Python framework for programming language model pipelines, with a callback interface for custom logging and tracing through MLflow autolog.
+type: framework
+category: frameworks
+added: 2026-10-22
+tags:
+  - tracing
+license: MIT
+languages:
+  - python
+otlp: unknown
+conventions: unknown
+telemetry: own
+telemetry_docs: https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/observability/index.md

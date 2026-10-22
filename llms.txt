@@ -82,6 +82,7 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Cline](https://github.com/cline/cline): Open source coding agent for the editor, with telemetry and OpenTelemetry export documented for enterprise setups.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent framework in Python whose built-in tracing exports OpenTelemetry spans, with integrations for other tracing tools.
 - [Dify](https://github.com/langgenius/dify): Platform for agentic workflows with integrations to tracing backends such as Opik, Langfuse and Arize Phoenix.
+- [DSPy](https://github.com/stanfordnlp/dspy): Python framework for programming language model pipelines, with a callback interface for custom logging and tracing through MLflow autolog.
 - [Embabel](https://github.com/embabel/embabel-agent): JVM agent framework whose user guide documents observation of its services through Micrometer.
 - [Gemini CLI telemetry](https://geminicli.com/docs/cli/telemetry/): Documentation of the OpenTelemetry traces, metrics and logs of the Gemini CLI terminal agent, with GenAI conventions.
 - [Genkit](https://github.com/genkit-ai/genkit): Framework for AI-powered applications that collects traces and metrics through OpenTelemetry instrumentation.
