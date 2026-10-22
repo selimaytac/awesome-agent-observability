@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -363,6 +363,7 @@ Evaluation, testing and simulation tools with a documented link to traces or obs
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai) - Evaluation framework for models and agents, with trace logging for debugging evaluation runs. ([Docs](https://inspect.aisi.org.uk/tracing.html)) `OSS`
 - [Opik evaluation](https://www.comet.com/docs/opik/) - Documentation of the evaluation features that run on traced data in Opik.
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Test and red-team tool for prompts and agents that reads OpenTelemetry (OTLP) traces of the application under test. ([Docs](https://www.promptfoo.dev/docs/tracing/)) `OTel` `OSS`
+- [Ragas](https://github.com/vibrantlabsai/ragas) - Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik. ([Docs](https://docs.ragas.io/)) `OSS`
 - [TruLens](https://github.com/truera/trulens) - Library for evaluating and tracking LLM applications with instrumented traces, described as OpenTelemetry-native. ([Docs](https://www.trulens.org/)) `OSS`
 
 **[Back to top](#contents)**

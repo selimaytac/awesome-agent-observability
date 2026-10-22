@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+name: Ragas
+url: https://github.com/vibrantlabsai/ragas
+description: Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik.
+type: library
+category: evaluation
+added: 2026-10-22
+docs_url: https://docs.ragas.io/
+tags:
+  - evals
+license: Apache-2.0
+languages:
+  - python
+otlp: unknown
+conventions: unknown

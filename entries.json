@@ -6660,6 +6660,29 @@
       "historical_section": false
     },
     {
+      "slug": "ragas",
+      "name": "Ragas",
+      "url": "https://github.com/vibrantlabsai/ragas",
+      "description": "Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik.",
+      "type": "library",
+      "category": "evaluation",
+      "added": "2026-10-22",
+      "docs_url": "https://docs.ragas.io/",
+      "license": "Apache-2.0",
+      "languages": [
+        "python"
+      ],
+      "otlp": "unknown",
+      "conventions": "unknown",
+      "tags": [
+        "evals",
+        "oss",
+        "python"
+      ],
+      "otel": false,
+      "historical_section": false
+    },
+    {
       "slug": "trulens",
       "name": "TruLens",
       "url": "https://github.com/truera/trulens",

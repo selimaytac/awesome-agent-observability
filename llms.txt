@@ -251,6 +251,7 @@ Every entry is one YAML file in entries/; entries.json holds all fields, includi
 - [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai): Evaluation framework for models and agents, with trace logging for debugging evaluation runs.
 - [Opik evaluation](https://www.comet.com/docs/opik/): Documentation of the evaluation features that run on traced data in Opik.
 - [promptfoo](https://github.com/promptfoo/promptfoo): Test and red-team tool for prompts and agents that reads OpenTelemetry (OTLP) traces of the application under test.
+- [Ragas](https://github.com/vibrantlabsai/ragas): Python library of evaluation metrics for LLM applications that can score traces collected in tools such as Langfuse and Opik.
 - [TruLens](https://github.com/truera/trulens): Library for evaluating and tracking LLM applications with instrumented traces, described as OpenTelemetry-native.
 
 ## Cost and usage
