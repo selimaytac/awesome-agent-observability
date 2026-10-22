@@ -28,6 +28,8 @@ jobs:
       - run: npm test
       - name: Validate entries
         run: npm run validate -- --no-drift --quiet
+      - name: Build (output discarded; catches render errors before the merge)
+        run: npm run build
       - name: One entry per pull request
         run: |
           added=$(git diff --name-only --diff-filter=A "origin/${{ github.base_ref }}...HEAD" -- entries/ | wc -l)
