@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../schema/entry.schema.json
+name: Monocle
+url: https://github.com/monocle2ai/monocle
+description: Python library that traces GenAI apps and agents with automatic instrumentation and exports spans over OTLP, with an optional GenAI semantic conventions mode.
+type: library
+category: instrumentation
+added: 2026-10-22
+tags:
+  - tracing
+license: Apache-2.0
+languages:
+  - python
+otlp:
+  - export
+conventions:
+  - genai-semconv
+otel_evidence: https://github.com/monocle2ai/monocle/blob/main/docs/Monocle_User_Guide.md

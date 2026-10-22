@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 435 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 436 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -105,6 +105,7 @@ Libraries and SDKs that produce telemetry from LLM clients, agent frameworks and
 - [Logfire](https://github.com/pydantic/logfire) - SDK that sends OpenTelemetry traces and metrics, with integrations for LLM clients and agent frameworks. `OTel` `OSS`
 - [Maxim Python SDK](https://github.com/maximhq/maxim-py) - Python SDK for Maxim tracing and evaluation. `OSS`
 - [Microsoft.Extensions.AI libraries](https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai) - Documents .NET AI abstractions that include OpenTelemetry middleware for chat clients. ([Source](https://github.com/dotnet/extensions)) `OTel` `OSS`
+- [Monocle](https://github.com/monocle2ai/monocle) - Python library that traces GenAI apps and agents with automatic instrumentation and exports spans over OTLP, with an optional GenAI semantic conventions mode. `OTel` `GenAI semconv` `OSS`
 - [New Relic OpenTelemetry examples](https://github.com/newrelic/newrelic-opentelemetry-examples) - Examples for sending OpenTelemetry data to New Relic. `OTel` `OSS`
 - [OpenInference](https://github.com/Arize-ai/openinference) - Instrumentation packages for LLM clients and agent frameworks that follow the OpenInference conventions. `OTel` `OpenInference` `OSS`
 - [OpenLIT](https://github.com/openlit/openlit) - SDK and tooling that instruments LLM calls and agents and exports OpenTelemetry data. `OTel` `GenAI semconv` `OSS`
