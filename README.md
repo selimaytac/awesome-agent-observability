@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 440 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 441 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -406,6 +406,7 @@ Token accounting, budgets and cost attribution for agents.
 - [LiteLLM budgets and rate limits](https://docs.litellm.ai/docs/proxy/users) - Documentation of budgets and rate limits per user, key and team in the LiteLLM proxy.
 - [LiteLLM Prometheus metrics](https://docs.litellm.ai/docs/proxy/prometheus) - Documents Prometheus metrics for spend, tokens and latency exposed by the LiteLLM proxy.
 - [LiteLLM spend tracking](https://docs.litellm.ai/docs/proxy/cost_tracking) - Documentation of spend tracking by key, user and team in the LiteLLM proxy.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Dashboard that monitors OpenClaw AI agents, tracking token usage, sessions and 7-day trends across models. `OSS` `Self-hosted`
 - [OpenLIT LLM cost tracking](https://docs.openlit.io/latest/openlit/costs/overview) - Documentation of spend per model, user and agent run in OpenLIT, with managed model pricing and backfill of missing costs.
 - [OpenMeter](https://github.com/openmeterio/openmeter) - Metering and usage-based billing infrastructure that aggregates usage events for AI, API and DevOps products. `OSS` `Self-hosted` `SaaS`
 - [Phoenix cost tracking](https://arize.com/docs/phoenix/tracing/how-to-tracing/cost-tracking) - Documentation of cost tracking on traces in Arize Phoenix.

@@ -272,6 +272,7 @@ To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `convention
 - [LiteLLM budgets and rate limits](https://docs.litellm.ai/docs/proxy/users): Documentation of budgets and rate limits per user, key and team in the LiteLLM proxy.
 - [LiteLLM Prometheus metrics](https://docs.litellm.ai/docs/proxy/prometheus): Documents Prometheus metrics for spend, tokens and latency exposed by the LiteLLM proxy.
 - [LiteLLM spend tracking](https://docs.litellm.ai/docs/proxy/cost_tracking): Documentation of spend tracking by key, user and team in the LiteLLM proxy.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor): Dashboard that monitors OpenClaw AI agents, tracking token usage, sessions and 7-day trends across models.
 - [OpenLIT LLM cost tracking](https://docs.openlit.io/latest/openlit/costs/overview): Documentation of spend per model, user and agent run in OpenLIT, with managed model pricing and backfill of missing costs.
 - [OpenMeter](https://github.com/openmeterio/openmeter): Metering and usage-based billing infrastructure that aggregates usage events for AI, API and DevOps products.
 - [Phoenix cost tracking](https://arize.com/docs/phoenix/tracing/how-to-tracing/cost-tracking): Documentation of cost tracking on traces in Arize Phoenix.
