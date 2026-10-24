@@ -11,10 +11,10 @@ tags:
 license: Apache-2.0
 chains:
   - evm
-stars: 10688
+stars: 10689
 archived: false
-pushed_at: 2026-10-23T08:21:51Z
+pushed_at: 2026-10-24T07:59:25Z
 last_release:
   tag: v1.8.6
   published_at: 2026-10-21T19:56:05Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

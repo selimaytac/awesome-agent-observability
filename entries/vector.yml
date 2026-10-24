@@ -16,10 +16,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://vector.dev/docs/reference/configuration/sources/opentelemetry/
-stars: 22755
+stars: 22760
 archived: false
-pushed_at: 2026-10-22T23:41:11Z
+pushed_at: 2026-10-23T21:49:34Z
 last_release:
   tag: v0.60.0
   published_at: 2026-10-19T17:55:58Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

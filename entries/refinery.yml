@@ -12,8 +12,8 @@ languages:
   - go
 stars: 406
 archived: false
-pushed_at: 2026-10-23T08:29:21Z
+pushed_at: 2026-10-23T16:05:24Z
 last_release:
-  tag: v3.4.2
-  published_at: 2026-10-20T20:33:52Z
-last_checked: 2026-10-23
+  tag: v3.4.4
+  published_at: 2026-10-23T14:39:53Z
+last_checked: 2026-10-24

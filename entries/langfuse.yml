@@ -16,10 +16,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://langfuse.com/docs/opentelemetry/get-started
-stars: 36240
+stars: 36279
 archived: false
-pushed_at: 2026-10-23T08:35:27Z
+pushed_at: 2026-10-24T06:28:11Z
 last_release:
-  tag: v4.68.0
-  published_at: 2026-10-22T14:30:27Z
-last_checked: 2026-10-23
+  tag: v4.69.0
+  published_at: 2026-10-23T14:03:13Z
+last_checked: 2026-10-24

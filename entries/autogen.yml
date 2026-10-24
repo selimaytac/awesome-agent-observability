@@ -17,10 +17,10 @@ conventions:
 otel_evidence: https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html
 telemetry: otel
 telemetry_docs: https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html
-stars: 61534
+stars: 61546
 archived: false
 pushed_at: 2026-10-16T16:14:37Z
 last_release:
   tag: python-v0.7.5
   published_at: 2025-09-30T06:18:26Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

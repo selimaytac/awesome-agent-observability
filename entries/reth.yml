@@ -20,10 +20,10 @@ conventions: []
 otel_evidence: https://reth.rs/run/monitoring/
 chains:
   - ethereum
-stars: 5840
+stars: 5841
 archived: false
-pushed_at: 2026-10-23T08:25:32Z
+pushed_at: 2026-10-24T08:10:31Z
 last_release:
-  tag: v2.8.0
-  published_at: 2026-10-20T19:34:03Z
-last_checked: 2026-10-23
+  tag: v2.8.1
+  published_at: 2026-10-23T11:18:40Z
+last_checked: 2026-10-24

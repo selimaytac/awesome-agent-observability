@@ -19,8 +19,8 @@ telemetry: external
 telemetry_docs: https://framework.beeai.dev/modules/observability
 stars: 3442
 archived: false
-pushed_at: 2026-10-23T07:52:46Z
+pushed_at: 2026-10-23T21:05:39Z
 last_release:
   tag: python_v0.1.85
   published_at: 2026-09-28T18:43:24Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

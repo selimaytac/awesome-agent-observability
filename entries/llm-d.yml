@@ -11,10 +11,10 @@ tags:
   - metrics
   - tracing
 license: Apache-2.0
-stars: 4975
+stars: 4995
 archived: false
-pushed_at: 2026-10-23T05:35:59Z
+pushed_at: 2026-10-24T03:00:45Z
 last_release:
   tag: v1.0.0
   published_at: 2026-10-20T02:30:10Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

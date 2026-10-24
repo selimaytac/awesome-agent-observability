@@ -11,10 +11,10 @@ hosting: self-hosted
 otlp:
   - ingest
 otel_evidence: https://github.com/uptrace/uptrace
-stars: 4306
+stars: 4305
 archived: false
 pushed_at: 2026-10-22T09:12:01Z
 last_release:
   tag: v2.1.0-rc.2
   published_at: 2026-10-22T09:12:02Z
-last_checked: 2026-10-23
+last_checked: 2026-10-24

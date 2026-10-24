@@ -11,6 +11,6 @@ otlp:
 otel_evidence: https://github.com/newrelic/newrelic-opentelemetry-examples
 stars: 121
 archived: false
-pushed_at: 2026-10-22T20:33:05Z
+pushed_at: 2026-10-23T15:35:39Z
 last_release: null
-last_checked: 2026-10-23
+last_checked: 2026-10-24

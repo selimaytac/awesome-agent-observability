@@ -14,3 +14,10 @@ license: MIT
 hosting: self-hosted
 otlp: unknown
 vendor_affiliation: Author of the project.
+stars: 13
+archived: false
+pushed_at: 2026-05-14T14:08:28Z
+last_release:
+  tag: v1.0.0
+  published_at: 2026-05-14T14:08:29Z
+last_checked: 2026-10-24
