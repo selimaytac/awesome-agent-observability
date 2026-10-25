@@ -7,10 +7,10 @@ category: gateways
 added: 2026-10-20
 license: Apache-2.0
 hosting: self-hosted
-stars: 3095
+stars: 3099
 archived: false
-pushed_at: 2026-10-23T23:08:33Z
+pushed_at: 2026-10-25T06:07:14Z
 last_release:
   tag: v1.9.2
   published_at: 2026-09-28T17:14:42Z
-last_checked: 2026-10-24
+last_checked: 2026-10-25

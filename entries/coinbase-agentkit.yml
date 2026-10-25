@@ -17,8 +17,8 @@ languages:
 chains:
   - evm
   - solana
-stars: 1335
+stars: 1336
 archived: false
 pushed_at: 2026-10-14T21:50:54Z
 last_release: null
-last_checked: 2026-10-24
+last_checked: 2026-10-25

@@ -10,10 +10,10 @@ tags:
 agent_types:
   - devops
 license: Apache-2.0
-stars: 3597
+stars: 3599
 archived: false
 pushed_at: 2026-10-23T06:04:41Z
 last_release:
   tag: v2.1.1
   published_at: 2026-10-20T17:35:20Z
-last_checked: 2026-10-24
+last_checked: 2026-10-25

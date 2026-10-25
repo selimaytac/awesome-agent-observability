@@ -11,10 +11,10 @@ tags:
 license: MIT
 chains:
   - ethereum
-stars: 484
+stars: 485
 archived: false
 pushed_at: 2026-10-23T11:50:37Z
 last_release:
   tag: 6.1.0
   published_at: 2026-04-01T21:26:46Z
-last_checked: 2026-10-24
+last_checked: 2026-10-25

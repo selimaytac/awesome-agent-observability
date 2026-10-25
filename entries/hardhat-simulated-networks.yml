@@ -15,8 +15,8 @@ chains:
   - evm
 stars: 8518
 archived: false
-pushed_at: 2026-10-24T01:34:02Z
+pushed_at: 2026-10-24T23:23:39Z
 last_release:
   tag: hardhat@3.21.0
   published_at: 2026-10-22T18:35:57Z
-last_checked: 2026-10-24
+last_checked: 2026-10-25

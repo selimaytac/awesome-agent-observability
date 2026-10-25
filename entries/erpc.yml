@@ -18,10 +18,10 @@ otlp:
 otel_evidence: https://docs.erpc.cloud/operation/tracing
 chains:
   - evm
-stars: 794
+stars: 795
 archived: false
 pushed_at: 2026-10-23T23:35:10Z
 last_release:
   tag: 0.4.0
   published_at: 2026-10-11T17:11:04Z
-last_checked: 2026-10-24
+last_checked: 2026-10-25
