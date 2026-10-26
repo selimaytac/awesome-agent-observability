@@ -10,8 +10,8 @@ tags:
   - tracing
 license: CC-BY-4.0
 license_note: The dataset card states CC-BY-4.0; the code repository microsoft/AgentRx is MIT.
-stars: 161
+stars: 163
 archived: false
 pushed_at: 2026-09-14T22:22:00Z
 last_release: null
-last_checked: 2026-10-25
+last_checked: 2026-10-26

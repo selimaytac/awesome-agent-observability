@@ -11,10 +11,10 @@ tags:
 license: MIT
 hosting: both
 otlp: unknown
-stars: 13269
+stars: 13274
 archived: false
 pushed_at: 2026-05-25T13:54:51Z
 last_release:
   tag: v1.15.2
   published_at: 2026-01-12T08:46:07Z
-last_checked: 2026-10-25
+last_checked: 2026-10-26

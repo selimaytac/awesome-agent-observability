@@ -17,8 +17,8 @@ conventions: []
 otel_evidence: https://github.com/studiomeyer-io/mcp-otel
 stars: 0
 archived: false
-pushed_at: 2026-10-21T06:33:30Z
+pushed_at: 2026-10-26T05:20:45Z
 last_release:
   tag: v0.1.1
   published_at: 2026-08-19T17:51:12Z
-last_checked: 2026-10-25
+last_checked: 2026-10-26

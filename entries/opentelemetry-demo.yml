@@ -10,10 +10,10 @@ license: Apache-2.0
 otlp:
   - export
 otel_evidence: https://github.com/open-telemetry/opentelemetry-demo
-stars: 3416
+stars: 3417
 archived: false
-pushed_at: 2026-10-23T16:13:29Z
+pushed_at: 2026-10-26T06:19:52Z
 last_release:
   tag: 3.1.0
   published_at: 2026-09-18T18:03:28Z
-last_checked: 2026-10-25
+last_checked: 2026-10-26

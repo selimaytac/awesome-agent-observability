@@ -10,10 +10,10 @@ languages:
   - typescript
 telemetry: own
 telemetry_docs: https://openai.github.io/openai-agents-js/guides/tracing/
-stars: 3940
+stars: 3943
 archived: false
 pushed_at: 2026-10-23T23:33:57Z
 last_release:
   tag: "@openai/agents-extensions@0.21.0"
   published_at: 2026-10-20T22:07:32Z
-last_checked: 2026-10-25
+last_checked: 2026-10-26

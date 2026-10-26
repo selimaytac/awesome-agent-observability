@@ -13,8 +13,8 @@ agent_types:
   - commerce
 license: Apache-2.0
 body: OpenAI and Stripe
-stars: 1587
+stars: 1588
 archived: false
 pushed_at: 2026-07-18T04:51:51Z
 last_release: null
-last_checked: 2026-10-25
+last_checked: 2026-10-26

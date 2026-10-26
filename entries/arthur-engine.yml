@@ -15,10 +15,10 @@ otlp:
 conventions:
   - openinference
 otel_evidence: https://github.com/arthur-ai/arthur-engine
-stars: 92
+stars: 93
 archived: false
-pushed_at: 2026-10-25T05:37:04Z
+pushed_at: 2026-10-25T20:11:08Z
 last_release:
   tag: 2.1.1039
   published_at: 2026-10-22T21:55:10Z
-last_checked: 2026-10-25
+last_checked: 2026-10-26
