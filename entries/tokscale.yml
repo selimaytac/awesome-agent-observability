@@ -11,10 +11,10 @@ tags:
 agent_types:
   - coding
 license: MIT
-stars: 5744
+stars: 5750
 archived: false
-pushed_at: 2026-10-26T04:47:23Z
+pushed_at: 2026-10-26T17:33:55Z
 last_release:
   tag: v4.20.1
   published_at: 2026-10-23T18:55:58Z
-last_checked: 2026-10-26
+last_checked: 2026-10-27

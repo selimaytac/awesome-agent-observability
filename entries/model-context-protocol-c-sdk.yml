@@ -17,8 +17,8 @@ conventions: []
 otel_evidence: https://github.com/modelcontextprotocol/csharp-sdk/blob/main/samples/AspNetCoreMcpServer/README.md
 stars: 4601
 archived: false
-pushed_at: 2026-10-26T06:49:02Z
+pushed_at: 2026-10-27T02:18:42Z
 last_release:
   tag: v2.3.0
   published_at: 2026-10-20T23:39:03Z
-last_checked: 2026-10-26
+last_checked: 2026-10-27

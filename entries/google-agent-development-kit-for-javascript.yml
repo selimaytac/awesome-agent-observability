@@ -14,8 +14,8 @@ telemetry: otel
 telemetry_docs: https://github.com/google/adk-js/blob/main/core/src/telemetry/setup.ts
 stars: 1451
 archived: false
-pushed_at: 2026-10-23T23:47:03Z
+pushed_at: 2026-10-26T21:15:11Z
 last_release:
   tag: integrations-v2.3.0
   published_at: 2026-10-13T20:04:44Z
-last_checked: 2026-10-26
+last_checked: 2026-10-27

@@ -13,10 +13,10 @@ hosting: self-hosted
 otlp:
   - ingest
 otel_evidence: https://github.com/jaegertracing/jaeger
-stars: 23343
+stars: 23345
 archived: false
 pushed_at: 2026-10-25T20:32:49Z
 last_release:
   tag: v2.22.0
   published_at: 2026-10-06T14:27:50Z
-last_checked: 2026-10-26
+last_checked: 2026-10-27

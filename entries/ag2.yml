@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/
 telemetry: otel
 telemetry_docs: https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/
-stars: 5019
+stars: 5024
 archived: false
-pushed_at: 2026-10-26T05:16:12Z
+pushed_at: 2026-10-27T04:47:52Z
 last_release:
   tag: v1.2.1
   published_at: 2026-10-21T20:18:05Z
-last_checked: 2026-10-26
+last_checked: 2026-10-27
