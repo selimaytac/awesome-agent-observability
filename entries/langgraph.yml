@@ -10,10 +10,10 @@ languages:
   - python
 telemetry: own
 telemetry_docs: https://docs.langchain.com/oss/python/langgraph/observability
-stars: 43977
+stars: 44036
 archived: false
-pushed_at: 2026-10-27T02:47:39Z
+pushed_at: 2026-10-28T01:22:08Z
 last_release:
   tag: 1.2.18
   published_at: 2026-10-26T20:04:45Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28

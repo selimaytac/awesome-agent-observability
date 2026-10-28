@@ -13,10 +13,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/elastic/elastic-otel-python
-stars: 15
+stars: 16
 archived: false
-pushed_at: 2026-10-27T08:51:17Z
+pushed_at: 2026-10-28T09:17:54Z
 last_release:
   tag: v1.18.0
   published_at: 2026-10-22T10:16:42Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28

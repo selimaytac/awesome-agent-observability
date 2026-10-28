@@ -14,10 +14,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/langfuse/langfuse-js
-stars: 174
+stars: 175
 archived: false
-pushed_at: 2026-10-27T08:12:12Z
+pushed_at: 2026-10-28T08:04:28Z
 last_release:
   tag: v6.0.2
   published_at: 2026-10-22T14:25:46Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28

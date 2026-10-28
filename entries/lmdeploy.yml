@@ -12,10 +12,10 @@ tags:
 license: Apache-2.0
 languages:
   - python
-stars: 8121
+stars: 8124
 archived: false
-pushed_at: 2026-10-27T03:07:12Z
+pushed_at: 2026-10-28T08:53:00Z
 last_release:
   tag: v0.18.0
   published_at: 2026-09-28T07:04:58Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28

@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://google.github.io/adk-docs/observability/traces/
 telemetry: otel
 telemetry_docs: https://google.github.io/adk-docs/observability/traces/
-stars: 22021
+stars: 22027
 archived: false
-pushed_at: 2026-10-27T07:00:31Z
+pushed_at: 2026-10-28T09:14:36Z
 last_release:
   tag: v2.13.0
   published_at: 2026-10-23T18:08:23Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28

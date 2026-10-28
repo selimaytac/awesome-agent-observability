@@ -17,10 +17,10 @@ conventions:
 otel_evidence: https://framework.beeai.dev/modules/observability
 telemetry: external
 telemetry_docs: https://framework.beeai.dev/modules/observability
-stars: 3444
+stars: 3446
 archived: false
-pushed_at: 2026-10-26T10:14:51Z
+pushed_at: 2026-10-28T09:31:22Z
 last_release:
   tag: python_v0.1.85
   published_at: 2026-09-28T18:43:24Z
-last_checked: 2026-10-27
+last_checked: 2026-10-28
