@@ -12,10 +12,10 @@ tags:
 license: Apache-2.0
 hosting: both
 otlp: unknown
-stars: 6242
+stars: 6243
 archived: false
-pushed_at: 2026-10-24T01:17:24Z
+pushed_at: 2026-10-28T15:59:52Z
 last_release:
   tag: v2025.08.21-1
   published_at: 2025-08-21T18:47:38Z
-last_checked: 2026-10-28
+last_checked: 2026-10-29

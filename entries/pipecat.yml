@@ -19,10 +19,10 @@ conventions: []
 otel_evidence: https://docs.pipecat.ai/api-reference/server/utilities/opentelemetry
 telemetry: otel
 telemetry_docs: https://docs.pipecat.ai/api-reference/server/utilities/opentelemetry
-stars: 16864
+stars: 16896
 archived: false
-pushed_at: 2026-10-28T06:23:15Z
+pushed_at: 2026-10-29T05:49:26Z
 last_release:
-  tag: v1.14.0
-  published_at: 2026-10-24T01:24:33Z
-last_checked: 2026-10-28
+  tag: v1.15.0
+  published_at: 2026-10-29T05:50:54Z
+last_checked: 2026-10-29

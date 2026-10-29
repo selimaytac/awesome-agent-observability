@@ -16,8 +16,8 @@ otlp:
 otel_evidence: https://grafana.com/docs/tempo/latest/
 stars: 5547
 archived: false
-pushed_at: 2026-10-28T08:34:30Z
+pushed_at: 2026-10-29T04:29:26Z
 last_release:
   tag: v3.1.1
   published_at: 2026-10-21T17:02:10Z
-last_checked: 2026-10-28
+last_checked: 2026-10-29

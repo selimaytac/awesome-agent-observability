@@ -16,8 +16,8 @@ otlp:
 otel_evidence: https://github.com/langfuse/langfuse-js
 stars: 175
 archived: false
-pushed_at: 2026-10-28T08:04:28Z
+pushed_at: 2026-10-29T07:19:27Z
 last_release:
   tag: v6.0.2
   published_at: 2026-10-22T14:25:46Z
-last_checked: 2026-10-28
+last_checked: 2026-10-29
