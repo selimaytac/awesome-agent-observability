@@ -16,10 +16,10 @@ conventions:
 otel_evidence: https://docs.langchain4j.dev/tutorials/observability/
 telemetry: own
 telemetry_docs: https://docs.langchain4j.dev/tutorials/observability/
-stars: 13322
+stars: 13329
 archived: false
-pushed_at: 2026-10-29T08:43:01Z
+pushed_at: 2026-10-30T07:32:18Z
 last_release:
   tag: 1.23.0
   published_at: 2026-10-28T16:54:13Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

@@ -16,8 +16,8 @@ hosting: saas
 otlp: unknown
 stars: 29
 archived: false
-pushed_at: 2026-10-29T09:44:59Z
+pushed_at: 2026-10-30T08:47:56Z
 last_release:
-  tag: "@braintrust/audio@0.1.0"
-  published_at: 2026-10-28T16:14:43Z
-last_checked: 2026-10-29
+  tag: braintrust@3.42.0
+  published_at: 2026-10-29T14:04:53Z
+last_checked: 2026-10-30

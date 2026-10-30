@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
 telemetry: otel
 telemetry_docs: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
-stars: 27592
+stars: 27622
 archived: false
-pushed_at: 2026-10-29T03:58:12Z
+pushed_at: 2026-10-30T03:02:20Z
 last_release:
-  tag: "@ai-sdk/workflow-harness@1.0.167"
-  published_at: 2026-10-28T18:36:18Z
-last_checked: 2026-10-29
+  tag: "@ai-sdk/vue@3.0.319"
+  published_at: 2026-10-29T18:47:35Z
+last_checked: 2026-10-30

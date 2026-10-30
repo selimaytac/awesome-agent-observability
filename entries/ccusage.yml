@@ -13,10 +13,10 @@ agent_types:
 license: MIT
 languages:
   - typescript
-stars: 19243
+stars: 19259
 archived: false
-pushed_at: 2026-10-29T03:27:36Z
+pushed_at: 2026-10-30T03:26:55Z
 last_release:
   tag: v20.0.45
   published_at: 2026-10-26T20:25:17Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

@@ -13,10 +13,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/open-telemetry/opentelemetry-dotnet
-stars: 3766
+stars: 3767
 archived: false
-pushed_at: 2026-10-29T07:46:52Z
+pushed_at: 2026-10-29T16:38:12Z
 last_release:
   tag: core-1.20.1
   published_at: 2026-10-20T11:41:13Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

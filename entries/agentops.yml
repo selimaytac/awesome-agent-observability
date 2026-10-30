@@ -15,10 +15,10 @@ license: MIT
 otlp:
   - export
 otel_evidence: https://github.com/AgentOps-AI/agentops/blob/main/agentops/sdk/exporters.py
-stars: 5925
+stars: 5927
 archived: false
 pushed_at: 2026-06-25T08:25:03Z
 last_release:
   tag: 0.4.21
   published_at: 2025-08-29T06:36:28Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

@@ -18,8 +18,8 @@ telemetry: otel
 telemetry_docs: https://docs.temporal.io/develop/python/platform/observability
 stars: 1240
 archived: false
-pushed_at: 2026-10-29T01:44:49Z
+pushed_at: 2026-10-29T20:28:20Z
 last_release:
   tag: 1.35.0
   published_at: 2026-10-28T20:16:01Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

@@ -13,10 +13,10 @@ languages:
   - java
 telemetry: unknown
 telemetry_docs: https://docs.embabel.com/
-stars: 4539
+stars: 4540
 archived: false
-pushed_at: 2026-10-28T18:32:35Z
+pushed_at: 2026-10-29T22:16:28Z
 last_release:
   tag: v1.5.4
   published_at: 2026-10-28T07:35:07Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

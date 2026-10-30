@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://docs.cline.bot/more-info/telemetry
 telemetry: otel
 telemetry_docs: https://docs.cline.bot/more-info/telemetry
-stars: 71018
+stars: 71058
 archived: false
-pushed_at: 2026-10-29T08:20:51Z
+pushed_at: 2026-10-30T07:21:54Z
 last_release:
   tag: v4.1.26
   published_at: 2026-10-26T09:06:50Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

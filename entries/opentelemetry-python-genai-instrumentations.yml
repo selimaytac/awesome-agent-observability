@@ -15,8 +15,8 @@ conventions:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-python-genai
 stars: 47
 archived: false
-pushed_at: 2026-10-29T06:07:43Z
+pushed_at: 2026-10-29T14:45:18Z
 last_release:
   tag: opentelemetry-instrumentation-genai-langchain==1.3b0
   published_at: 2026-10-23T19:15:30Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

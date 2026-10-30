@@ -13,10 +13,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/open-telemetry/opentelemetry-go
-stars: 6585
+stars: 6588
 archived: false
-pushed_at: 2026-10-29T09:31:00Z
+pushed_at: 2026-10-30T10:03:19Z
 last_release:
   tag: v1.47.0
   published_at: 2026-10-02T08:18:45Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30

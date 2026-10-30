@@ -17,10 +17,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://docs.litellm.ai/docs/observability/opentelemetry_integration
-stars: 62293
+stars: 62361
 archived: false
-pushed_at: 2026-10-29T09:58:23Z
+pushed_at: 2026-10-30T10:05:00Z
 last_release:
   tag: v1.106.6
   published_at: 2026-10-28T23:03:09Z
-last_checked: 2026-10-29
+last_checked: 2026-10-30
