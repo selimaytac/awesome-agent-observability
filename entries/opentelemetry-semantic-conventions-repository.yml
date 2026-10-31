@@ -10,8 +10,8 @@ body: OpenTelemetry
 version: 1.44.0
 stars: 676
 archived: false
-pushed_at: 2026-10-29T19:10:13Z
+pushed_at: 2026-10-30T23:47:00Z
 last_release:
   tag: v1.44.0
   published_at: 2026-08-04T20:00:58Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

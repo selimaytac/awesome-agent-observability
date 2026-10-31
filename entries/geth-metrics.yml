@@ -12,10 +12,10 @@ tags:
   - metrics
 chains:
   - ethereum
-stars: 51442
+stars: 51446
 archived: false
-pushed_at: 2026-10-29T15:01:18Z
+pushed_at: 2026-10-30T16:38:27Z
 last_release:
   tag: v1.17.10
   published_at: 2026-10-23T12:07:39Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

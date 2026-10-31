@@ -17,8 +17,8 @@ conventions:
 otel_evidence: https://github.com/monocle2ai/monocle/blob/main/docs/Monocle_User_Guide.md
 stars: 345
 archived: false
-pushed_at: 2026-10-29T02:17:37Z
+pushed_at: 2026-10-30T19:06:33Z
 last_release:
-  tag: v0.8.15
-  published_at: 2026-09-11T19:10:37Z
-last_checked: 2026-10-30
+  tag: v0.8.16
+  published_at: 2026-10-30T19:06:30Z
+last_checked: 2026-10-31

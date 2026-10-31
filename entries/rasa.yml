@@ -17,10 +17,10 @@ conventions: []
 otel_evidence: https://rasa.com/docs/pro/improve/tracing
 telemetry: otel
 telemetry_docs: https://rasa.com/docs/pro/improve/tracing
-stars: 21363
+stars: 21364
 archived: false
 pushed_at: 2026-07-24T07:39:04Z
 last_release:
   tag: 3.6.21
   published_at: 2025-01-14T10:40:21Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

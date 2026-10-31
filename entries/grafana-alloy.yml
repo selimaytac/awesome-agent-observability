@@ -19,8 +19,8 @@ conventions: []
 otel_evidence: https://github.com/grafana/alloy
 stars: 3658
 archived: false
-pushed_at: 2026-10-30T09:33:50Z
+pushed_at: 2026-10-30T22:50:22Z
 last_release:
   tag: v1.21.3
   published_at: 2026-10-28T18:32:15Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

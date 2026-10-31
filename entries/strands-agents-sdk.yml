@@ -16,10 +16,10 @@ conventions:
 otel_evidence: https://strandsagents.com/docs/user-guide/sdk/observability-evaluation/traces/
 telemetry: otel
 telemetry_docs: https://strandsagents.com/docs/user-guide/sdk/observability-evaluation/traces/
-stars: 9001
+stars: 9009
 archived: false
-pushed_at: 2026-10-30T09:02:31Z
+pushed_at: 2026-10-30T21:47:10Z
 last_release:
-  tag: harness-cli/v0.2.3
-  published_at: 2026-10-29T19:02:07Z
-last_checked: 2026-10-30
+  tag: harness-typescript/v0.3.3
+  published_at: 2026-10-30T19:53:20Z
+last_checked: 2026-10-31

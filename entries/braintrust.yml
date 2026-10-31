@@ -16,8 +16,8 @@ hosting: saas
 otlp: unknown
 stars: 29
 archived: false
-pushed_at: 2026-10-30T08:47:56Z
+pushed_at: 2026-10-30T17:53:25Z
 last_release:
   tag: braintrust@3.42.0
   published_at: 2026-10-29T14:04:53Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

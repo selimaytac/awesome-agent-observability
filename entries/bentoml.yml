@@ -17,10 +17,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://docs.bentoml.com/en/latest/build-with-bentoml/observability/tracing.html
-stars: 8926
+stars: 8930
 archived: false
 pushed_at: 2026-10-29T11:04:15Z
 last_release:
   tag: v1.4.40
   published_at: 2026-10-23T19:51:33Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

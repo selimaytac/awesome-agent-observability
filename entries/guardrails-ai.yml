@@ -15,10 +15,10 @@ otlp:
 conventions:
   - openinference
 otel_evidence: https://arize.com/docs/ax/integrations/python-agent-frameworks/guardrails-ai/guardrails-ai-tracing
-stars: 7571
+stars: 7574
 archived: false
-pushed_at: 2026-10-29T03:19:37Z
+pushed_at: 2026-10-31T02:14:36Z
 last_release:
   tag: v0.11.0
   published_at: 2026-08-14T14:22:32Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

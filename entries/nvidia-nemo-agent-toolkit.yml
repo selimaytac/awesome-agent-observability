@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://docs.nvidia.com/nemo/agent-toolkit/latest/
 telemetry: otel
 telemetry_docs: https://docs.nvidia.com/nemo/agent-toolkit/latest/
-stars: 2690
+stars: 2688
 archived: false
-pushed_at: 2026-10-30T03:11:21Z
+pushed_at: 2026-10-31T04:24:24Z
 last_release:
   tag: v1.9.0
   published_at: 2026-09-10T22:12:09Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

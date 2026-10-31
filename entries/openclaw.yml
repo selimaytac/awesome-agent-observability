@@ -17,10 +17,10 @@ conventions: []
 otel_evidence: https://github.com/openclaw/openclaw/blob/main/docs/gateway/opentelemetry.md
 telemetry: otel
 telemetry_docs: https://github.com/openclaw/openclaw/blob/main/docs/gateway/opentelemetry.md
-stars: 393419
+stars: 393514
 archived: false
-pushed_at: 2026-10-30T10:04:41Z
+pushed_at: 2026-10-31T09:42:14Z
 last_release:
   tag: v2026.10.9
   published_at: 2026-10-29T15:54:35Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31

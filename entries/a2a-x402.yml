@@ -14,10 +14,10 @@ agent_types:
   - transactional
 license: Apache-2.0
 body: google-agentic-commerce
-stars: 570
+stars: 569
 archived: false
 pushed_at: 2026-08-04T17:46:39Z
 last_release:
   tag: v0.1.0
   published_at: 2025-09-16T12:43:57Z
-last_checked: 2026-10-30
+last_checked: 2026-10-31
