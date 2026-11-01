@@ -16,8 +16,8 @@ license_note: The repository has no license file.
 otlp:
   - export
 otel_evidence: https://github.com/li0nel/claude-otel
-stars: 1
+stars: 2
 archived: false
 pushed_at: 2026-03-05T03:06:32Z
 last_release: null
-last_checked: 2026-10-31
+last_checked: 2026-11-01
