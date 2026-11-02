@@ -13,8 +13,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-collector-contrib
 stars: 5034
 archived: false
-pushed_at: 2026-11-01T06:33:16Z
+pushed_at: 2026-11-02T07:15:30Z
 last_release:
   tag: v0.164.1
   published_at: 2026-10-26T22:05:25Z
-last_checked: 2026-11-01
+last_checked: 2026-11-02

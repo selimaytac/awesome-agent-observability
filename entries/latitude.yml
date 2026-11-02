@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/latitude-dev/latitude-llm
 stars: 4742
 archived: false
-pushed_at: 2026-10-29T04:09:24Z
+pushed_at: 2026-11-02T07:06:21Z
 last_release:
   tag: cli-7.18.0
   published_at: 2026-10-27T12:48:29Z
-last_checked: 2026-11-01
+last_checked: 2026-11-02

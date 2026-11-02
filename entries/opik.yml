@@ -14,10 +14,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://github.com/comet-ml/opik
-stars: 23077
+stars: 23117
 archived: false
-pushed_at: 2026-11-01T10:22:53Z
+pushed_at: 2026-11-02T11:11:58Z
 last_release:
-  tag: 2.2.137
-  published_at: 2026-10-30T13:21:21Z
-last_checked: 2026-11-01
+  tag: 2.2.138
+  published_at: 2026-11-02T10:48:55Z
+last_checked: 2026-11-02

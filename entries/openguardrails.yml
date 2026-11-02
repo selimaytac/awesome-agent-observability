@@ -8,10 +8,8 @@ added: 2026-10-20
 license: Apache-2.0
 body: OpenGuardrails project
 version: unknown
-stars: 60
+stars: 361
 archived: false
-pushed_at: 2026-10-31T16:45:16Z
-last_release:
-  tag: v1.9
-  published_at: 2026-09-18T00:22:13Z
-last_checked: 2026-11-01
+pushed_at: 2026-11-02T09:42:04Z
+last_release: null
+last_checked: 2026-11-02
