@@ -20,8 +20,8 @@ telemetry: otel
 telemetry_docs: https://docs.quarkiverse.io/quarkus-langchain4j/dev/observability.html
 stars: 325
 archived: false
-pushed_at: 2026-11-02T09:16:08Z
+pushed_at: 2026-11-03T10:22:43Z
 last_release:
   tag: 2.0.0.Beta2
   published_at: 2026-11-01T09:01:53Z
-last_checked: 2026-11-02
+last_checked: 2026-11-03

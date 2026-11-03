@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
 telemetry: otel
 telemetry_docs: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
-stars: 27693
+stars: 27701
 archived: false
-pushed_at: 2026-11-02T09:18:34Z
+pushed_at: 2026-11-03T01:49:57Z
 last_release:
-  tag: "@ai-sdk/xai@5.0.35"
-  published_at: 2026-10-30T22:19:56Z
-last_checked: 2026-11-02
+  tag: "@ai-sdk/deepinfra@1.0.64"
+  published_at: 2026-11-03T01:50:02Z
+last_checked: 2026-11-03

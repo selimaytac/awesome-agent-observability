@@ -13,10 +13,10 @@ otlp:
 otel_evidence: https://kagent.dev/docs/kagent/1.x/observability/tracing/
 telemetry: otel
 telemetry_docs: https://kagent.dev/docs/kagent/1.x/observability/tracing/
-stars: 4137
+stars: 4146
 archived: false
-pushed_at: 2026-11-02T07:51:37Z
+pushed_at: 2026-11-03T03:40:38Z
 last_release:
   tag: v1.0.0-rc1
   published_at: 2026-10-30T18:50:42Z
-last_checked: 2026-11-02
+last_checked: 2026-11-03

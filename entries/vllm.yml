@@ -10,10 +10,10 @@ docs_url: https://docs.vllm.ai/en/latest/usage/metrics/
 tags:
   - metrics
 license: Apache-2.0
-stars: 96121
+stars: 96205
 archived: false
-pushed_at: 2026-11-02T11:10:23Z
+pushed_at: 2026-11-03T10:47:34Z
 last_release:
   tag: v0.33.0rc3
   published_at: 2026-11-02T10:10:05Z
-last_checked: 2026-11-02
+last_checked: 2026-11-03

@@ -11,10 +11,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/traceloop/hub
-stars: 231
+stars: 233
 archived: false
 pushed_at: 2026-07-16T09:13:24Z
 last_release:
   tag: 0.10.1
   published_at: 2026-07-15T11:46:36Z
-last_checked: 2026-11-02
+last_checked: 2026-11-03

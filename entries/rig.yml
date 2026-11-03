@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://github.com/0xPlaygrounds/rig
 telemetry: own
 telemetry_docs: https://github.com/0xPlaygrounds/rig
-stars: 9042
+stars: 9054
 archived: false
-pushed_at: 2026-11-02T09:33:27Z
+pushed_at: 2026-11-03T04:55:32Z
 last_release:
   tag: v0.46.0
   published_at: 2026-10-31T07:09:38Z
-last_checked: 2026-11-02
+last_checked: 2026-11-03
