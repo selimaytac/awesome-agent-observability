@@ -24,8 +24,8 @@ chains:
   - solana
   - aptos
   - stellar
-stars: 6778
+stars: 6782
 archived: false
 pushed_at: 2026-11-03T10:08:26Z
 last_release: null
-last_checked: 2026-11-03
+last_checked: 2026-11-04

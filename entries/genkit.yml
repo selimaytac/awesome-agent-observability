@@ -15,10 +15,10 @@ otlp:
 otel_evidence: https://genkit.dev/docs/js/observability/advanced-configuration/
 telemetry: otel
 telemetry_docs: https://genkit.dev/docs/js/observability/advanced-configuration/
-stars: 6563
+stars: 6565
 archived: false
-pushed_at: 2026-11-03T08:02:15Z
+pushed_at: 2026-11-04T09:17:32Z
 last_release:
-  tag: genkit-cli@1.45.0
-  published_at: 2026-11-03T02:09:10Z
-last_checked: 2026-11-03
+  tag: genkit@1.44.0
+  published_at: 2026-11-03T21:01:31Z
+last_checked: 2026-11-04

@@ -20,8 +20,8 @@ conventions:
 otel_evidence: https://github.com/openlit/openlit
 stars: 2902
 archived: false
-pushed_at: 2026-11-03T06:09:37Z
+pushed_at: 2026-11-03T14:26:09Z
 last_release:
   tag: openlit-2.1.1
   published_at: 2026-10-26T10:17:17Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

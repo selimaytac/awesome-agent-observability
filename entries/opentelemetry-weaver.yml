@@ -12,8 +12,8 @@ languages:
   - rust
 stars: 521
 archived: false
-pushed_at: 2026-11-03T03:58:55Z
+pushed_at: 2026-11-04T03:49:03Z
 last_release:
   tag: v0.28.0
   published_at: 2026-10-14T17:29:48Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

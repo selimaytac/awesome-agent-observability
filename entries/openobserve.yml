@@ -15,10 +15,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://github.com/openobserve/openobserve
-stars: 22739
+stars: 22786
 archived: false
-pushed_at: 2026-11-03T10:50:39Z
+pushed_at: 2026-11-04T10:58:32Z
 last_release:
   tag: v1.1.2
   published_at: 2026-10-20T05:26:56Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://docs.livekit.io/testing/observability/tracing/
 telemetry: otel
 telemetry_docs: https://docs.livekit.io/testing/observability/tracing/
-stars: 15068
+stars: 15080
 archived: false
-pushed_at: 2026-11-03T10:04:10Z
+pushed_at: 2026-11-04T08:21:01Z
 last_release:
   tag: livekit-agents@1.8.10
   published_at: 2026-10-29T17:00:12Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

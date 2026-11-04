@@ -14,10 +14,10 @@ conventions:
   - openinference
 otel_evidence: https://arize-ai.github.io/openinference/spec/
 body: Arize AI
-stars: 1301
+stars: 1303
 archived: false
 pushed_at: 2026-11-02T18:16:13Z
 last_release:
   tag: python-openinference-instrumentation-anthropic-v3.3.0
   published_at: 2026-10-31T04:05:15Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

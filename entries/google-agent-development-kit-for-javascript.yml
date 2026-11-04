@@ -12,10 +12,10 @@ otlp: unknown
 otel_evidence: https://github.com/google/adk-js/blob/main/core/src/telemetry/setup.ts
 telemetry: otel
 telemetry_docs: https://github.com/google/adk-js/blob/main/core/src/telemetry/setup.ts
-stars: 1465
+stars: 1466
 archived: false
 pushed_at: 2026-11-02T23:06:03Z
 last_release:
   tag: integrations-v2.4.0
   published_at: 2026-10-28T16:11:49Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04

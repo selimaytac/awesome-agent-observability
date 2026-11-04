@@ -17,8 +17,8 @@ otlp:
 otel_evidence: https://github.com/lmnr-ai/lmnr
 stars: 3472
 archived: false
-pushed_at: 2026-11-02T23:31:21Z
+pushed_at: 2026-11-04T10:56:06Z
 last_release:
   tag: v0.3.3
   published_at: 2026-11-02T10:30:28Z
-last_checked: 2026-11-03
+last_checked: 2026-11-04
