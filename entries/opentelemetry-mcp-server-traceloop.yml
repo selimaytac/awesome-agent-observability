@@ -14,8 +14,8 @@ conventions: unknown
 otel_evidence: https://github.com/traceloop/opentelemetry-mcp-server
 stars: 204
 archived: false
-pushed_at: 2026-06-21T13:32:53Z
+pushed_at: 2026-11-05T09:20:54Z
 last_release:
   tag: 0.2.2
   published_at: 2026-02-08T12:38:28Z
-last_checked: 2026-11-04
+last_checked: 2026-11-05

@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://ai.pydantic.dev/logfire/
 telemetry: otel
 telemetry_docs: https://ai.pydantic.dev/logfire/
-stars: 21023
+stars: 21036
 archived: false
-pushed_at: 2026-11-04T10:49:29Z
+pushed_at: 2026-11-05T10:51:27Z
 last_release:
-  tag: v2.65.0
-  published_at: 2026-11-03T01:25:27Z
-last_checked: 2026-11-04
+  tag: v2.66.0
+  published_at: 2026-11-04T11:51:46Z
+last_checked: 2026-11-05

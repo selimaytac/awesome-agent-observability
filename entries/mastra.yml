@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://mastra.ai/docs/observability/tracing/overview
 telemetry: own
 telemetry_docs: https://mastra.ai/docs/observability/tracing/overview
-stars: 29322
+stars: 29346
 archived: false
-pushed_at: 2026-11-04T10:50:15Z
+pushed_at: 2026-11-05T10:45:49Z
 last_release:
-  tag: "@mastra/core@1.81.0"
-  published_at: 2026-11-02T12:33:26Z
-last_checked: 2026-11-04
+  tag: "@mastra/core@1.82.0"
+  published_at: 2026-11-04T10:59:56Z
+last_checked: 2026-11-05

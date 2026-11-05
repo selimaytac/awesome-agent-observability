@@ -17,8 +17,8 @@ telemetry: otel
 telemetry_docs: https://github.com/temporalio/sdk-typescript
 stars: 945
 archived: false
-pushed_at: 2026-11-04T03:12:01Z
+pushed_at: 2026-11-05T03:24:19Z
 last_release:
   tag: v1.25.0
   published_at: 2026-10-27T18:32:22Z
-last_checked: 2026-11-04
+last_checked: 2026-11-05
