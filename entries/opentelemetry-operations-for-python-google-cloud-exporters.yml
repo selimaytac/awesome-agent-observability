@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/GoogleCloudPlatform/opentelemetry-operations-python
 stars: 83
 archived: false
-pushed_at: 2026-11-05T00:15:14Z
+pushed_at: 2026-11-05T15:46:25Z
 last_release:
   tag: v1.15.0
   published_at: 2026-08-19T21:37:42Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

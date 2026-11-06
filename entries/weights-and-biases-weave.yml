@@ -11,10 +11,10 @@ tags:
   - evals
 license: Apache-2.0
 otlp: unknown
-stars: 1146
+stars: 1145
 archived: false
-pushed_at: 2026-11-04T20:35:53Z
+pushed_at: 2026-11-06T03:05:18Z
 last_release:
-  tag: v0.54.0
-  published_at: 2026-10-23T17:10:06Z
-last_checked: 2026-11-05
+  tag: v0.54.1
+  published_at: 2026-11-05T22:55:06Z
+last_checked: 2026-11-06

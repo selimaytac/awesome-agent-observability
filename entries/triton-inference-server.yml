@@ -17,8 +17,8 @@ conventions: []
 otel_evidence: https://github.com/triton-inference-server/server/blob/main/docs/user_guide/trace.md
 stars: 11128
 archived: false
-pushed_at: 2026-11-04T22:56:56Z
+pushed_at: 2026-11-05T16:38:00Z
 last_release:
   tag: v2.74.0
   published_at: 2026-11-02T17:26:31Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

@@ -19,8 +19,8 @@ telemetry: otel
 telemetry_docs: https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/
 stars: 28738
 archived: false
-pushed_at: 2026-11-05T10:19:22Z
+pushed_at: 2026-11-05T15:52:16Z
 last_release:
   tag: python-1.47.0
   published_at: 2026-11-05T10:19:23Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

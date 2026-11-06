@@ -13,10 +13,10 @@ agent_types:
 license: MIT
 languages:
   - python
-stars: 3182
+stars: 3187
 archived: false
-pushed_at: 2026-11-05T10:47:42Z
+pushed_at: 2026-11-06T08:29:21Z
 last_release:
   tag: 0.3.287
   published_at: 2026-10-31T16:33:20Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

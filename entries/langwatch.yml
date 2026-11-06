@@ -18,8 +18,8 @@ otlp:
 otel_evidence: https://langwatch.ai/docs/integration/opentelemetry/guide
 stars: 5014
 archived: false
-pushed_at: 2026-11-05T10:56:54Z
+pushed_at: 2026-11-06T10:46:55Z
 last_release:
-  tag: v3.23.0
-  published_at: 2026-11-03T18:25:40Z
-last_checked: 2026-11-05
+  tag: langwatch-3.23.0
+  published_at: 2026-11-05T20:20:20Z
+last_checked: 2026-11-06

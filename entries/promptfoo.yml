@@ -13,10 +13,10 @@ license: MIT
 otlp:
   - ingest
 otel_evidence: https://www.promptfoo.dev/docs/tracing/
-stars: 26863
+stars: 26897
 archived: false
-pushed_at: 2026-11-05T10:20:14Z
+pushed_at: 2026-11-06T06:54:27Z
 last_release:
   tag: 0.125.1
   published_at: 2026-10-25T01:53:11Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

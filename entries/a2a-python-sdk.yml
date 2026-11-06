@@ -13,10 +13,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/a2aproject/a2a-python
-stars: 2228
+stars: 2233
 archived: false
-pushed_at: 2026-11-05T07:54:22Z
+pushed_at: 2026-11-05T15:02:51Z
 last_release:
   tag: v1.3.0
   published_at: 2026-10-27T10:06:31Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

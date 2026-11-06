@@ -13,10 +13,10 @@ license: MIT
 license_note: Each package of the monorepo has its own LICENSE file; the hardhat package is MIT.
 chains:
   - evm
-stars: 8522
+stars: 8521
 archived: false
-pushed_at: 2026-11-05T03:53:52Z
+pushed_at: 2026-11-06T09:54:31Z
 last_release:
   tag: hardhat@3.21.2
   published_at: 2026-10-29T18:32:30Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06

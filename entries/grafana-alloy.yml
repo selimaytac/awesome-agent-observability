@@ -17,10 +17,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://github.com/grafana/alloy
-stars: 3674
+stars: 3678
 archived: false
-pushed_at: 2026-11-05T09:23:42Z
+pushed_at: 2026-11-06T10:19:07Z
 last_release:
   tag: v1.21.3
   published_at: 2026-10-28T18:32:15Z
-last_checked: 2026-11-05
+last_checked: 2026-11-06
