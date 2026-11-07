@@ -13,8 +13,8 @@ languages:
   - go
 stars: 2439
 archived: false
-pushed_at: 2026-11-06T10:48:53Z
+pushed_at: 2026-11-06T19:38:52Z
 last_release:
   tag: v1.0.0-beta.236
   published_at: 2026-10-09T14:41:52Z
-last_checked: 2026-11-06
+last_checked: 2026-11-07

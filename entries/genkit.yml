@@ -15,10 +15,10 @@ otlp:
 otel_evidence: https://genkit.dev/docs/js/observability/advanced-configuration/
 telemetry: otel
 telemetry_docs: https://genkit.dev/docs/js/observability/advanced-configuration/
-stars: 6569
+stars: 6572
 archived: false
-pushed_at: 2026-11-05T21:54:34Z
+pushed_at: 2026-11-06T22:57:51Z
 last_release:
   tag: py/v0.13.0
   published_at: 2026-11-05T16:53:08Z
-last_checked: 2026-11-06
+last_checked: 2026-11-07

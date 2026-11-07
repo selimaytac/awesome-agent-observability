@@ -18,8 +18,8 @@ conventions:
 otel_evidence: https://github.com/aws-observability/aws-otel-python-instrumentation
 stars: 13
 archived: false
-pushed_at: 2026-11-06T06:43:21Z
+pushed_at: 2026-11-07T03:07:03Z
 last_release:
   tag: v0.22.0
   published_at: 2026-11-04T22:22:54Z
-last_checked: 2026-11-06
+last_checked: 2026-11-07

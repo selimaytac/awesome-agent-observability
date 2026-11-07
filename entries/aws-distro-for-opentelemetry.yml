@@ -18,8 +18,8 @@ otlp:
 otel_evidence: https://aws-otel.github.io/docs/introduction/
 stars: 758
 archived: false
-pushed_at: 2026-10-29T15:06:15Z
+pushed_at: 2026-11-06T19:48:10Z
 last_release:
   tag: v0.51.0
   published_at: 2026-10-29T15:54:10Z
-last_checked: 2026-11-06
+last_checked: 2026-11-07

@@ -8,10 +8,10 @@ added: 2026-10-20
 tags:
   - mcp
 license: Apache-2.0
-stars: 9402
+stars: 9420
 archived: false
-pushed_at: 2026-11-06T10:55:04Z
+pushed_at: 2026-11-07T07:36:49Z
 last_release:
-  tag: helm-chart-v2.1.48
-  published_at: 2026-11-06T08:42:50Z
-last_checked: 2026-11-06
+  tag: ent-v2.5.0-base
+  published_at: 2026-11-06T18:38:12Z
+last_checked: 2026-11-07
