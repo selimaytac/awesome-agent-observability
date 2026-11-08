@@ -16,10 +16,10 @@ conventions:
 otel_evidence: https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-observability
 telemetry: otel
 telemetry_docs: https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-observability
-stars: 14570
+stars: 14582
 archived: false
-pushed_at: 2026-11-06T21:59:54Z
+pushed_at: 2026-11-08T08:57:06Z
 last_release:
-  tag: dotnet-1.28.0
-  published_at: 2026-11-06T22:00:01Z
-last_checked: 2026-11-07
+  tag: python-1.25.0
+  published_at: 2026-11-07T15:52:42Z
+last_checked: 2026-11-08

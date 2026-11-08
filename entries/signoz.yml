@@ -16,10 +16,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://signoz.io/docs/llm/opentelemetry-openai-monitoring/
-stars: 32545
+stars: 32544
 archived: false
-pushed_at: 2026-11-07T10:15:47Z
+pushed_at: 2026-11-07T19:27:21Z
 last_release:
   tag: v0.149.0
   published_at: 2026-11-04T06:55:27Z
-last_checked: 2026-11-07
+last_checked: 2026-11-08

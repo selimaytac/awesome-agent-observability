@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://docs.temporal.io/develop/python/platform/observability
 telemetry: otel
 telemetry_docs: https://docs.temporal.io/develop/python/platform/observability
-stars: 1247
+stars: 1248
 archived: false
 pushed_at: 2026-11-07T01:21:38Z
 last_release:
   tag: 1.35.0
   published_at: 2026-10-28T20:16:01Z
-last_checked: 2026-11-07
+last_checked: 2026-11-08

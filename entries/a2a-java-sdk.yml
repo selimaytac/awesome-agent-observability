@@ -14,10 +14,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://github.com/a2aproject/a2a-java/blob/main/docs/content/dev/extra/opentelemetry.md
-stars: 511
+stars: 512
 archived: false
 pushed_at: 2026-11-06T13:05:54Z
 last_release:
   tag: v1.5.0.Final
   published_at: 2026-11-03T14:11:33Z
-last_checked: 2026-11-07
+last_checked: 2026-11-08
