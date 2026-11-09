@@ -16,8 +16,8 @@ otlp:
 otel_evidence: https://github.com/langfuse/langfuse-python
 stars: 508
 archived: false
-pushed_at: 2026-11-06T15:04:17Z
+pushed_at: 2026-11-09T06:02:55Z
 last_release:
   tag: v5.2.0
   published_at: 2026-11-05T09:53:54Z
-last_checked: 2026-11-08
+last_checked: 2026-11-09

@@ -10,10 +10,10 @@ tags:
   - metrics
 license: Apache-2.0
 hosting: self-hosted
-stars: 67528
+stars: 67579
 archived: false
-pushed_at: 2026-11-08T10:03:56Z
+pushed_at: 2026-11-09T10:33:39Z
 last_release:
   tag: v3.16.0
   published_at: 2026-11-05T16:06:52Z
-last_checked: 2026-11-08
+last_checked: 2026-11-09

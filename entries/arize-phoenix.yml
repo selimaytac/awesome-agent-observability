@@ -16,10 +16,10 @@ otlp:
 conventions:
   - openinference
 otel_evidence: https://github.com/Arize-ai/phoenix
-stars: 12201
+stars: 12211
 archived: false
-pushed_at: 2026-11-08T05:06:31Z
+pushed_at: 2026-11-09T09:54:29Z
 last_release:
   tag: "@arizeai/phoenix-cli@1.20.1"
   published_at: 2026-11-07T00:08:09Z
-last_checked: 2026-11-08
+last_checked: 2026-11-09

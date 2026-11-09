@@ -14,10 +14,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/traceloop/openllmetry
-stars: 7527
+stars: 7528
 archived: false
 pushed_at: 2026-11-05T16:26:50Z
 last_release:
   tag: 0.63.0
   published_at: 2026-11-05T10:08:57Z
-last_checked: 2026-11-08
+last_checked: 2026-11-09

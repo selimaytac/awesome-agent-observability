@@ -214,14 +214,14 @@
       "license": "Apache-2.0",
       "body": "A2A Project (Linux Foundation)",
       "version": "v1.0.1",
-      "stars": 26447,
+      "stars": 26460,
       "archived": false,
       "pushed_at": "2026-11-05T14:47:57Z",
       "last_release": {
         "tag": "v1.0.1",
         "published_at": "2026-05-28T11:34:36Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "oss"
@@ -304,14 +304,14 @@
       ],
       "otel_evidence": "https://arize-ai.github.io/openinference/spec/",
       "body": "Arize AI",
-      "stars": 1308,
+      "stars": 1311,
       "archived": false,
-      "pushed_at": "2026-11-06T22:49:34Z",
+      "pushed_at": "2026-11-09T01:16:09Z",
       "last_release": {
         "tag": "@arizeai/openinference-instrumentation-anthropic@1.0.1",
         "published_at": "2026-11-05T17:15:01Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -512,7 +512,7 @@
         "tag": "v1.45.0",
         "published_at": "2026-11-02T16:11:42Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss"
       ],
@@ -529,11 +529,11 @@
       "added": "2026-10-20",
       "body": "OpenTelemetry",
       "version": "development",
-      "stars": 527,
+      "stars": 528,
       "archived": false,
-      "pushed_at": "2026-11-07T23:49:51Z",
+      "pushed_at": "2026-11-09T03:46:58Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -552,12 +552,12 @@
       ],
       "stars": 521,
       "archived": false,
-      "pushed_at": "2026-11-08T06:30:01Z",
+      "pushed_at": "2026-11-09T07:21:57Z",
       "last_release": {
         "tag": "v0.28.0",
         "published_at": "2026-10-14T17:29:48Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "tracing"
@@ -654,7 +654,7 @@
         "tag": "v0.14.1",
         "published_at": "2026-09-28T23:14:02Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -685,12 +685,12 @@
       "otel_evidence": "https://github.com/aws-observability/aws-otel-python-instrumentation",
       "stars": 13,
       "archived": false,
-      "pushed_at": "2026-11-07T03:07:03Z",
+      "pushed_at": "2026-11-08T21:45:46Z",
       "last_release": {
         "tag": "v0.22.0",
         "published_at": "2026-11-04T22:22:54Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "aws",
         "genai-semconv",
@@ -721,7 +721,7 @@
         "tag": "axiom-v0.52.2",
         "published_at": "2026-05-12T19:10:57Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -747,12 +747,12 @@
       "otel_evidence": "https://github.com/elastic/elastic-otel-python",
       "stars": 16,
       "archived": false,
-      "pushed_at": "2026-11-08T02:31:27Z",
+      "pushed_at": "2026-11-09T02:31:45Z",
       "last_release": {
         "tag": "v1.19.0",
         "published_at": "2026-11-04T11:30:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -781,7 +781,7 @@
         "tag": "v2.7.0",
         "published_at": "2026-10-14T15:56:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -817,7 +817,7 @@
         "tag": "v1.8.1",
         "published_at": "2026-10-30T22:23:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "otlp",
@@ -849,7 +849,7 @@
         "tag": "v6.1.1",
         "published_at": "2026-11-02T09:56:53Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -878,12 +878,12 @@
       "otel_evidence": "https://github.com/langfuse/langfuse-python",
       "stars": 508,
       "archived": false,
-      "pushed_at": "2026-11-06T15:04:17Z",
+      "pushed_at": "2026-11-09T06:02:55Z",
       "last_release": {
         "tag": "v5.2.0",
         "published_at": "2026-11-05T09:53:54Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -910,14 +910,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/pydantic/logfire",
-      "stars": 4537,
+      "stars": 4541,
       "archived": false,
-      "pushed_at": "2026-11-07T22:08:26Z",
+      "pushed_at": "2026-11-09T10:48:04Z",
       "last_release": {
         "tag": "v5.5.0",
         "published_at": "2026-11-07T00:10:06Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -948,7 +948,7 @@
         "tag": "v3.14.20",
         "published_at": "2026-07-23T08:28:34Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python",
@@ -974,14 +974,14 @@
         "export"
       ],
       "otel_evidence": "https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai",
-      "stars": 3272,
+      "stars": 3273,
       "archived": false,
-      "pushed_at": "2026-11-06T15:44:30Z",
+      "pushed_at": "2026-11-09T05:03:55Z",
       "last_release": {
         "tag": "v10.11.0",
         "published_at": "2026-10-15T04:07:03Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "oss",
@@ -1017,7 +1017,7 @@
         "tag": "v0.8.16",
         "published_at": "2026-10-30T19:06:30Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -1045,7 +1045,7 @@
       "archived": false,
       "pushed_at": "2026-11-06T20:33:03Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp"
@@ -1074,14 +1074,14 @@
         "openinference"
       ],
       "otel_evidence": "https://github.com/Arize-ai/openinference",
-      "stars": 1308,
+      "stars": 1311,
       "archived": false,
-      "pushed_at": "2026-11-06T22:49:34Z",
+      "pushed_at": "2026-11-09T01:16:09Z",
       "last_release": {
         "tag": "@arizeai/openinference-instrumentation-anthropic@1.0.1",
         "published_at": "2026-11-05T17:15:01Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "java",
         "openinference",
@@ -1114,14 +1114,14 @@
         "genai-semconv"
       ],
       "otel_evidence": "https://github.com/openlit/openlit",
-      "stars": 2965,
+      "stars": 2970,
       "archived": false,
-      "pushed_at": "2026-11-07T21:04:23Z",
+      "pushed_at": "2026-11-09T10:34:28Z",
       "last_release": {
         "tag": "openlit-2.1.1",
         "published_at": "2026-10-26T10:17:17Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "genai-semconv",
@@ -1151,14 +1151,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/traceloop/openllmetry",
-      "stars": 7527,
+      "stars": 7528,
       "archived": false,
       "pushed_at": "2026-11-05T16:26:50Z",
       "last_release": {
         "tag": "0.63.0",
         "published_at": "2026-11-05T10:08:57Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1192,7 +1192,7 @@
         "tag": "traceloop-sdk/v0.1.3",
         "published_at": "2025-11-12T08:08:56Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "oss",
@@ -1226,7 +1226,7 @@
         "tag": "0.27.0",
         "published_at": "2026-05-29T13:06:26Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1257,7 +1257,7 @@
       "archived": false,
       "pushed_at": "2026-04-06T11:00:46Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1282,14 +1282,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-dotnet",
-      "stars": 3769,
+      "stars": 3770,
       "archived": false,
-      "pushed_at": "2026-11-06T15:02:12Z",
+      "pushed_at": "2026-11-09T11:27:12Z",
       "last_release": {
         "tag": "core-1.20.1",
         "published_at": "2026-10-20T11:41:13Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "oss",
@@ -1395,12 +1395,12 @@
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation",
       "stars": 624,
       "archived": false,
-      "pushed_at": "2026-11-08T10:07:43Z",
+      "pushed_at": "2026-11-09T07:11:37Z",
       "last_release": {
         "tag": "v1.0.0",
         "published_at": "2026-10-30T17:50:30Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1488,12 +1488,12 @@
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-go",
       "stars": 6600,
       "archived": false,
-      "pushed_at": "2026-11-08T02:59:31Z",
+      "pushed_at": "2026-11-09T11:34:46Z",
       "last_release": {
         "tag": "v1.47.0",
         "published_at": "2026-10-02T08:18:45Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "oss",
@@ -1526,7 +1526,7 @@
         "tag": "v1.68.0",
         "published_at": "2026-11-06T15:34:04Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "java",
         "oss",
@@ -1554,12 +1554,12 @@
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-java-instrumentation",
       "stars": 2667,
       "archived": false,
-      "pushed_at": "2026-11-08T07:12:46Z",
+      "pushed_at": "2026-11-09T10:32:54Z",
       "last_release": {
         "tag": "v2.33.1",
         "published_at": "2026-10-26T20:12:35Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "java",
         "oss",
@@ -1604,14 +1604,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-js",
-      "stars": 3516,
+      "stars": 3519,
       "archived": false,
       "pushed_at": "2026-11-06T21:49:05Z",
       "last_release": {
         "tag": "v3.1.0",
         "published_at": "2026-11-05T19:02:30Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1644,7 +1644,7 @@
         "tag": "instrumentation-browser-navigation-v0.18.0",
         "published_at": "2026-11-05T21:26:56Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1672,12 +1672,12 @@
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-python",
       "stars": 2703,
       "archived": false,
-      "pushed_at": "2026-11-07T19:37:10Z",
+      "pushed_at": "2026-11-08T10:56:59Z",
       "last_release": {
         "tag": "v1.45.2",
         "published_at": "2026-10-29T17:29:59Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1703,14 +1703,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-python-contrib",
-      "stars": 1125,
+      "stars": 1126,
       "archived": false,
-      "pushed_at": "2026-11-06T16:36:01Z",
+      "pushed_at": "2026-11-09T10:19:48Z",
       "last_release": {
         "tag": "v0.66b2",
         "published_at": "2026-10-29T17:38:58Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1738,12 +1738,12 @@
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-python-genai",
       "stars": 50,
       "archived": false,
-      "pushed_at": "2026-11-07T04:07:25Z",
+      "pushed_at": "2026-11-09T07:26:00Z",
       "last_release": {
         "tag": "opentelemetry-instrumentation-genai-langchain==1.3b0",
         "published_at": "2026-10-23T19:15:30Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -1799,7 +1799,7 @@
         "tag": "v0.15.0",
         "published_at": "2026-10-12T09:17:24Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "genai-semconv",
@@ -1832,7 +1832,7 @@
         "tag": "v2.13.3",
         "published_at": "2026-10-29T18:24:07Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -1863,14 +1863,14 @@
       "otel_evidence": "https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/",
-      "stars": 5052,
+      "stars": 5053,
       "archived": false,
-      "pushed_at": "2026-11-08T10:13:54Z",
+      "pushed_at": "2026-11-09T00:06:12Z",
       "last_release": {
         "tag": "v1.3.0",
         "published_at": "2026-11-04T09:21:14Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -1898,14 +1898,14 @@
       "otel_evidence": "https://doc.agentscope.io/tutorial/task_tracing.html",
       "telemetry": "otel",
       "telemetry_docs": "https://doc.agentscope.io/tutorial/task_tracing.html",
-      "stars": 35586,
+      "stars": 35667,
       "archived": false,
-      "pushed_at": "2026-11-04T10:09:19Z",
+      "pushed_at": "2026-11-09T10:22:20Z",
       "last_release": {
         "tag": "v2.0.11",
         "published_at": "2026-10-27T02:54:04Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -1935,14 +1935,14 @@
       "otel_evidence": "https://docs.agno.com/tracing/overview",
       "telemetry": "external",
       "telemetry_docs": "https://docs.agno.com/tracing/overview",
-      "stars": 43102,
+      "stars": 43116,
       "archived": false,
-      "pushed_at": "2026-11-06T22:07:31Z",
+      "pushed_at": "2026-11-09T10:56:29Z",
       "last_release": {
         "tag": "v3.1.12",
         "published_at": "2026-10-29T14:00:55Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -1975,14 +1975,14 @@
       "otel_evidence": "https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html",
       "telemetry": "otel",
       "telemetry_docs": "https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html",
-      "stars": 61748,
+      "stars": 61758,
       "archived": false,
       "pushed_at": "2026-10-28T14:45:27Z",
       "last_release": {
         "tag": "python-v0.7.5",
         "published_at": "2025-09-30T06:18:26Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "genai-semconv",
@@ -2016,14 +2016,14 @@
       "otel_evidence": "https://framework.beeai.dev/modules/observability",
       "telemetry": "external",
       "telemetry_docs": "https://framework.beeai.dev/modules/observability",
-      "stars": 3453,
+      "stars": 3455,
       "archived": false,
       "pushed_at": "2026-11-03T10:09:48Z",
       "last_release": {
         "tag": "typescript_v0.1.32",
         "published_at": "2026-11-02T18:31:22Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -2080,14 +2080,14 @@
       "otel_evidence": "https://docs.cline.bot/more-info/telemetry",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.cline.bot/more-info/telemetry",
-      "stars": 71457,
+      "stars": 71486,
       "archived": false,
-      "pushed_at": "2026-11-07T00:08:40Z",
+      "pushed_at": "2026-11-09T09:54:06Z",
       "last_release": {
         "tag": "v4.1.26",
         "published_at": "2026-10-26T09:06:50Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "oss",
@@ -2114,14 +2114,14 @@
       "otel_evidence": "https://docs.crewai.com/en/observability/tracing",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.crewai.com/en/observability/tracing",
-      "stars": 60636,
+      "stars": 60683,
       "archived": false,
-      "pushed_at": "2026-11-08T08:33:48Z",
+      "pushed_at": "2026-11-09T10:14:16Z",
       "last_release": {
-        "tag": "1.15.37",
-        "published_at": "2026-11-07T02:18:06Z"
+        "tag": "1.15.39",
+        "published_at": "2026-11-09T01:07:14Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -2149,14 +2149,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://github.com/langgenius/dify",
-      "stars": 160650,
+      "stars": 160741,
       "archived": false,
-      "pushed_at": "2026-11-08T09:45:38Z",
+      "pushed_at": "2026-11-09T11:37:00Z",
       "last_release": {
         "tag": "1.19.0",
         "published_at": "2026-11-04T07:36:16Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "python",
         "self-hosted"
@@ -2180,14 +2180,14 @@
       "conventions": "unknown",
       "telemetry": "own",
       "telemetry_docs": "https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/observability/index.md",
-      "stars": 38971,
+      "stars": 38983,
       "archived": false,
-      "pushed_at": "2026-11-07T22:38:13Z",
+      "pushed_at": "2026-11-08T23:16:02Z",
       "last_release": {
         "tag": "3.4.1",
         "published_at": "2026-10-12T23:12:32Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python",
@@ -2214,14 +2214,14 @@
       ],
       "telemetry": "unknown",
       "telemetry_docs": "https://docs.embabel.com/",
-      "stars": 4550,
+      "stars": 4552,
       "archived": false,
-      "pushed_at": "2026-11-08T03:47:37Z",
+      "pushed_at": "2026-11-09T11:08:09Z",
       "last_release": {
         "tag": "v1.5.4",
         "published_at": "2026-10-28T07:35:07Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "java",
         "oss"
@@ -2251,14 +2251,14 @@
       "otel_evidence": "https://geminicli.com/docs/cli/telemetry/",
       "telemetry": "otel",
       "telemetry_docs": "https://geminicli.com/docs/cli/telemetry/",
-      "stars": 108778,
+      "stars": 108801,
       "archived": false,
-      "pushed_at": "2026-11-08T01:08:20Z",
+      "pushed_at": "2026-11-09T01:05:59Z",
       "last_release": {
         "tag": "v0.67.0",
         "published_at": "2026-11-04T20:27:11Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "genai-semconv",
@@ -2289,14 +2289,14 @@
       "otel_evidence": "https://genkit.dev/docs/js/observability/advanced-configuration/",
       "telemetry": "otel",
       "telemetry_docs": "https://genkit.dev/docs/js/observability/advanced-configuration/",
-      "stars": 6573,
+      "stars": 6575,
       "archived": false,
       "pushed_at": "2026-11-08T04:47:49Z",
       "last_release": {
         "tag": "py/v0.13.0",
         "published_at": "2026-11-05T16:53:08Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "oss",
@@ -2349,14 +2349,14 @@
       "otel_evidence": "https://github.com/google/adk-js/blob/main/core/src/telemetry/setup.ts",
       "telemetry": "otel",
       "telemetry_docs": "https://github.com/google/adk-js/blob/main/core/src/telemetry/setup.ts",
-      "stars": 1470,
+      "stars": 1471,
       "archived": false,
       "pushed_at": "2026-11-06T21:37:41Z",
       "last_release": {
         "tag": "integrations-v2.4.0",
         "published_at": "2026-10-28T16:11:49Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -2385,14 +2385,14 @@
       "otel_evidence": "https://google.github.io/adk-docs/observability/traces/",
       "telemetry": "otel",
       "telemetry_docs": "https://google.github.io/adk-docs/observability/traces/",
-      "stars": 22140,
+      "stars": 22156,
       "archived": false,
-      "pushed_at": "2026-11-08T05:29:38Z",
+      "pushed_at": "2026-11-09T06:23:33Z",
       "last_release": {
         "tag": "v2.14.0",
         "published_at": "2026-11-07T00:58:18Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -2419,14 +2419,14 @@
       ],
       "telemetry": "external",
       "telemetry_docs": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30554,
+      "stars": 30594,
       "archived": false,
-      "pushed_at": "2026-10-10T22:03:53Z",
+      "pushed_at": "2026-11-09T11:06:26Z",
       "last_release": {
         "tag": "v3.7.0",
         "published_at": "2026-09-26T17:46:25Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -2453,14 +2453,14 @@
       "otel_evidence": "https://docs.haystack.deepset.ai/docs/tracing",
       "telemetry": "own",
       "telemetry_docs": "https://docs.haystack.deepset.ai/docs/tracing",
-      "stars": 26943,
+      "stars": 26947,
       "archived": false,
-      "pushed_at": "2026-11-07T02:11:09Z",
+      "pushed_at": "2026-11-09T11:05:34Z",
       "last_release": {
         "tag": "v3.4.1",
         "published_at": "2026-10-21T19:10:58Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -2489,7 +2489,7 @@
         "tag": "@inngest/agent-kit@0.13.2",
         "published_at": "2025-11-13T15:27:01Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -2515,14 +2515,14 @@
       "otel_evidence": "https://kagent.dev/docs/kagent/1.x/observability/tracing/",
       "telemetry": "otel",
       "telemetry_docs": "https://kagent.dev/docs/kagent/1.x/observability/tracing/",
-      "stars": 4186,
+      "stars": 4205,
       "archived": false,
-      "pushed_at": "2026-11-07T20:07:07Z",
+      "pushed_at": "2026-11-09T07:51:34Z",
       "last_release": {
         "tag": "v1.0.0-rc3",
         "published_at": "2026-11-06T16:18:31Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp"
@@ -2544,14 +2544,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://docs.langchain.com/oss/python/langchain/observability",
-      "stars": 149191,
+      "stars": 149255,
       "archived": false,
-      "pushed_at": "2026-11-08T08:15:55Z",
+      "pushed_at": "2026-11-09T08:20:32Z",
       "last_release": {
         "tag": "langchain-core==1.7.6",
         "published_at": "2026-11-05T00:22:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -2573,14 +2573,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://docs.langchain.com/oss/javascript/langchain/observability",
-      "stars": 18329,
+      "stars": 18333,
       "archived": false,
       "pushed_at": "2026-11-07T05:35:19Z",
       "last_release": {
         "tag": "@langchain/neo4j@0.1.31",
         "published_at": "2026-11-07T04:25:53Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -2610,14 +2610,14 @@
       "otel_evidence": "https://docs.langchain4j.dev/tutorials/observability/",
       "telemetry": "own",
       "telemetry_docs": "https://docs.langchain4j.dev/tutorials/observability/",
-      "stars": 13371,
+      "stars": 13377,
       "archived": false,
-      "pushed_at": "2026-11-06T18:13:39Z",
+      "pushed_at": "2026-11-09T10:06:30Z",
       "last_release": {
         "tag": "1.23.0",
         "published_at": "2026-10-28T16:54:13Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "java",
@@ -2640,14 +2640,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://docs.langchain.com/oss/python/langgraph/observability",
-      "stars": 44642,
+      "stars": 44684,
       "archived": false,
       "pushed_at": "2026-11-08T00:33:40Z",
       "last_release": {
         "tag": "sdk==0.4.14",
         "published_at": "2026-11-06T03:03:34Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -2674,14 +2674,14 @@
       "otel_evidence": "https://docs.livekit.io/testing/observability/tracing/",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.livekit.io/testing/observability/tracing/",
-      "stars": 15136,
+      "stars": 15153,
       "archived": false,
-      "pushed_at": "2026-11-08T01:41:55Z",
+      "pushed_at": "2026-11-09T10:56:08Z",
       "last_release": {
         "tag": "livekit-agents@1.8.11",
         "published_at": "2026-11-05T19:48:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -2704,14 +2704,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://developers.llamaindex.ai/python/framework/module_guides/observability/",
-      "stars": 52843,
+      "stars": 52857,
       "archived": false,
-      "pushed_at": "2026-11-06T22:58:11Z",
+      "pushed_at": "2026-11-08T21:41:55Z",
       "last_release": {
         "tag": "v0.14.25",
         "published_at": "2026-09-21T16:22:27Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -2738,14 +2738,14 @@
       "otel_evidence": "https://mastra.ai/docs/observability/tracing/overview",
       "telemetry": "own",
       "telemetry_docs": "https://mastra.ai/docs/observability/tracing/overview",
-      "stars": 29405,
+      "stars": 29427,
       "archived": false,
-      "pushed_at": "2026-11-08T06:43:26Z",
+      "pushed_at": "2026-11-09T11:36:13Z",
       "last_release": {
         "tag": "@mastra/core@1.82.0",
         "published_at": "2026-11-04T10:59:56Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "open-core",
         "oss",
@@ -2777,14 +2777,14 @@
       "otel_evidence": "https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-observability",
       "telemetry": "otel",
       "telemetry_docs": "https://learn.microsoft.com/en-us/agent-framework/user-guide/agents/agent-observability",
-      "stars": 14582,
+      "stars": 14602,
       "archived": false,
-      "pushed_at": "2026-11-08T08:57:06Z",
+      "pushed_at": "2026-11-09T11:18:19Z",
       "last_release": {
         "tag": "python-1.25.0",
         "published_at": "2026-11-07T15:52:42Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "genai-semconv",
@@ -2817,14 +2817,14 @@
       "otel_evidence": "https://docs.nvidia.com/nemo/agent-toolkit/latest/",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.nvidia.com/nemo/agent-toolkit/latest/",
-      "stars": 2693,
+      "stars": 2695,
       "archived": false,
       "pushed_at": "2026-11-06T21:57:30Z",
       "last_release": {
         "tag": "v1.9.0",
         "published_at": "2026-09-10T22:12:09Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -2858,14 +2858,14 @@
       "otel_evidence": "https://docs.openwebui.com/reference/monitoring/otel/",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.openwebui.com/reference/monitoring/otel/",
-      "stars": 158080,
+      "stars": 158181,
       "archived": false,
-      "pushed_at": "2026-11-08T10:07:13Z",
+      "pushed_at": "2026-11-09T09:55:49Z",
       "last_release": {
-        "tag": "v0.13.0",
-        "published_at": "2026-11-03T12:23:16Z"
+        "tag": "v0.13.3",
+        "published_at": "2026-11-08T23:48:24Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "otlp",
         "python",
@@ -2888,14 +2888,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://openai.github.io/openai-agents-js/guides/tracing/",
-      "stars": 3990,
+      "stars": 3996,
       "archived": false,
-      "pushed_at": "2026-11-08T10:21:38Z",
+      "pushed_at": "2026-11-09T11:31:00Z",
       "last_release": {
         "tag": "@openai/agents-extensions@0.21.0",
         "published_at": "2026-10-20T22:07:32Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -2917,14 +2917,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://openai.github.io/openai-agents-python/tracing/",
-      "stars": 30554,
+      "stars": 30571,
       "archived": false,
-      "pushed_at": "2026-11-08T10:21:07Z",
+      "pushed_at": "2026-11-09T11:07:48Z",
       "last_release": {
         "tag": "v0.24.0",
         "published_at": "2026-10-15T02:20:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -2951,14 +2951,14 @@
       "otel_evidence": "https://developers.openai.com/codex/config-advanced",
       "telemetry": "otel",
       "telemetry_docs": "https://developers.openai.com/codex/config-advanced",
-      "stars": 133619,
+      "stars": 134165,
       "archived": false,
-      "pushed_at": "2026-11-08T05:59:28Z",
+      "pushed_at": "2026-11-09T07:29:30Z",
       "last_release": {
         "tag": "rust-v0.167.0",
         "published_at": "2026-11-06T01:40:00Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "oss",
@@ -2990,14 +2990,14 @@
       "otel_evidence": "https://github.com/openclaw/openclaw/blob/main/docs/gateway/opentelemetry.md",
       "telemetry": "otel",
       "telemetry_docs": "https://github.com/openclaw/openclaw/blob/main/docs/gateway/opentelemetry.md",
-      "stars": 394171,
+      "stars": 394226,
       "archived": false,
-      "pushed_at": "2026-11-08T10:25:54Z",
+      "pushed_at": "2026-11-09T11:37:14Z",
       "last_release": {
-        "tag": "v2026.11.1",
-        "published_at": "2026-11-05T09:48:37Z"
+        "tag": "v2026.11.2",
+        "published_at": "2026-11-08T19:31:04Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -3029,14 +3029,14 @@
       "otel_evidence": "https://docs.pipecat.ai/api-reference/server/utilities/opentelemetry",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.pipecat.ai/api-reference/server/utilities/opentelemetry",
-      "stars": 17120,
+      "stars": 17148,
       "archived": false,
-      "pushed_at": "2026-11-08T00:09:05Z",
+      "pushed_at": "2026-11-09T02:57:16Z",
       "last_release": {
         "tag": "v1.15.0",
         "published_at": "2026-10-29T05:50:54Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -3067,14 +3067,14 @@
       "otel_evidence": "https://ai.pydantic.dev/logfire/",
       "telemetry": "otel",
       "telemetry_docs": "https://ai.pydantic.dev/logfire/",
-      "stars": 21086,
+      "stars": 21102,
       "archived": false,
-      "pushed_at": "2026-11-08T04:20:33Z",
+      "pushed_at": "2026-11-09T11:35:49Z",
       "last_release": {
         "tag": "v2.66.0",
         "published_at": "2026-11-04T11:51:46Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -3111,12 +3111,12 @@
       "telemetry_docs": "https://docs.quarkiverse.io/quarkus-langchain4j/dev/observability.html",
       "stars": 325,
       "archived": false,
-      "pushed_at": "2026-11-07T10:06:10Z",
+      "pushed_at": "2026-11-09T09:55:59Z",
       "last_release": {
         "tag": "1.15.0",
         "published_at": "2026-11-07T07:44:33Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "java",
@@ -3149,14 +3149,14 @@
       "otel_evidence": "https://rasa.com/docs/pro/improve/tracing",
       "telemetry": "otel",
       "telemetry_docs": "https://rasa.com/docs/pro/improve/tracing",
-      "stars": 21373,
+      "stars": 21376,
       "archived": false,
       "pushed_at": "2026-07-24T07:39:04Z",
       "last_release": {
         "tag": "3.6.21",
         "published_at": "2025-01-14T10:40:21Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -3186,14 +3186,14 @@
       "otel_evidence": "https://github.com/0xPlaygrounds/rig",
       "telemetry": "own",
       "telemetry_docs": "https://github.com/0xPlaygrounds/rig",
-      "stars": 9087,
+      "stars": 9099,
       "archived": false,
-      "pushed_at": "2026-11-08T09:30:53Z",
+      "pushed_at": "2026-11-09T10:53:50Z",
       "last_release": {
         "tag": "v0.46.0",
         "published_at": "2026-10-31T07:09:38Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -3225,14 +3225,14 @@
       "otel_evidence": "https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/",
       "telemetry": "otel",
       "telemetry_docs": "https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/",
-      "stars": 28746,
+      "stars": 28747,
       "archived": false,
       "pushed_at": "2026-11-07T00:59:55Z",
       "last_release": {
         "tag": "dotnet-1.82.0",
         "published_at": "2026-11-07T01:00:07Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "genai-semconv",
@@ -3265,14 +3265,14 @@
       "otel_evidence": "https://huggingface.co/docs/smolagents/tutorials/inspect_runs",
       "telemetry": "external",
       "telemetry_docs": "https://huggingface.co/docs/smolagents/tutorials/inspect_runs",
-      "stars": 30266,
+      "stars": 30274,
       "archived": false,
       "pushed_at": "2026-11-03T18:36:41Z",
       "last_release": {
         "tag": "v1.26.0",
         "published_at": "2026-05-29T05:09:47Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -3304,14 +3304,14 @@
       "otel_evidence": "https://docs.spring.io/spring-ai/reference/observability/index.html",
       "telemetry": "own",
       "telemetry_docs": "https://docs.spring.io/spring-ai/reference/observability/index.html",
-      "stars": 9623,
+      "stars": 9627,
       "archived": false,
       "pushed_at": "2026-11-06T10:01:50Z",
       "last_release": {
         "tag": "v2.0.2",
         "published_at": "2026-10-23T14:56:46Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "java",
@@ -3342,14 +3342,14 @@
       "otel_evidence": "https://strandsagents.com/docs/user-guide/sdk/observability-evaluation/traces/",
       "telemetry": "otel",
       "telemetry_docs": "https://strandsagents.com/docs/user-guide/sdk/observability-evaluation/traces/",
-      "stars": 9075,
+      "stars": 9084,
       "archived": false,
-      "pushed_at": "2026-11-07T21:54:09Z",
+      "pushed_at": "2026-11-09T08:00:22Z",
       "last_release": {
         "tag": "typescript/v1.24.0",
         "published_at": "2026-11-04T19:54:03Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -3382,14 +3382,14 @@
       "otel_evidence": "https://docs.temporal.io/develop/python/platform/observability",
       "telemetry": "otel",
       "telemetry_docs": "https://docs.temporal.io/develop/python/platform/observability",
-      "stars": 1248,
+      "stars": 1247,
       "archived": false,
       "pushed_at": "2026-11-07T01:21:38Z",
       "last_release": {
         "tag": "1.35.0",
         "published_at": "2026-10-28T20:16:01Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -3426,7 +3426,7 @@
         "tag": "v1.25.0",
         "published_at": "2026-10-27T18:32:22Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -3456,14 +3456,14 @@
       "otel_evidence": "https://ai-sdk.dev/docs/ai-sdk-core/telemetry",
       "telemetry": "otel",
       "telemetry_docs": "https://ai-sdk.dev/docs/ai-sdk-core/telemetry",
-      "stars": 27806,
+      "stars": 27827,
       "archived": false,
-      "pushed_at": "2026-11-08T07:18:17Z",
+      "pushed_at": "2026-11-09T02:57:28Z",
       "last_release": {
-        "tag": "@ai-sdk/zai@3.0.49",
-        "published_at": "2026-11-07T19:31:54Z"
+        "tag": "@ai-sdk/vue@3.0.326",
+        "published_at": "2026-11-09T02:57:49Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -3487,14 +3487,14 @@
       ],
       "telemetry": "own",
       "telemetry_docs": "https://voltagent.dev/observability-docs/",
-      "stars": 10930,
+      "stars": 10934,
       "archived": false,
       "pushed_at": "2026-11-06T14:57:04Z",
       "last_release": {
         "tag": "@voltagent/core@2.11.1",
         "published_at": "2026-11-04T16:38:41Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "typescript"
@@ -3534,14 +3534,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://github.com/a2aproject/a2a-java/blob/main/docs/content/dev/extra/opentelemetry.md",
-      "stars": 512,
+      "stars": 513,
       "archived": false,
-      "pushed_at": "2026-11-06T13:05:54Z",
+      "pushed_at": "2026-11-09T10:24:41Z",
       "last_release": {
         "tag": "v1.5.0.Final",
         "published_at": "2026-11-03T14:11:33Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "java",
@@ -3567,14 +3567,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/a2aproject/a2a-python",
-      "stars": 2234,
+      "stars": 2235,
       "archived": false,
-      "pushed_at": "2026-11-05T15:02:51Z",
+      "pushed_at": "2026-11-09T10:27:20Z",
       "last_release": {
         "tag": "v1.3.0",
         "published_at": "2026-10-27T10:06:31Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "oss",
@@ -3603,14 +3603,14 @@
       ],
       "conventions": "unknown",
       "otel_evidence": "https://github.com/ag-ui-protocol/ag-ui/blob/main/sdks/dotnet/docs/architecture.md",
-      "stars": 17062,
+      "stars": 17074,
       "archived": false,
       "pushed_at": "2026-11-08T04:33:23Z",
       "last_release": {
         "tag": "release/2026-11-06",
         "published_at": "2026-11-06T12:19:19Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "oss",
@@ -3637,7 +3637,7 @@
       "archived": false,
       "pushed_at": "2026-11-06T20:32:15Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss",
@@ -3663,14 +3663,14 @@
         "export"
       ],
       "otel_evidence": "https://gofastmcp.com/servers/telemetry",
-      "stars": 28341,
+      "stars": 28358,
       "archived": false,
-      "pushed_at": "2026-11-08T10:14:49Z",
+      "pushed_at": "2026-11-09T11:15:37Z",
       "last_release": {
         "tag": "v4.1.6",
         "published_at": "2026-11-03T02:52:59Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss",
@@ -3699,7 +3699,7 @@
         "tag": "v0.23.0",
         "published_at": "2026-11-04T03:57:48Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss"
@@ -3719,14 +3719,14 @@
         "devops"
       ],
       "license": "Apache-2.0",
-      "stars": 3647,
+      "stars": 3654,
       "archived": false,
-      "pushed_at": "2026-11-06T20:54:19Z",
+      "pushed_at": "2026-11-09T11:37:36Z",
       "last_release": {
         "tag": "v2.2.0",
         "published_at": "2026-11-02T13:00:31Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss"
@@ -3758,7 +3758,7 @@
         "tag": "v0.1.1",
         "published_at": "2026-08-19T17:51:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss",
@@ -3787,14 +3787,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://github.com/modelcontextprotocol/csharp-sdk/blob/main/samples/AspNetCoreMcpServer/README.md",
-      "stars": 4621,
+      "stars": 4624,
       "archived": false,
-      "pushed_at": "2026-11-07T04:18:06Z",
+      "pushed_at": "2026-11-09T06:37:52Z",
       "last_release": {
         "tag": "v2.4.0",
         "published_at": "2026-11-07T04:18:06Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "mcp",
@@ -3816,14 +3816,14 @@
       "languages": [
         "python"
       ],
-      "stars": 24800,
+      "stars": 24809,
       "archived": false,
       "pushed_at": "2026-11-05T13:38:56Z",
       "last_release": {
         "tag": "v2.3.0",
         "published_at": "2026-10-02T22:02:27Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss",
@@ -3845,14 +3845,14 @@
       "languages": [
         "typescript"
       ],
-      "stars": 13730,
+      "stars": 13736,
       "archived": false,
       "pushed_at": "2026-11-05T15:00:35Z",
       "last_release": {
         "tag": "v2.4.0",
         "published_at": "2026-10-23T18:32:25Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss",
@@ -3882,7 +3882,7 @@
         "tag": "0.2.2",
         "published_at": "2026-02-08T12:38:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss"
@@ -3904,12 +3904,12 @@
       "license": "Apache-2.0",
       "stars": 132,
       "archived": false,
-      "pushed_at": "2026-11-07T03:52:31Z",
+      "pushed_at": "2026-11-09T07:57:41Z",
       "last_release": {
         "tag": "v0.18.0",
         "published_at": "2026-11-05T13:35:45Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss"
@@ -3942,7 +3942,7 @@
         "tag": "v1.112.0",
         "published_at": "2026-11-04T17:20:03Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "logs",
@@ -3971,12 +3971,12 @@
       "otel_evidence": "https://github.com/Dynatrace/dynatrace-otel-collector",
       "stars": 45,
       "archived": false,
-      "pushed_at": "2026-11-08T02:45:44Z",
+      "pushed_at": "2026-11-09T08:51:51Z",
       "last_release": {
         "tag": "v0.60.0",
         "published_at": "2026-11-02T10:39:23Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -4000,14 +4000,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://docs.fluentbit.io/manual/data-pipeline/inputs/opentelemetry",
-      "stars": 8184,
+      "stars": 8185,
       "archived": false,
-      "pushed_at": "2026-11-08T09:48:21Z",
+      "pushed_at": "2026-11-09T07:14:49Z",
       "last_release": {
-        "tag": "v5.1.5",
-        "published_at": "2026-10-21T14:34:35Z"
+        "tag": "v5.2.0",
+        "published_at": "2026-11-09T04:04:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -4036,14 +4036,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://github.com/grafana/alloy",
-      "stars": 3678,
+      "stars": 3682,
       "archived": false,
-      "pushed_at": "2026-11-06T20:55:02Z",
+      "pushed_at": "2026-11-09T10:53:04Z",
       "last_release": {
         "tag": "v1.21.3",
         "published_at": "2026-10-28T18:32:15Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "logs",
@@ -4070,14 +4070,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-collector",
-      "stars": 7741,
+      "stars": 7744,
       "archived": false,
-      "pushed_at": "2026-11-07T00:17:40Z",
+      "pushed_at": "2026-11-09T11:04:22Z",
       "last_release": {
         "tag": "v0.165.0",
         "published_at": "2026-11-06T23:42:20Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -4101,14 +4101,14 @@
         "export"
       ],
       "otel_evidence": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
-      "stars": 5040,
+      "stars": 5042,
       "archived": false,
-      "pushed_at": "2026-11-08T06:47:23Z",
+      "pushed_at": "2026-11-09T09:33:27Z",
       "last_release": {
         "tag": "v0.165.0",
         "published_at": "2026-11-07T02:04:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -4140,7 +4140,7 @@
         "tag": "v1.15.0",
         "published_at": "2026-08-19T21:37:42Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "gcp",
         "oss",
@@ -4248,12 +4248,12 @@
       ],
       "stars": 408,
       "archived": false,
-      "pushed_at": "2026-11-07T03:47:32Z",
+      "pushed_at": "2026-11-09T10:52:20Z",
       "last_release": {
         "tag": "v3.4.4",
         "published_at": "2026-10-23T14:39:53Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "oss",
@@ -4280,14 +4280,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://vector.dev/docs/reference/configuration/sources/opentelemetry/",
-      "stars": 22817,
+      "stars": 22823,
       "archived": false,
-      "pushed_at": "2026-11-08T09:07:27Z",
+      "pushed_at": "2026-11-09T10:15:08Z",
       "last_release": {
         "tag": "v0.61.0",
         "published_at": "2026-10-29T16:51:24Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -4309,14 +4309,14 @@
       "license": "MIT",
       "license_note": "Directories named ee/ use a separate license.",
       "hosting": "self-hosted",
-      "stars": 4891,
+      "stars": 4898,
       "archived": false,
-      "pushed_at": "2026-11-08T08:42:30Z",
+      "pushed_at": "2026-11-09T10:49:25Z",
       "last_release": {
         "tag": "v0.128.11",
         "published_at": "2026-11-07T12:27:44Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "open-core",
@@ -4348,7 +4348,7 @@
         "tag": "0.4.21",
         "published_at": "2025-08-29T06:36:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "oss",
@@ -4406,14 +4406,14 @@
         "openinference"
       ],
       "otel_evidence": "https://github.com/Arize-ai/phoenix",
-      "stars": 12201,
+      "stars": 12211,
       "archived": false,
-      "pushed_at": "2026-11-08T05:06:31Z",
+      "pushed_at": "2026-11-09T09:54:29Z",
       "last_release": {
         "tag": "@arizeai/phoenix-cli@1.20.1",
         "published_at": "2026-11-07T00:08:09Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "openinference",
@@ -4441,12 +4441,12 @@
       "otlp": "unknown",
       "stars": 30,
       "archived": false,
-      "pushed_at": "2026-11-07T02:22:03Z",
+      "pushed_at": "2026-11-09T11:14:27Z",
       "last_release": {
         "tag": "braintrust@3.43.0",
         "published_at": "2026-11-05T19:44:19Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "saas",
@@ -4498,14 +4498,14 @@
       ],
       "conventions": "unknown",
       "otel_evidence": "https://github.com/evidentlyai/evidently/blob/main/src/evidently/ui/service/tracing/api.py",
-      "stars": 8050,
+      "stars": 8051,
       "archived": false,
       "pushed_at": "2026-09-29T08:32:43Z",
       "last_release": {
         "tag": "v0.7.23",
         "published_at": "2026-09-11T09:01:51Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "metrics",
@@ -4576,14 +4576,14 @@
       "license": "Apache-2.0",
       "hosting": "both",
       "otlp": "unknown",
-      "stars": 6273,
+      "stars": 6274,
       "archived": false,
       "pushed_at": "2026-10-28T15:59:52Z",
       "last_release": {
         "tag": "v2025.08.21-1",
         "published_at": "2025-08-21T18:47:38Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "logs",
@@ -4633,14 +4633,14 @@
         "ingest"
       ],
       "otel_evidence": "https://github.com/lmnr-ai/lmnr",
-      "stars": 3478,
+      "stars": 3480,
       "archived": false,
-      "pushed_at": "2026-11-07T00:33:24Z",
+      "pushed_at": "2026-11-09T11:34:59Z",
       "last_release": {
         "tag": "v0.3.3",
         "published_at": "2026-11-02T10:30:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -4669,14 +4669,14 @@
         "ingest"
       ],
       "otel_evidence": "https://langfuse.com/docs/opentelemetry/get-started",
-      "stars": 37140,
+      "stars": 37185,
       "archived": false,
-      "pushed_at": "2026-11-08T10:16:05Z",
+      "pushed_at": "2026-11-09T11:28:10Z",
       "last_release": {
         "tag": "v4.76.0",
         "published_at": "2026-11-05T18:08:03Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "open-core",
@@ -4737,7 +4737,7 @@
         "tag": "4.0.11",
         "published_at": "2025-04-17T23:33:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otel-native",
@@ -4765,14 +4765,14 @@
         "ingest"
       ],
       "otel_evidence": "https://langwatch.ai/docs/integration/opentelemetry/guide",
-      "stars": 5017,
+      "stars": 5019,
       "archived": false,
-      "pushed_at": "2026-11-08T09:22:32Z",
+      "pushed_at": "2026-11-09T11:36:27Z",
       "last_release": {
         "tag": "langwatch-3.23.0",
         "published_at": "2026-11-05T20:20:20Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "open-core",
@@ -4800,14 +4800,14 @@
         "ingest"
       ],
       "otel_evidence": "https://github.com/latitude-dev/latitude-llm",
-      "stars": 4746,
+      "stars": 4747,
       "archived": false,
-      "pushed_at": "2026-11-06T07:13:42Z",
+      "pushed_at": "2026-11-09T11:05:31Z",
       "last_release": {
         "tag": "cli-7.18.0",
         "published_at": "2026-10-27T12:48:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -4833,7 +4833,7 @@
       "archived": false,
       "pushed_at": "2026-04-08T18:50:12Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "saas"
       ],
@@ -4879,14 +4879,14 @@
         "genai-semconv"
       ],
       "otel_evidence": "https://mlflow.org/docs/latest/genai/tracing/",
-      "stars": 28723,
+      "stars": 28731,
       "archived": false,
-      "pushed_at": "2026-11-08T10:26:09Z",
+      "pushed_at": "2026-11-09T11:30:16Z",
       "last_release": {
         "tag": "v3.18.0",
         "published_at": "2026-11-04T06:51:02Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "genai-semconv",
@@ -4914,14 +4914,14 @@
         "ingest"
       ],
       "otel_evidence": "https://github.com/comet-ml/opik",
-      "stars": 23256,
+      "stars": 23278,
       "archived": false,
-      "pushed_at": "2026-11-07T02:36:50Z",
+      "pushed_at": "2026-11-09T08:16:13Z",
       "last_release": {
         "tag": "2.2.143",
         "published_at": "2026-11-06T08:48:18Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -4993,7 +4993,7 @@
         "tag": "v0.54.1",
         "published_at": "2026-11-05T22:55:06Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -5375,14 +5375,14 @@
         "ingest"
       ],
       "otel_evidence": "https://signoz.io/docs/llm/opentelemetry-openai-monitoring/",
-      "stars": 32544,
+      "stars": 32556,
       "archived": false,
-      "pushed_at": "2026-11-07T19:27:21Z",
+      "pushed_at": "2026-11-09T11:35:49Z",
       "last_release": {
         "tag": "v0.149.0",
         "published_at": "2026-11-04T06:55:27Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "open-core",
         "oss",
@@ -5494,7 +5494,7 @@
       "archived": false,
       "pushed_at": "2026-05-22T19:30:56Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "metrics",
@@ -5526,7 +5526,7 @@
       "archived": false,
       "pushed_at": "2026-03-05T03:06:32Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "metrics",
@@ -5546,14 +5546,14 @@
       "added": "2026-10-20",
       "license": "AGPL-3.0",
       "hosting": "both",
-      "stars": 77760,
+      "stars": 77783,
       "archived": false,
-      "pushed_at": "2026-11-08T08:32:44Z",
+      "pushed_at": "2026-11-09T11:31:42Z",
       "last_release": {
         "tag": "v13.3.0",
         "published_at": "2026-10-27T11:08:50Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -5579,14 +5579,14 @@
         "ingest"
       ],
       "otel_evidence": "https://grafana.com/docs/tempo/latest/",
-      "stars": 5564,
+      "stars": 5566,
       "archived": false,
-      "pushed_at": "2026-11-08T02:09:11Z",
+      "pushed_at": "2026-11-09T11:15:36Z",
       "last_release": {
         "tag": "v3.1.1",
         "published_at": "2026-10-21T17:02:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -5612,14 +5612,14 @@
         "ingest"
       ],
       "otel_evidence": "https://github.com/jaegertracing/jaeger",
-      "stars": 23386,
+      "stars": 23389,
       "archived": false,
-      "pushed_at": "2026-11-07T18:28:36Z",
+      "pushed_at": "2026-11-09T04:14:15Z",
       "last_release": {
         "tag": "v2.23.0",
         "published_at": "2026-11-05T06:31:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -5644,14 +5644,14 @@
         "ingest"
       ],
       "otel_evidence": "https://github.com/openobserve/openobserve",
-      "stars": 22900,
+      "stars": 22948,
       "archived": false,
-      "pushed_at": "2026-11-08T10:25:15Z",
+      "pushed_at": "2026-11-09T11:29:05Z",
       "last_release": {
         "tag": "v1.2.0-rc1",
         "published_at": "2026-11-04T12:34:57Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -5675,14 +5675,14 @@
       "added": "2026-10-20",
       "license": "Apache-2.0",
       "hosting": "self-hosted",
-      "stars": 67528,
+      "stars": 67579,
       "archived": false,
-      "pushed_at": "2026-11-08T10:03:56Z",
+      "pushed_at": "2026-11-09T10:33:39Z",
       "last_release": {
         "tag": "v3.16.0",
         "published_at": "2026-11-05T16:06:52Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -5713,7 +5713,7 @@
         "tag": "v2.1.0-rc.2",
         "published_at": "2026-10-22T09:12:02Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -5832,7 +5832,7 @@
         "tag": "v0.51.0",
         "published_at": "2026-10-29T15:54:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "aws",
         "oss",
@@ -6023,14 +6023,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://docs.bentoml.com/en/latest/build-with-bentoml/observability/tracing.html",
-      "stars": 8934,
+      "stars": 8935,
       "archived": false,
       "pushed_at": "2026-11-02T17:14:27Z",
       "last_release": {
         "tag": "v1.4.40",
         "published_at": "2026-10-23T19:51:33Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -6052,14 +6052,14 @@
       "added": "2026-10-20",
       "docs_url": "https://github.com/kserve/kserve/blob/master/docs/samples/metrics-and-monitoring/README.md",
       "license": "Apache-2.0",
-      "stars": 6199,
+      "stars": 6204,
       "archived": false,
       "pushed_at": "2026-11-06T18:36:41Z",
       "last_release": {
         "tag": "v0.21.0",
         "published_at": "2026-09-25T17:04:20Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -6079,14 +6079,14 @@
       "added": "2026-10-20",
       "repo_url": "https://github.com/ggml-org/llama.cpp",
       "license": "MIT",
-      "stars": 133702,
+      "stars": 133800,
       "archived": false,
-      "pushed_at": "2026-11-08T10:15:32Z",
+      "pushed_at": "2026-11-09T11:37:35Z",
       "last_release": {
         "tag": "v0.9.0",
         "published_at": "2026-11-04T13:08:06Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss"
@@ -6105,14 +6105,14 @@
       "added": "2026-10-20",
       "docs_url": "https://github.com/llm-d/llm-d/tree/main/docs/operations/observability",
       "license": "Apache-2.0",
-      "stars": 5173,
+      "stars": 5187,
       "archived": false,
-      "pushed_at": "2026-11-08T10:12:11Z",
+      "pushed_at": "2026-11-09T10:24:39Z",
       "last_release": {
         "tag": "v1.0.0",
         "published_at": "2026-10-20T02:30:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -6135,14 +6135,14 @@
       "languages": [
         "python"
       ],
-      "stars": 8136,
+      "stars": 8135,
       "archived": false,
       "pushed_at": "2026-11-06T11:25:02Z",
       "last_release": {
         "tag": "v0.18.0",
         "published_at": "2026-09-28T07:04:58Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -6167,14 +6167,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://github.com/ai-dynamo/dynamo/blob/main/docs/fern/pages/kubernetes/operations/observability.mdx",
-      "stars": 8455,
+      "stars": 8461,
       "archived": false,
-      "pushed_at": "2026-11-08T09:34:46Z",
+      "pushed_at": "2026-11-09T11:36:24Z",
       "last_release": {
         "tag": "v1.6.2",
         "published_at": "2026-11-05T22:11:38Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -6195,14 +6195,14 @@
       "added": "2026-10-20",
       "docs_url": "https://docs.sglang.io/docs/references/production_metrics",
       "license": "Apache-2.0",
-      "stars": 38573,
+      "stars": 38610,
       "archived": false,
-      "pushed_at": "2026-11-08T10:17:51Z",
+      "pushed_at": "2026-11-09T11:28:23Z",
       "last_release": {
         "tag": "v0.5.23",
         "published_at": "2026-11-02T22:14:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss"
@@ -6226,14 +6226,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://github.com/triton-inference-server/server/blob/main/docs/user_guide/trace.md",
-      "stars": 11131,
+      "stars": 11135,
       "archived": false,
       "pushed_at": "2026-11-05T16:38:00Z",
       "last_release": {
         "tag": "v2.74.0",
         "published_at": "2026-11-02T17:26:31Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss",
@@ -6254,14 +6254,14 @@
       "added": "2026-10-20",
       "docs_url": "https://docs.vllm.ai/en/latest/usage/metrics/",
       "license": "Apache-2.0",
-      "stars": 96542,
+      "stars": 96592,
       "archived": false,
-      "pushed_at": "2026-11-08T10:07:15Z",
+      "pushed_at": "2026-11-09T11:02:11Z",
       "last_release": {
         "tag": "v0.33.0rc3",
         "published_at": "2026-11-02T10:10:05Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "oss"
@@ -6286,14 +6286,14 @@
         "openinference"
       ],
       "otel_evidence": "https://theagentrouter.ai/docs/capabilities/observability/",
-      "stars": 2368,
+      "stars": 2372,
       "archived": false,
-      "pushed_at": "2026-11-06T16:25:11Z",
+      "pushed_at": "2026-11-08T19:39:01Z",
       "last_release": {
         "tag": "v1.2.1",
         "published_at": "2026-11-06T16:24:47Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "metrics",
@@ -6318,14 +6318,14 @@
         "export"
       ],
       "otel_evidence": "https://agentgateway.dev/docs/standalone/latest/observability/",
-      "stars": 6033,
+      "stars": 6057,
       "archived": false,
-      "pushed_at": "2026-11-08T08:23:11Z",
+      "pushed_at": "2026-11-09T08:27:48Z",
       "last_release": {
         "tag": "v1.7.0",
         "published_at": "2026-10-27T17:18:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "mcp",
@@ -6365,14 +6365,14 @@
       "category": "gateways",
       "added": "2026-10-20",
       "license": "Apache-2.0",
-      "stars": 9432,
+      "stars": 9447,
       "archived": false,
-      "pushed_at": "2026-11-08T09:42:36Z",
+      "pushed_at": "2026-11-09T11:16:20Z",
       "last_release": {
         "tag": "ent-v2.5.0-base",
         "published_at": "2026-11-06T18:38:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "mcp",
         "oss"
@@ -6430,14 +6430,14 @@
       "added": "2026-10-20",
       "license": "Apache-2.0",
       "hosting": "self-hosted",
-      "stars": 3133,
+      "stars": 3135,
       "archived": false,
-      "pushed_at": "2026-11-07T23:06:55Z",
+      "pushed_at": "2026-11-08T23:55:40Z",
       "last_release": {
         "tag": "v1.10.0",
         "published_at": "2026-11-06T11:48:01Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "self-hosted"
@@ -6459,11 +6459,11 @@
         "export"
       ],
       "otel_evidence": "https://github.com/Helicone/ai-gateway",
-      "stars": 643,
+      "stars": 644,
       "archived": false,
       "pushed_at": "2025-11-21T01:25:55Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp",
@@ -6491,14 +6491,14 @@
         "export"
       ],
       "otel_evidence": "https://ibm.github.io/mcp-context-forge/manage/observability/",
-      "stars": 4770,
+      "stars": 4779,
       "archived": false,
-      "pushed_at": "2026-11-08T02:53:49Z",
+      "pushed_at": "2026-11-09T11:37:10Z",
       "last_release": {
         "tag": "v1.1.0",
         "published_at": "2026-10-20T17:31:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "mcp",
@@ -6547,14 +6547,14 @@
         "export"
       ],
       "otel_evidence": "https://docs.litellm.ai/docs/observability/opentelemetry_integration",
-      "stars": 62896,
+      "stars": 62962,
       "archived": false,
-      "pushed_at": "2026-11-08T10:17:16Z",
+      "pushed_at": "2026-11-09T11:36:35Z",
       "last_release": {
         "tag": "v1.108.3",
         "published_at": "2026-11-07T22:29:58Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "open-core",
@@ -6601,14 +6601,14 @@
       "license": "MIT",
       "hosting": "both",
       "otlp": "unknown",
-      "stars": 13342,
+      "stars": 13353,
       "archived": false,
       "pushed_at": "2026-05-25T13:54:51Z",
       "last_release": {
         "tag": "v1.15.2",
         "published_at": "2026-01-12T08:46:07Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "oss",
@@ -6641,7 +6641,7 @@
         "tag": "0.10.1",
         "published_at": "2026-07-15T11:46:36Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp"
@@ -6680,14 +6680,14 @@
         "python",
         "typescript"
       ],
-      "stars": 1073,
+      "stars": 1076,
       "archived": false,
       "pushed_at": "2026-10-30T18:00:29Z",
       "last_release": {
         "tag": "py-0.4.1",
         "published_at": "2026-10-21T01:36:41Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6712,14 +6712,14 @@
       ],
       "otlp": "unknown",
       "otel_evidence": "https://docs.confident-ai.com/",
-      "stars": 19363,
+      "stars": 19381,
       "archived": false,
       "pushed_at": "2026-11-07T21:30:17Z",
       "last_release": {
         "tag": "python-v4.2.4",
         "published_at": "2026-09-22T16:36:00Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6745,14 +6745,14 @@
       "languages": [
         "python"
       ],
-      "stars": 3204,
+      "stars": 3207,
       "archived": false,
-      "pushed_at": "2026-11-08T09:27:52Z",
+      "pushed_at": "2026-11-09T11:22:28Z",
       "last_release": {
         "tag": "0.3.288",
         "published_at": "2026-11-07T01:13:21Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6789,14 +6789,14 @@
         "ingest"
       ],
       "otel_evidence": "https://www.promptfoo.dev/docs/tracing/",
-      "stars": 26950,
+      "stars": 26981,
       "archived": false,
-      "pushed_at": "2026-11-08T10:24:12Z",
+      "pushed_at": "2026-11-09T08:08:12Z",
       "last_release": {
         "tag": "0.125.1",
         "published_at": "2026-10-25T01:53:11Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6821,14 +6821,14 @@
       ],
       "otlp": "unknown",
       "conventions": "unknown",
-      "stars": 16259,
+      "stars": 16265,
       "archived": false,
       "pushed_at": "2026-02-24T07:47:19Z",
       "last_release": {
         "tag": "v0.4.3",
         "published_at": "2026-01-13T17:47:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6852,14 +6852,14 @@
       ],
       "otlp": "unknown",
       "otel_evidence": "https://www.trulens.org/",
-      "stars": 3630,
+      "stars": 3632,
       "archived": false,
       "pushed_at": "2026-11-06T20:05:52Z",
       "last_release": {
         "tag": "trulens-2.16.0",
         "published_at": "2026-10-19T17:17:18Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "oss",
@@ -6899,14 +6899,14 @@
       "languages": [
         "typescript"
       ],
-      "stars": 19361,
+      "stars": 19371,
       "archived": false,
-      "pushed_at": "2026-11-08T05:47:30Z",
+      "pushed_at": "2026-11-09T03:14:38Z",
       "last_release": {
         "tag": "v20.0.48",
         "published_at": "2026-11-02T18:22:40Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "cost",
@@ -6943,14 +6943,14 @@
         "python",
         "typescript"
       ],
-      "stars": 410,
+      "stars": 412,
       "archived": false,
-      "pushed_at": "2026-11-08T00:47:11Z",
+      "pushed_at": "2026-11-09T08:35:10Z",
       "last_release": {
         "tag": "v0.2.1",
         "published_at": "2026-10-30T14:15:39Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "oss",
@@ -7069,7 +7069,7 @@
         "tag": "v1.0.0",
         "published_at": "2026-05-14T14:08:29Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "metrics",
@@ -7106,14 +7106,14 @@
       "languages": [
         "go"
       ],
-      "stars": 2440,
+      "stars": 2441,
       "archived": false,
-      "pushed_at": "2026-11-07T15:23:09Z",
+      "pushed_at": "2026-11-09T11:36:23Z",
       "last_release": {
         "tag": "v1.0.0-beta.236",
         "published_at": "2026-10-09T14:41:52Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "cost",
         "go",
@@ -7151,14 +7151,14 @@
         "coding"
       ],
       "license": "MIT",
-      "stars": 5810,
+      "stars": 5816,
       "archived": false,
       "pushed_at": "2026-11-06T03:20:22Z",
       "last_release": {
         "tag": "v4.21.0",
         "published_at": "2026-11-02T08:24:43Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "coding-agents",
         "cost",
@@ -7187,14 +7187,14 @@
       ],
       "conventions": [],
       "otel_evidence": "https://docs.openlit.io/latest/sdk/integrations/agent-governance-toolkit",
-      "stars": 6536,
+      "stars": 6545,
       "archived": false,
-      "pushed_at": "2026-11-07T20:50:20Z",
+      "pushed_at": "2026-11-09T08:40:02Z",
       "last_release": {
         "tag": "v4.1.0",
         "published_at": "2026-06-09T23:11:52Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "dotnet",
         "metrics",
@@ -7241,12 +7241,12 @@
       "otel_evidence": "https://github.com/arthur-ai/arthur-engine",
       "stars": 93,
       "archived": false,
-      "pushed_at": "2026-11-08T05:10:36Z",
+      "pushed_at": "2026-11-09T01:43:27Z",
       "last_release": {
-        "tag": "2.1.1078",
-        "published_at": "2026-10-28T22:57:51Z"
+        "tag": "2.1.1104",
+        "published_at": "2026-11-08T15:57:12Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "evals",
         "openinference",
@@ -7295,14 +7295,14 @@
         "openinference"
       ],
       "otel_evidence": "https://arize.com/docs/ax/integrations/python-agent-frameworks/guardrails-ai/guardrails-ai-tracing",
-      "stars": 7587,
+      "stars": 7588,
       "archived": false,
       "pushed_at": "2026-11-05T03:27:52Z",
       "last_release": {
         "tag": "v0.11.0",
         "published_at": "2026-08-14T14:22:32Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "openinference",
         "oss",
@@ -7367,14 +7367,14 @@
         "genai-semconv"
       ],
       "otel_evidence": "https://docs.nvidia.com/nemo/guardrails/latest/user-guides/tracing/index.html",
-      "stars": 7452,
+      "stars": 7457,
       "archived": false,
       "pushed_at": "2026-11-07T02:47:40Z",
       "last_release": {
         "tag": "v0.24.1",
         "published_at": "2026-09-16T17:15:59Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "genai-semconv",
         "oss",
@@ -7399,7 +7399,7 @@
       "archived": false,
       "pushed_at": "2026-11-04T14:06:47Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss"
       ],
@@ -7509,7 +7509,7 @@
         "tag": "@hashspan/faults@0.2.0",
         "published_at": "2026-10-21T09:19:24Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "on-chain",
@@ -7566,7 +7566,7 @@
         "tag": "v0.1.0",
         "published_at": "2025-09-16T12:43:57Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "a2a",
         "on-chain",
@@ -7613,7 +7613,7 @@
       "archived": false,
       "pushed_at": "2026-07-18T04:51:51Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "payments",
@@ -7637,14 +7637,14 @@
       ],
       "license": "Apache-2.0",
       "body": "google-agentic-commerce",
-      "stars": 3267,
+      "stars": 3268,
       "archived": false,
       "pushed_at": "2026-06-17T01:24:46Z",
       "last_release": {
         "tag": "v0.2.0",
         "published_at": "2026-04-28T12:40:54Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "payments"
@@ -7692,9 +7692,9 @@
       ],
       "stars": 93,
       "archived": false,
-      "pushed_at": "2026-11-07T23:40:26Z",
+      "pushed_at": "2026-11-08T18:48:58Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -7725,12 +7725,12 @@
       ],
       "stars": 189,
       "archived": false,
-      "pushed_at": "2026-11-08T02:33:38Z",
+      "pushed_at": "2026-11-09T08:20:19Z",
       "last_release": {
-        "tag": "mppx@0.17.5",
-        "published_at": "2026-11-08T00:47:29Z"
+        "tag": "mppx@0.17.6",
+        "published_at": "2026-11-09T02:24:50Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -7793,14 +7793,14 @@
       ],
       "license": "Apache-2.0",
       "body": "Universal-Commerce-Protocol organization",
-      "stars": 3484,
+      "stars": 3486,
       "archived": false,
-      "pushed_at": "2026-11-08T01:35:49Z",
+      "pushed_at": "2026-11-09T03:27:47Z",
       "last_release": {
         "tag": "v2026-08-25",
         "published_at": "2026-08-25T13:53:03Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "payments",
@@ -7829,7 +7829,7 @@
       "archived": false,
       "pushed_at": "2025-10-28T22:43:43Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "payments",
         "retail"
@@ -7864,11 +7864,11 @@
         "aptos",
         "stellar"
       ],
-      "stars": 6792,
+      "stars": 6794,
       "archived": false,
-      "pushed_at": "2026-11-06T17:51:16Z",
+      "pushed_at": "2026-11-08T11:22:43Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "java",
@@ -7896,12 +7896,12 @@
       ],
       "stars": 3608,
       "archived": false,
-      "pushed_at": "2026-11-08T10:20:02Z",
+      "pushed_at": "2026-11-09T11:32:37Z",
       "last_release": {
         "tag": "v3.8.1",
         "published_at": "2026-10-23T21:30:00Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "on-chain"
@@ -7930,12 +7930,12 @@
       ],
       "stars": 804,
       "archived": false,
-      "pushed_at": "2026-11-08T09:31:13Z",
+      "pushed_at": "2026-11-09T07:11:43Z",
       "last_release": {
         "tag": "0.5.0",
         "published_at": "2026-10-27T17:35:35Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "on-chain",
@@ -7961,11 +7961,11 @@
       "chains": [
         "ethereum"
       ],
-      "stars": 1144,
+      "stars": 1145,
       "archived": false,
       "pushed_at": "2026-10-26T14:21:23Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain"
       ],
@@ -7985,14 +7985,14 @@
       "chains": [
         "ethereum"
       ],
-      "stars": 51469,
+      "stars": 51467,
       "archived": false,
-      "pushed_at": "2026-11-06T17:48:32Z",
+      "pushed_at": "2026-11-09T08:59:55Z",
       "last_release": {
         "tag": "v1.17.10",
         "published_at": "2026-10-23T12:07:39Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "on-chain"
@@ -8024,12 +8024,12 @@
       ],
       "stars": 5851,
       "archived": false,
-      "pushed_at": "2026-11-08T09:47:52Z",
+      "pushed_at": "2026-11-09T11:37:22Z",
       "last_release": {
         "tag": "v2.10.1",
         "published_at": "2026-11-06T18:53:31Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "metrics",
         "on-chain",
@@ -8064,7 +8064,7 @@
         "tag": "@pimlico/alto@0.0.19",
         "published_at": "2025-07-14T16:26:14Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -8098,7 +8098,7 @@
       "archived": false,
       "pushed_at": "2026-10-14T21:50:54Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -8132,11 +8132,11 @@
         "evm",
         "solana"
       ],
-      "stars": 208,
+      "stars": 209,
       "archived": false,
       "pushed_at": "2026-11-05T20:16:44Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "go",
         "java",
@@ -8188,7 +8188,7 @@
         "tag": "v2026.11.1",
         "published_at": "2026-11-02T19:04:09Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -8215,12 +8215,12 @@
       ],
       "stars": 3636,
       "archived": false,
-      "pushed_at": "2026-11-08T05:57:31Z",
+      "pushed_at": "2026-11-09T04:01:16Z",
       "last_release": {
-        "tag": "viem@2.57.16",
-        "published_at": "2026-11-03T09:24:42Z"
+        "tag": "viem@2.57.17",
+        "published_at": "2026-11-08T18:04:10Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss",
@@ -8264,12 +8264,12 @@
       ],
       "stars": 487,
       "archived": false,
-      "pushed_at": "2026-10-29T10:30:31Z",
+      "pushed_at": "2026-11-09T03:22:48Z",
       "last_release": {
         "tag": "6.1.0",
         "published_at": "2026-04-01T21:26:46Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss"
@@ -8292,12 +8292,12 @@
       ],
       "stars": 10768,
       "archived": false,
-      "pushed_at": "2026-11-08T10:03:03Z",
+      "pushed_at": "2026-11-09T11:27:05Z",
       "last_release": {
         "tag": "v1.9.0",
         "published_at": "2026-11-02T21:28:02Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss"
@@ -8320,14 +8320,14 @@
       "chains": [
         "evm"
       ],
-      "stars": 8520,
+      "stars": 8521,
       "archived": false,
-      "pushed_at": "2026-11-06T19:05:04Z",
+      "pushed_at": "2026-11-09T11:18:03Z",
       "last_release": {
         "tag": "hardhat@3.21.2",
         "published_at": "2026-10-29T18:32:30Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "on-chain",
         "oss"
@@ -8487,7 +8487,7 @@
       "archived": false,
       "pushed_at": "2026-03-30T03:31:41Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python"
@@ -8510,7 +8510,7 @@
       "archived": false,
       "pushed_at": "2026-09-14T22:22:00Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "tracing"
       ],
@@ -8532,11 +8532,11 @@
       "languages": [
         "python"
       ],
-      "stars": 1028,
+      "stars": 1029,
       "archived": false,
       "pushed_at": "2026-11-07T02:25:36Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -8566,7 +8566,7 @@
         "tag": "v0.1.3",
         "published_at": "2026-10-26T03:01:32Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "python",
@@ -8605,11 +8605,11 @@
       "languages": [
         "python"
       ],
-      "stars": 450,
+      "stars": 451,
       "archived": false,
       "pushed_at": "2026-11-04T20:58:10Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "logs",
         "metrics",
@@ -8724,11 +8724,11 @@
       "languages": [
         "python"
       ],
-      "stars": 3519,
+      "stars": 3522,
       "archived": false,
       "pushed_at": "2026-11-06T19:37:22Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "aws",
         "oss",
@@ -9281,7 +9281,7 @@
         "tag": "3.1.0",
         "published_at": "2026-09-18T18:03:28Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [
         "oss",
         "otlp"
@@ -10386,11 +10386,11 @@
       "subcategory": "courses",
       "added": "2026-10-20",
       "repo_url": "https://github.com/huggingface/agents-course",
-      "stars": 34583,
+      "stars": 34628,
       "archived": false,
       "pushed_at": "2026-11-03T18:32:57Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10733,7 +10733,7 @@
       "archived": false,
       "pushed_at": "2026-11-03T08:27:37Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10750,7 +10750,7 @@
       "archived": false,
       "pushed_at": "2026-06-07T10:20:18Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10770,7 +10770,7 @@
       "archived": false,
       "pushed_at": "2026-09-23T13:47:22Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10783,11 +10783,11 @@
       "type": "list",
       "category": "related-lists",
       "added": "2026-10-20",
-      "stars": 5095,
+      "stars": 5108,
       "archived": false,
       "pushed_at": "2026-11-07T09:14:45Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10802,12 +10802,12 @@
       "added": "2026-10-20",
       "stars": 46,
       "archived": false,
-      "pushed_at": "2026-11-08T10:03:37Z",
+      "pushed_at": "2026-11-08T20:40:50Z",
       "last_release": {
         "tag": "v1.1.0",
         "published_at": "2026-07-05T19:48:41Z"
       },
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10820,11 +10820,11 @@
       "type": "list",
       "category": "related-lists",
       "added": "2026-10-20",
-      "stars": 5972,
+      "stars": 5971,
       "archived": false,
       "pushed_at": "2026-10-16T06:34:42Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10837,11 +10837,11 @@
       "type": "list",
       "category": "related-lists",
       "added": "2026-10-20",
-      "stars": 746,
+      "stars": 747,
       "archived": false,
       "pushed_at": "2026-11-07T14:35:41Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false
@@ -10858,7 +10858,7 @@
       "archived": false,
       "pushed_at": "2026-11-07T05:26:30Z",
       "last_release": null,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-09",
       "tags": [],
       "otel": false,
       "historical_section": false

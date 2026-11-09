@@ -16,10 +16,10 @@ otlp:
 otel_evidence: https://developers.openai.com/codex/config-advanced
 telemetry: otel
 telemetry_docs: https://developers.openai.com/codex/config-advanced
-stars: 133619
+stars: 134165
 archived: false
-pushed_at: 2026-11-08T05:59:28Z
+pushed_at: 2026-11-09T07:29:30Z
 last_release:
   tag: rust-v0.167.0
   published_at: 2026-11-06T01:40:00Z
-last_checked: 2026-11-08
+last_checked: 2026-11-09
