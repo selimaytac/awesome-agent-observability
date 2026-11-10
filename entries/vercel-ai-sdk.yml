@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
 telemetry: otel
 telemetry_docs: https://ai-sdk.dev/docs/ai-sdk-core/telemetry
-stars: 27827
+stars: 27856
 archived: false
-pushed_at: 2026-11-09T02:57:28Z
+pushed_at: 2026-11-10T06:02:03Z
 last_release:
-  tag: "@ai-sdk/vue@3.0.326"
-  published_at: 2026-11-09T02:57:49Z
-last_checked: 2026-11-09
+  tag: "@ai-sdk/vue@2.0.287"
+  published_at: 2026-11-09T19:47:32Z
+last_checked: 2026-11-10

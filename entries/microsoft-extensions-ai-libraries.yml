@@ -14,10 +14,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai
-stars: 3273
+stars: 3275
 archived: false
-pushed_at: 2026-11-09T05:03:55Z
+pushed_at: 2026-11-10T00:45:26Z
 last_release:
   tag: v10.11.0
   published_at: 2026-10-15T04:07:03Z
-last_checked: 2026-11-09
+last_checked: 2026-11-10

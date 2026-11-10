@@ -17,10 +17,10 @@ conventions:
 otel_evidence: https://framework.beeai.dev/modules/observability
 telemetry: external
 telemetry_docs: https://framework.beeai.dev/modules/observability
-stars: 3455
+stars: 3457
 archived: false
 pushed_at: 2026-11-03T10:09:48Z
 last_release:
   tag: typescript_v0.1.32
   published_at: 2026-11-02T18:31:22Z
-last_checked: 2026-11-09
+last_checked: 2026-11-10

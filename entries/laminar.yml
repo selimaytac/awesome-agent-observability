@@ -15,10 +15,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://github.com/lmnr-ai/lmnr
-stars: 3480
+stars: 3481
 archived: false
-pushed_at: 2026-11-09T11:34:59Z
+pushed_at: 2026-11-10T11:15:34Z
 last_release:
-  tag: v0.3.3
-  published_at: 2026-11-02T10:30:28Z
-last_checked: 2026-11-09
+  tag: v0.3.4
+  published_at: 2026-11-10T08:54:38Z
+last_checked: 2026-11-10

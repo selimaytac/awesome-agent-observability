@@ -12,10 +12,10 @@ license: Apache-2.0
 otlp:
   - export
 otel_evidence: https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation
-stars: 624
+stars: 632
 archived: false
-pushed_at: 2026-11-09T07:11:37Z
+pushed_at: 2026-11-10T11:01:16Z
 last_release:
   tag: v1.0.0
   published_at: 2026-10-30T17:50:30Z
-last_checked: 2026-11-09
+last_checked: 2026-11-10

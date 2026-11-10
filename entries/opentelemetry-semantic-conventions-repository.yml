@@ -8,10 +8,10 @@ added: 2026-10-20
 license: Apache-2.0
 body: OpenTelemetry
 version: 1.44.0
-stars: 684
+stars: 685
 archived: false
-pushed_at: 2026-11-07T23:13:46Z
+pushed_at: 2026-11-10T07:52:16Z
 last_release:
   tag: v1.45.0
   published_at: 2026-11-02T16:11:42Z
-last_checked: 2026-11-09
+last_checked: 2026-11-10
