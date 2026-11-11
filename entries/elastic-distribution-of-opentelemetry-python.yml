@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/elastic/elastic-otel-python
 stars: 16
 archived: false
-pushed_at: 2026-11-10T06:31:05Z
+pushed_at: 2026-11-11T06:31:10Z
 last_release:
   tag: v1.19.0
   published_at: 2026-11-04T11:30:12Z
-last_checked: 2026-11-10
+last_checked: 2026-11-11
