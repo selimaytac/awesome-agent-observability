@@ -16,10 +16,10 @@ hosting: self-hosted
 otlp:
   - export
 otel_evidence: https://ibm.github.io/mcp-context-forge/manage/observability/
-stars: 4799
+stars: 4807
 archived: false
-pushed_at: 2026-11-11T10:34:28Z
+pushed_at: 2026-11-12T11:14:00Z
 last_release:
   tag: v1.1.1
   published_at: 2026-11-10T13:46:57Z
-last_checked: 2026-11-11
+last_checked: 2026-11-12

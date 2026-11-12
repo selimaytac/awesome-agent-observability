@@ -15,10 +15,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://github.com/pydantic/logfire
-stars: 4547
+stars: 4548
 archived: false
-pushed_at: 2026-11-11T04:06:10Z
+pushed_at: 2026-11-12T10:28:49Z
 last_release:
-  tag: v5.5.0
-  published_at: 2026-11-07T00:10:06Z
-last_checked: 2026-11-11
+  tag: v5.6.0
+  published_at: 2026-11-11T21:08:03Z
+last_checked: 2026-11-12

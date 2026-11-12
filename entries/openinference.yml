@@ -17,10 +17,10 @@ otlp:
 conventions:
   - openinference
 otel_evidence: https://github.com/Arize-ai/openinference
-stars: 1315
+stars: 1316
 archived: false
-pushed_at: 2026-11-11T07:38:47Z
+pushed_at: 2026-11-12T08:27:44Z
 last_release:
-  tag: go/openinference-semantic-conventions/v0.1.13
-  published_at: 2026-11-11T07:31:21Z
-last_checked: 2026-11-11
+  tag: "@arizeai/openinference-genai@0.4.3"
+  published_at: 2026-11-12T08:17:44Z
+last_checked: 2026-11-12

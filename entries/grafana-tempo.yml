@@ -14,10 +14,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://grafana.com/docs/tempo/latest/
-stars: 5570
+stars: 5572
 archived: false
-pushed_at: 2026-11-11T08:03:06Z
+pushed_at: 2026-11-12T10:46:58Z
 last_release:
   tag: v3.1.1
   published_at: 2026-10-21T17:02:10Z
-last_checked: 2026-11-11
+last_checked: 2026-11-12

@@ -10,10 +10,10 @@ tags:
   - metrics
 license: AGPL-3.0
 hosting: both
-stars: 77831
+stars: 77857
 archived: false
-pushed_at: 2026-11-11T11:01:16Z
+pushed_at: 2026-11-12T11:15:05Z
 last_release:
   tag: v13.3.1
   published_at: 2026-11-10T21:31:44Z
-last_checked: 2026-11-11
+last_checked: 2026-11-12

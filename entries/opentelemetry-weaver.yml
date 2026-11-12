@@ -10,10 +10,10 @@ tags:
 license: Apache-2.0
 languages:
   - rust
-stars: 524
+stars: 526
 archived: false
-pushed_at: 2026-11-11T03:58:52Z
+pushed_at: 2026-11-12T11:11:51Z
 last_release:
   tag: v0.28.0
   published_at: 2026-10-14T17:29:48Z
-last_checked: 2026-11-11
+last_checked: 2026-11-12

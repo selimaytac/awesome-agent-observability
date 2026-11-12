@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-python-contrib
 stars: 1128
 archived: false
-pushed_at: 2026-11-11T08:51:31Z
+pushed_at: 2026-11-12T04:21:54Z
 last_release:
-  tag: v0.66b2
-  published_at: 2026-10-29T17:38:58Z
-last_checked: 2026-11-11
+  tag: opentelemetry-opamp-client==0.6b0
+  published_at: 2026-11-11T17:22:17Z
+last_checked: 2026-11-12

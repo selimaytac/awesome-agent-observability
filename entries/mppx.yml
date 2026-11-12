@@ -17,10 +17,10 @@ languages:
 chains:
   - tempo
   - evm
-stars: 190
+stars: 192
 archived: false
-pushed_at: 2026-11-11T05:49:15Z
+pushed_at: 2026-11-12T06:00:58Z
 last_release:
   tag: mppx@0.18.0
   published_at: 2026-11-09T19:20:51Z
-last_checked: 2026-11-11
+last_checked: 2026-11-12
