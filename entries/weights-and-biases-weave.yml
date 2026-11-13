@@ -13,8 +13,8 @@ license: Apache-2.0
 otlp: unknown
 stars: 1146
 archived: false
-pushed_at: 2026-11-10T17:35:16Z
+pushed_at: 2026-11-13T01:59:40Z
 last_release:
   tag: v0.54.1
   published_at: 2026-11-05T22:55:06Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13

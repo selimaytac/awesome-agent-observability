@@ -10,10 +10,10 @@ docs_url: https://docs.sglang.io/docs/references/production_metrics
 tags:
   - metrics
 license: Apache-2.0
-stars: 38784
+stars: 38811
 archived: false
-pushed_at: 2026-11-12T11:12:35Z
+pushed_at: 2026-11-13T09:31:40Z
 last_release:
   tag: v0.5.23
   published_at: 2026-11-02T22:14:10Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13

@@ -15,8 +15,8 @@ license_note: Directories named ee/ use a separate license.
 hosting: self-hosted
 stars: 4906
 archived: false
-pushed_at: 2026-11-12T07:10:08Z
+pushed_at: 2026-11-13T09:03:18Z
 last_release:
-  tag: v0.128.12
-  published_at: 2026-11-11T10:47:30Z
-last_checked: 2026-11-12
+  tag: v0.128.13
+  published_at: 2026-11-13T00:08:38Z
+last_checked: 2026-11-13

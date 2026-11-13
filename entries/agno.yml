@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://docs.agno.com/tracing/overview
 telemetry: external
 telemetry_docs: https://docs.agno.com/tracing/overview
-stars: 43169
+stars: 43182
 archived: false
-pushed_at: 2026-11-12T11:08:49Z
+pushed_at: 2026-11-13T10:56:14Z
 last_release:
-  tag: v3.1.12
-  published_at: 2026-10-29T14:00:55Z
-last_checked: 2026-11-12
+  tag: v3.2.0
+  published_at: 2026-11-12T17:47:14Z
+last_checked: 2026-11-13

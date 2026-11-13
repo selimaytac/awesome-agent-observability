@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-dotnet
 stars: 3768
 archived: false
-pushed_at: 2026-11-12T11:06:20Z
+pushed_at: 2026-11-13T09:32:13Z
 last_release:
   tag: core-1.21.0
   published_at: 2026-11-11T11:29:05Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13

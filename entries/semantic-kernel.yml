@@ -17,10 +17,10 @@ conventions:
 otel_evidence: https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/
 telemetry: otel
 telemetry_docs: https://learn.microsoft.com/en-us/semantic-kernel/concepts/enterprise-readiness/observability/
-stars: 28760
+stars: 28762
 archived: false
-pushed_at: 2026-11-10T16:48:05Z
+pushed_at: 2026-11-12T19:18:25Z
 last_release:
   tag: dotnet-1.82.0
   published_at: 2026-11-07T01:00:07Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13

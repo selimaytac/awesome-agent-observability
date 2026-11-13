@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/signalfx/splunk-otel-python
 stars: 41
 archived: false
-pushed_at: 2026-11-10T19:52:56Z
+pushed_at: 2026-11-12T19:02:24Z
 last_release:
   tag: v2.13.3
   published_at: 2026-10-29T18:24:07Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13

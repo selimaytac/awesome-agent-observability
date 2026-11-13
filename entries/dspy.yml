@@ -14,10 +14,10 @@ otlp: unknown
 conventions: unknown
 telemetry: own
 telemetry_docs: https://github.com/stanfordnlp/dspy/blob/main/docs/docs/tutorials/observability/index.md
-stars: 39020
+stars: 39028
 archived: false
-pushed_at: 2026-11-11T14:46:56Z
+pushed_at: 2026-11-12T14:09:40Z
 last_release:
   tag: 3.5.0
   published_at: 2026-11-10T16:25:47Z
-last_checked: 2026-11-12
+last_checked: 2026-11-13
