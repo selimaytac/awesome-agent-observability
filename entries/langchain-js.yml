@@ -12,8 +12,8 @@ telemetry: own
 telemetry_docs: https://docs.langchain.com/oss/javascript/langchain/observability
 stars: 18344
 archived: false
-pushed_at: 2026-11-13T08:37:53Z
+pushed_at: 2026-11-13T18:26:23Z
 last_release:
-  tag: "@langchain/neo4j@0.1.33"
-  published_at: 2026-11-11T22:03:16Z
-last_checked: 2026-11-13
+  tag: "@langchain/google@0.2.15"
+  published_at: 2026-11-13T18:26:33Z
+last_checked: 2026-11-14

@@ -18,10 +18,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://docs.openlit.io/latest/sdk/integrations/agent-governance-toolkit
-stars: 6563
+stars: 6562
 archived: false
-pushed_at: 2026-11-12T22:55:08Z
+pushed_at: 2026-11-14T08:46:23Z
 last_release:
   tag: v4.1.0
   published_at: 2026-06-09T23:11:52Z
-last_checked: 2026-11-13
+last_checked: 2026-11-14

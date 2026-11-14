@@ -15,8 +15,8 @@ agent_types:
 license: Apache-2.0
 stars: 104
 archived: false
-pushed_at: 2026-11-13T09:43:43Z
+pushed_at: 2026-11-14T00:14:51Z
 last_release:
-  tag: v2026.11.1
-  published_at: 2026-11-02T19:04:09Z
-last_checked: 2026-11-13
+  tag: v2026.11.2
+  published_at: 2026-11-13T19:31:45Z
+last_checked: 2026-11-14

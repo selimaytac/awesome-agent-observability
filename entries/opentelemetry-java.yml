@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-java
 stars: 2485
 archived: false
-pushed_at: 2026-11-13T03:05:38Z
+pushed_at: 2026-11-13T14:19:54Z
 last_release:
   tag: v1.68.0
   published_at: 2026-11-06T15:34:04Z
-last_checked: 2026-11-13
+last_checked: 2026-11-14

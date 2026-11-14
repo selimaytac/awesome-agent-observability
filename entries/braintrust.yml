@@ -16,8 +16,8 @@ hosting: saas
 otlp: unknown
 stars: 30
 archived: false
-pushed_at: 2026-11-12T19:33:38Z
+pushed_at: 2026-11-13T22:32:49Z
 last_release:
   tag: "@braintrust/temporal@1.1.0"
   published_at: 2026-11-11T14:27:59Z
-last_checked: 2026-11-13
+last_checked: 2026-11-14
