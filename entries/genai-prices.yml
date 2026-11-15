@@ -11,10 +11,10 @@ license: MIT
 languages:
   - python
   - typescript
-stars: 414
+stars: 416
 archived: false
-pushed_at: 2026-11-14T07:25:56Z
+pushed_at: 2026-11-15T00:53:31Z
 last_release:
   tag: v0.2.3
   published_at: 2026-11-10T18:48:04Z
-last_checked: 2026-11-14
+last_checked: 2026-11-15
