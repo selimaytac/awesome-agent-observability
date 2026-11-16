@@ -19,8 +19,8 @@ conventions:
 otel_evidence: https://github.com/Arize-ai/openinference
 stars: 1322
 archived: false
-pushed_at: 2026-11-15T09:22:30Z
+pushed_at: 2026-11-16T02:28:33Z
 last_release:
   tag: "@arizeai/openinference-instrumentation-openai@4.5.0"
   published_at: 2026-11-14T00:53:10Z
-last_checked: 2026-11-15
+last_checked: 2026-11-16

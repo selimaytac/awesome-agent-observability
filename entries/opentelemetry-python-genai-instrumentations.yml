@@ -13,10 +13,10 @@ languages:
 conventions:
   - genai-semconv
 otel_evidence: https://github.com/open-telemetry/opentelemetry-python-genai
-stars: 52
+stars: 51
 archived: false
-pushed_at: 2026-11-14T05:40:53Z
+pushed_at: 2026-11-16T05:26:11Z
 last_release:
   tag: opentelemetry-instrumentation-genai-langchain==1.3b0
   published_at: 2026-10-23T19:15:30Z
-last_checked: 2026-11-15
+last_checked: 2026-11-16

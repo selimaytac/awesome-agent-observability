@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/a2aproject/a2a-python
 stars: 2246
 archived: false
-pushed_at: 2026-11-14T14:34:03Z
+pushed_at: 2026-11-16T11:15:51Z
 last_release:
   tag: v1.3.0
   published_at: 2026-10-27T10:06:31Z
-last_checked: 2026-11-15
+last_checked: 2026-11-16
