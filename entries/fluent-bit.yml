@@ -15,10 +15,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://docs.fluentbit.io/manual/data-pipeline/inputs/opentelemetry
-stars: 8191
+stars: 8192
 archived: false
-pushed_at: 2026-11-16T05:59:07Z
+pushed_at: 2026-11-17T10:25:07Z
 last_release:
   tag: v5.2.0
   published_at: 2026-11-09T04:04:12Z
-last_checked: 2026-11-16
+last_checked: 2026-11-17

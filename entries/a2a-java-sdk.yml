@@ -16,8 +16,8 @@ conventions: []
 otel_evidence: https://github.com/a2aproject/a2a-java/blob/main/docs/content/dev/extra/opentelemetry.md
 stars: 517
 archived: false
-pushed_at: 2026-11-12T21:24:12Z
+pushed_at: 2026-11-16T21:27:00Z
 last_release:
   tag: v1.5.1.Final
   published_at: 2026-11-09T14:35:32Z
-last_checked: 2026-11-16
+last_checked: 2026-11-17

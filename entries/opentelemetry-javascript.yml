@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-js
 stars: 3529
 archived: false
-pushed_at: 2026-11-16T09:44:59Z
+pushed_at: 2026-11-16T23:10:17Z
 last_release:
   tag: v3.1.1
   published_at: 2026-11-09T17:07:24Z
-last_checked: 2026-11-16
+last_checked: 2026-11-17

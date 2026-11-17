@@ -10,10 +10,10 @@ languages:
   - typescript
 telemetry: own
 telemetry_docs: https://docs.langchain.com/oss/javascript/langchain/observability
-stars: 18348
+stars: 18350
 archived: false
-pushed_at: 2026-11-13T18:26:23Z
+pushed_at: 2026-11-17T06:47:03Z
 last_release:
   tag: "@langchain/google@0.2.15"
   published_at: 2026-11-13T18:26:33Z
-last_checked: 2026-11-16
+last_checked: 2026-11-17
