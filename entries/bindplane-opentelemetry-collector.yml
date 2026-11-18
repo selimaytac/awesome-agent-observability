@@ -19,8 +19,8 @@ conventions: []
 otel_evidence: https://github.com/observIQ/bindplane-otel-collector
 stars: 203
 archived: false
-pushed_at: 2026-11-16T20:52:00Z
+pushed_at: 2026-11-17T23:44:44Z
 last_release:
   tag: v1.112.0
   published_at: 2026-11-04T17:20:03Z
-last_checked: 2026-11-17
+last_checked: 2026-11-18

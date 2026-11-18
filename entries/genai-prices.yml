@@ -13,8 +13,8 @@ languages:
   - typescript
 stars: 417
 archived: false
-pushed_at: 2026-11-17T00:45:52Z
+pushed_at: 2026-11-18T09:25:23Z
 last_release:
-  tag: v0.2.3
-  published_at: 2026-11-10T18:48:04Z
-last_checked: 2026-11-17
+  tag: v0.2.4
+  published_at: 2026-11-17T19:52:36Z
+last_checked: 2026-11-18

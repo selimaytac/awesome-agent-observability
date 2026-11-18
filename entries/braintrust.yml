@@ -14,10 +14,10 @@ license: proprietary
 license_note: The JavaScript SDK is Apache-2.0.
 hosting: saas
 otlp: unknown
-stars: 30
+stars: 31
 archived: false
-pushed_at: 2026-11-17T11:06:31Z
+pushed_at: 2026-11-17T21:17:40Z
 last_release:
   tag: "@braintrust/temporal@1.1.0"
   published_at: 2026-11-11T14:27:59Z
-last_checked: 2026-11-17
+last_checked: 2026-11-18

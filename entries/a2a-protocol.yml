@@ -10,10 +10,10 @@ tags:
 license: Apache-2.0
 body: A2A Project (Linux Foundation)
 version: v1.0.1
-stars: 26564
+stars: 26583
 archived: false
-pushed_at: 2026-11-17T08:52:48Z
+pushed_at: 2026-11-18T11:37:16Z
 last_release:
   tag: v1.0.1
   published_at: 2026-05-28T11:34:36Z
-last_checked: 2026-11-17
+last_checked: 2026-11-18

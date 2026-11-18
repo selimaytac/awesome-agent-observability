@@ -15,8 +15,8 @@ chains:
   - evm
 stars: 3638
 archived: false
-pushed_at: 2026-11-17T05:40:00Z
+pushed_at: 2026-11-18T04:40:07Z
 last_release:
   tag: viem@2.58.0
   published_at: 2026-11-17T03:07:28Z
-last_checked: 2026-11-17
+last_checked: 2026-11-18
