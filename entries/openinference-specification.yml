@@ -14,10 +14,10 @@ conventions:
   - openinference
 otel_evidence: https://arize-ai.github.io/openinference/spec/
 body: Arize AI
-stars: 1324
+stars: 1326
 archived: false
-pushed_at: 2026-11-18T00:44:23Z
+pushed_at: 2026-11-19T08:34:04Z
 last_release:
-  tag: "@arizeai/openinference-instrumentation-bedrock@0.5.9"
-  published_at: 2026-11-17T05:44:57Z
-last_checked: 2026-11-18
+  tag: python-openinference-instrumentation-agent-framework-v0.1.18
+  published_at: 2026-11-19T08:26:19Z
+last_checked: 2026-11-19

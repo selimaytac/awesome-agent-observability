@@ -13,10 +13,10 @@ otlp:
 otel_evidence: https://doc.agentscope.io/tutorial/task_tracing.html
 telemetry: otel
 telemetry_docs: https://doc.agentscope.io/tutorial/task_tracing.html
-stars: 36221
+stars: 36293
 archived: false
-pushed_at: 2026-11-18T09:34:28Z
+pushed_at: 2026-11-19T11:37:10Z
 last_release:
   tag: v2.0.12
   published_at: 2026-11-16T07:00:31Z
-last_checked: 2026-11-18
+last_checked: 2026-11-19

@@ -15,10 +15,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://github.com/triton-inference-server/server/blob/main/docs/user_guide/trace.md
-stars: 11151
+stars: 11154
 archived: false
-pushed_at: 2026-11-17T23:11:35Z
+pushed_at: 2026-11-18T20:38:50Z
 last_release:
   tag: v2.75.0
   published_at: 2026-11-17T21:06:27Z
-last_checked: 2026-11-18
+last_checked: 2026-11-19

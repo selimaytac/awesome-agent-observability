@@ -15,8 +15,8 @@ license: MIT
 otlp:
   - ingest
 otel_evidence: https://github.com/rockdarko/claude-code-metrics-prometheus
-stars: 18
+stars: 19
 archived: false
 pushed_at: 2026-05-22T19:30:56Z
 last_release: null
-last_checked: 2026-11-18
+last_checked: 2026-11-19
