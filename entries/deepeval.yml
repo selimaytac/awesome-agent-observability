@@ -14,10 +14,10 @@ languages:
   - python
 otlp: unknown
 otel_evidence: https://docs.confident-ai.com/
-stars: 19560
+stars: 19577
 archived: false
-pushed_at: 2026-11-19T06:28:47Z
+pushed_at: 2026-11-19T23:58:13Z
 last_release:
   tag: python-v4.2.4
   published_at: 2026-09-22T16:36:00Z
-last_checked: 2026-11-19
+last_checked: 2026-11-20

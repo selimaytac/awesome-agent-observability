@@ -10,10 +10,10 @@ repo_url: https://github.com/ggml-org/llama.cpp
 tags:
   - metrics
 license: MIT
-stars: 135683
+stars: 135819
 archived: false
-pushed_at: 2026-11-19T11:42:24Z
+pushed_at: 2026-11-20T11:34:27Z
 last_release:
   tag: v1.0.0
   published_at: 2026-11-13T10:20:19Z
-last_checked: 2026-11-19
+last_checked: 2026-11-20

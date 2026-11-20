@@ -14,10 +14,10 @@ languages:
 otlp:
   - export
 otel_evidence: https://gofastmcp.com/servers/telemetry
-stars: 28667
+stars: 28686
 archived: false
-pushed_at: 2026-11-19T11:42:41Z
+pushed_at: 2026-11-20T11:42:37Z
 last_release:
-  tag: v4.2.2
-  published_at: 2026-11-18T19:12:03Z
-last_checked: 2026-11-19
+  tag: v4.2.3
+  published_at: 2026-11-20T04:16:30Z
+last_checked: 2026-11-20

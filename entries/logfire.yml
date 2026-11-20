@@ -17,8 +17,8 @@ otlp:
 otel_evidence: https://github.com/pydantic/logfire
 stars: 4561
 archived: false
-pushed_at: 2026-11-19T11:00:46Z
+pushed_at: 2026-11-20T09:37:30Z
 last_release:
-  tag: v5.6.0
-  published_at: 2026-11-11T21:08:03Z
-last_checked: 2026-11-19
+  tag: v6.0.0
+  published_at: 2026-11-19T18:02:51Z
+last_checked: 2026-11-20

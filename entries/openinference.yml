@@ -17,10 +17,10 @@ otlp:
 conventions:
   - openinference
 otel_evidence: https://github.com/Arize-ai/openinference
-stars: 1326
+stars: 1331
 archived: false
-pushed_at: 2026-11-19T08:34:04Z
+pushed_at: 2026-11-20T08:07:13Z
 last_release:
-  tag: python-openinference-instrumentation-agent-framework-v0.1.18
-  published_at: 2026-11-19T08:26:19Z
-last_checked: 2026-11-19
+  tag: python-openinference-instrumentation-portkey-v0.1.32
+  published_at: 2026-11-19T22:43:52Z
+last_checked: 2026-11-20

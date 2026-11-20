@@ -16,8 +16,8 @@ otlp: unknown
 otel_evidence: https://www.trulens.org/
 stars: 3661
 archived: false
-pushed_at: 2026-11-18T20:02:15Z
+pushed_at: 2026-11-20T09:38:34Z
 last_release:
   tag: trulens-2.16.0
   published_at: 2026-10-19T17:17:18Z
-last_checked: 2026-11-19
+last_checked: 2026-11-20
