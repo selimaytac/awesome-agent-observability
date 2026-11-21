@@ -79,7 +79,6 @@ To choose a tool, filter entries.json by `category`, `tags`, `otlp`, `convention
 - [AG2](https://github.com/ag2ai/ag2): Multi-agent framework whose classic API derives from AutoGen, with OpenTelemetry tracing that follows the GenAI agent span conventions.
 - [AgentScope](https://github.com/agentscope-ai/agentscope): Multi-agent framework in Python with OpenTelemetry-based tracing sent to a collector or compatible backend.
 - [Agno](https://github.com/agno-agi/agno): Python framework for agents and multi-agent teams that traces runs with OpenTelemetry through the OpenInference instrumentation.
-- [AutoGen](https://github.com/microsoft/autogen): Microsoft multi-agent framework whose tracing is built on OpenTelemetry and follows its semantic conventions for agents and tools.
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework): Framework for building agents in Python and TypeScript, traced in Python through an OpenInference instrumentor.
 - [Claude Code monitoring](https://code.claude.com/docs/en/monitoring-usage): Documentation of the OpenTelemetry metrics and events that the Claude Code terminal agent exports.
 - [Cline](https://github.com/cline/cline): Open source coding agent for the editor, with telemetry and OpenTelemetry export documented for enterprise setups.

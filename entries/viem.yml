@@ -13,10 +13,10 @@ languages:
   - typescript
 chains:
   - evm
-stars: 3640
+stars: 3633
 archived: false
-pushed_at: 2026-11-19T23:38:25Z
+pushed_at: 2026-11-21T00:49:52Z
 last_release:
-  tag: viem@2.58.2
-  published_at: 2026-11-19T21:22:34Z
-last_checked: 2026-11-20
+  tag: viem@2.58.4
+  published_at: 2026-11-21T00:49:53Z
+last_checked: 2026-11-21

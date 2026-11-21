@@ -2,7 +2,7 @@
 
 > A neutral list of resources for observing AI agents in development and production: standards, instrumentation, frameworks, platforms, gateways, evaluation, cost, safety signals, and on-chain agents and payments, with an OpenTelemetry focus.
 
-The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 441 entries.
+The list covers every kind of agent, from coding and customer support agents to enterprise workflows, research and agents that make payments, and every place they run, from cloud providers and enterprise vendors to open source projects. It holds 440 entries.
 
 Open source and commercial entries are listed side by side, in alphabetical order inside each section, never by preference or payment. There is no sponsored placement. Inclusion says nothing about quality, and the list takes no side between competing projects. Disclosure: the maintainer of this list also builds [hashspan](https://github.com/selimaytac/hashspan), which is listed under On-chain agents and payments like any other entry, and reported some of the issues listed under Findings. Entries submitted by people who work on the project carry a `vendor_affiliation` field in their data file.
 
@@ -162,7 +162,6 @@ Frameworks for building agents, with a note on how each one emits telemetry.
 - [AG2](https://github.com/ag2ai/ag2) - Multi-agent framework whose classic API derives from AutoGen, with OpenTelemetry tracing that follows the GenAI agent span conventions. ([Telemetry](https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/)) `OTel` `GenAI semconv` `OSS`
 - [AgentScope](https://github.com/agentscope-ai/agentscope) - Multi-agent framework in Python with OpenTelemetry-based tracing sent to a collector or compatible backend. ([Telemetry](https://doc.agentscope.io/tutorial/task_tracing.html)) `OTel` `OSS`
 - [Agno](https://github.com/agno-agi/agno) - Python framework for agents and multi-agent teams that traces runs with OpenTelemetry through the OpenInference instrumentation. ([Telemetry](https://docs.agno.com/tracing/overview)) `OTel` `OpenInference` `OSS`
-- [AutoGen](https://github.com/microsoft/autogen) - Microsoft multi-agent framework whose tracing is built on OpenTelemetry and follows its semantic conventions for agents and tools. ([Telemetry](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html)) `OTel` `GenAI semconv` `OSS`
 - [BeeAI Framework](https://github.com/i-am-bee/beeai-framework) - Framework for building agents in Python and TypeScript, traced in Python through an OpenInference instrumentor. ([Docs](https://framework.beeai.dev/modules/observability)) `OTel` `OpenInference` `OSS`
 - [Claude Code monitoring](https://code.claude.com/docs/en/monitoring-usage) - Documentation of the OpenTelemetry metrics and events that the Claude Code terminal agent exports. `OTel` `Proprietary`
 - [Cline](https://github.com/cline/cline) - Open source coding agent for the editor, with telemetry and OpenTelemetry export documented for enterprise setups. ([Docs](https://docs.cline.bot/more-info/telemetry)) `OTel` `OSS`
@@ -724,6 +723,7 @@ Other curated lists that cover parts of this topic.
 <details>
 <summary>Entries kept for reference: archived upstream, superseded, or historical.</summary>
 
+- [AutoGen](https://github.com/microsoft/autogen) - Microsoft multi-agent framework whose tracing is built on OpenTelemetry and follows its semantic conventions for agents and tools. ([Telemetry](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/tracing.html)) `OTel` `GenAI semconv` `OSS` Archived upstream.
 - [OpenTelemetry contrib Vertex AI instrumentation for Python](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation-genai/opentelemetry-instrumentation-vertexai) - Deprecated OpenTelemetry instrumentation package for the Vertex AI client library in Python. `OSS` Kept because: Deprecated in the GenAI package migration of opentelemetry-python-contrib, with no replacement package planned (README, 2026-10-20).
 
 </details>
