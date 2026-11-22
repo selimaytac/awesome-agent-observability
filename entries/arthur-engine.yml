@@ -17,8 +17,8 @@ conventions:
 otel_evidence: https://github.com/arthur-ai/arthur-engine
 stars: 93
 archived: false
-pushed_at: 2026-11-21T06:02:09Z
+pushed_at: 2026-11-21T22:22:29Z
 last_release:
   tag: 2.1.1124
   published_at: 2026-11-18T18:39:29Z
-last_checked: 2026-11-21
+last_checked: 2026-11-22

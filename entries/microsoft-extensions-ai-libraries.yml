@@ -16,8 +16,8 @@ otlp:
 otel_evidence: https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai
 stars: 3281
 archived: false
-pushed_at: 2026-11-21T07:03:01Z
+pushed_at: 2026-11-21T11:47:41Z
 last_release:
   tag: v11.0.1
   published_at: 2026-11-21T04:25:26Z
-last_checked: 2026-11-21
+last_checked: 2026-11-22
