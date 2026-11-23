@@ -16,10 +16,10 @@ hosting: both
 otlp:
   - ingest
 otel_evidence: https://langwatch.ai/docs/integration/opentelemetry/guide
-stars: 5051
+stars: 5052
 archived: false
-pushed_at: 2026-11-22T11:28:45Z
+pushed_at: 2026-11-23T12:50:44Z
 last_release:
-  tag: mcp-server@v3.2.1
-  published_at: 2026-11-22T02:02:17Z
-last_checked: 2026-11-22
+  tag: typescript-sdk@v2.3.0
+  published_at: 2026-11-23T04:01:11Z
+last_checked: 2026-11-23

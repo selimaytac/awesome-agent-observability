@@ -15,10 +15,10 @@ otlp:
   - export
 conventions: []
 otel_evidence: https://github.com/ai-dynamo/dynamo/blob/main/docs/fern/pages/kubernetes/operations/observability.mdx
-stars: 8546
+stars: 8554
 archived: false
-pushed_at: 2026-11-22T09:55:54Z
+pushed_at: 2026-11-23T12:48:20Z
 last_release:
   tag: v1.6.2
   published_at: 2026-11-05T22:11:38Z
-last_checked: 2026-11-22
+last_checked: 2026-11-23

@@ -16,10 +16,10 @@ otlp:
   - ingest
   - export
 otel_evidence: https://aws-otel.github.io/docs/introduction/
-stars: 757
+stars: 756
 archived: false
 pushed_at: 2026-11-17T16:27:35Z
 last_release:
   tag: v0.51.0
   published_at: 2026-10-29T15:54:10Z
-last_checked: 2026-11-22
+last_checked: 2026-11-23

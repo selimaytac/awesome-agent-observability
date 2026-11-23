@@ -14,10 +14,10 @@ languages:
   - python
 otlp: unknown
 otel_evidence: https://www.trulens.org/
-stars: 3665
+stars: 3668
 archived: false
-pushed_at: 2026-11-20T20:18:33Z
+pushed_at: 2026-11-23T07:19:42Z
 last_release:
   tag: trulens-2.16.0
   published_at: 2026-10-19T17:17:18Z
-last_checked: 2026-11-22
+last_checked: 2026-11-23
