@@ -14,10 +14,10 @@ otlp:
   - export
 conventions: unknown
 otel_evidence: https://github.com/ag-ui-protocol/ag-ui/blob/main/sdks/dotnet/docs/architecture.md
-stars: 21305
+stars: 21497
 archived: false
-pushed_at: 2026-11-22T21:50:14Z
+pushed_at: 2026-11-24T11:47:05Z
 last_release:
   tag: release/2026-11-21
   published_at: 2026-11-21T18:04:24Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24

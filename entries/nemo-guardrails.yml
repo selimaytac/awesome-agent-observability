@@ -14,10 +14,10 @@ otlp:
 conventions:
   - genai-semconv
 otel_evidence: https://docs.nvidia.com/nemo/guardrails/latest/user-guides/tracing/index.html
-stars: 7556
+stars: 7568
 archived: false
-pushed_at: 2026-11-19T20:16:20Z
+pushed_at: 2026-11-24T11:26:28Z
 last_release:
   tag: v0.25.0
   published_at: 2026-11-19T09:28:07Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24

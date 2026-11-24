@@ -15,10 +15,10 @@ conventions:
   - genai-semconv
   - openinference
 otel_evidence: https://theagentrouter.ai/docs/capabilities/observability/
-stars: 2437
+stars: 2441
 archived: false
-pushed_at: 2026-11-19T23:10:30Z
+pushed_at: 2026-11-24T12:45:50Z
 last_release:
   tag: v1.3.0
   published_at: 2026-11-18T18:44:18Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24

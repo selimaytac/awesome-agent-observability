@@ -18,10 +18,10 @@ otlp:
 conventions:
   - genai-semconv
 otel_evidence: https://github.com/openlit/openlit
-stars: 3099
+stars: 3101
 archived: false
 pushed_at: 2026-11-23T10:33:57Z
 last_release:
   tag: openlit-2.2.0
   published_at: 2026-11-19T23:31:20Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24

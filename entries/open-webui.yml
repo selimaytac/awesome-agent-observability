@@ -19,10 +19,10 @@ conventions: []
 otel_evidence: https://docs.openwebui.com/reference/monitoring/otel/
 telemetry: otel
 telemetry_docs: https://docs.openwebui.com/reference/monitoring/otel/
-stars: 159327
+stars: 159412
 archived: false
-pushed_at: 2026-11-23T12:45:49Z
+pushed_at: 2026-11-24T12:39:39Z
 last_release:
   tag: v0.13.4
   published_at: 2026-11-17T14:46:26Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24

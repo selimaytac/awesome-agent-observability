@@ -15,8 +15,8 @@ telemetry: unknown
 telemetry_docs: https://docs.embabel.com/
 stars: 4568
 archived: false
-pushed_at: 2026-11-22T19:53:06Z
+pushed_at: 2026-11-24T06:53:48Z
 last_release:
   tag: v1.5.4
   published_at: 2026-10-28T07:35:07Z
-last_checked: 2026-11-23
+last_checked: 2026-11-24
