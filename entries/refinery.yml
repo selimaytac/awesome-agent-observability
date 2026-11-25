@@ -10,10 +10,10 @@ tags:
 license: Apache-2.0
 languages:
   - go
-stars: 410
+stars: 411
 archived: false
 pushed_at: 2026-11-24T12:01:45Z
 last_release:
   tag: v3.5.1
   published_at: 2026-11-23T19:21:58Z
-last_checked: 2026-11-24
+last_checked: 2026-11-25

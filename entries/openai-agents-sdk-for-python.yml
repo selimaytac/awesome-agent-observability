@@ -10,10 +10,10 @@ languages:
   - python
 telemetry: own
 telemetry_docs: https://openai.github.io/openai-agents-python/tracing/
-stars: 30852
+stars: 30870
 archived: false
-pushed_at: 2026-11-24T08:23:22Z
+pushed_at: 2026-11-25T08:35:09Z
 last_release:
   tag: v0.26.0
   published_at: 2026-11-24T03:15:47Z
-last_checked: 2026-11-24
+last_checked: 2026-11-25

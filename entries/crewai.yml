@@ -13,10 +13,10 @@ otlp:
 otel_evidence: https://docs.crewai.com/en/observability/tracing
 telemetry: otel
 telemetry_docs: https://docs.crewai.com/en/observability/tracing
-stars: 61223
+stars: 61251
 archived: false
-pushed_at: 2026-11-24T13:34:59Z
+pushed_at: 2026-11-25T11:55:11Z
 last_release:
   tag: 1.15.45
   published_at: 2026-11-24T03:54:54Z
-last_checked: 2026-11-24
+last_checked: 2026-11-25

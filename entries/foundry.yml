@@ -13,8 +13,8 @@ chains:
   - evm
 stars: 10773
 archived: false
-pushed_at: 2026-11-24T13:19:19Z
+pushed_at: 2026-11-25T12:55:21Z
 last_release:
   tag: v1.10.0
   published_at: 2026-11-19T16:41:30Z
-last_checked: 2026-11-24
+last_checked: 2026-11-25

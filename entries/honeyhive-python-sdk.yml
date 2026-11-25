@@ -16,8 +16,8 @@ conventions:
 otel_evidence: https://github.com/honeyhiveai/python-sdk
 stars: 3
 archived: false
-pushed_at: 2026-11-18T01:48:24Z
+pushed_at: 2026-11-25T00:31:55Z
 last_release:
-  tag: v1.9.0
-  published_at: 2026-11-18T01:49:43Z
-last_checked: 2026-11-24
+  tag: v1.10.0
+  published_at: 2026-11-25T00:32:55Z
+last_checked: 2026-11-25
