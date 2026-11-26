@@ -14,8 +14,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation
 stars: 644
 archived: false
-pushed_at: 2026-11-25T11:37:25Z
+pushed_at: 2026-11-26T12:26:01Z
 last_release:
   tag: v1.0.0
   published_at: 2026-10-30T17:50:30Z
-last_checked: 2026-11-25
+last_checked: 2026-11-26

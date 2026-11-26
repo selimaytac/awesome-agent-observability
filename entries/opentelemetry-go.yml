@@ -15,8 +15,8 @@ otlp:
 otel_evidence: https://github.com/open-telemetry/opentelemetry-go
 stars: 6617
 archived: false
-pushed_at: 2026-11-25T08:57:09Z
+pushed_at: 2026-11-26T09:26:08Z
 last_release:
   tag: v1.47.0
   published_at: 2026-10-02T08:18:45Z
-last_checked: 2026-11-25
+last_checked: 2026-11-26

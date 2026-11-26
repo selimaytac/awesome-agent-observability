@@ -11,10 +11,10 @@ license: Apache-2.0
 hosting: both
 languages:
   - go
-stars: 2469
+stars: 2471
 archived: false
-pushed_at: 2026-11-25T12:30:27Z
+pushed_at: 2026-11-26T12:28:23Z
 last_release:
   tag: v1.0.0-beta.238
   published_at: 2026-11-20T16:40:49Z
-last_checked: 2026-11-25
+last_checked: 2026-11-26

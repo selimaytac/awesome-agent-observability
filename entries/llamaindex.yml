@@ -10,10 +10,10 @@ languages:
   - python
 telemetry: own
 telemetry_docs: https://developers.llamaindex.ai/python/framework/module_guides/observability/
-stars: 53001
+stars: 53016
 archived: false
-pushed_at: 2026-11-20T00:46:38Z
+pushed_at: 2026-11-26T02:31:58Z
 last_release:
   tag: v0.14.26
   published_at: 2026-11-13T22:38:15Z
-last_checked: 2026-11-25
+last_checked: 2026-11-26
