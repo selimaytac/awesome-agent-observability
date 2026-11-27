@@ -14,10 +14,10 @@ languages:
   - python
 telemetry: own
 telemetry_docs: https://github.com/langgenius/dify
-stars: 161941
+stars: 162006
 archived: false
-pushed_at: 2026-11-26T12:38:31Z
+pushed_at: 2026-11-27T12:17:58Z
 last_release:
   tag: 1.20.0
   published_at: 2026-11-18T09:55:28Z
-last_checked: 2026-11-26
+last_checked: 2026-11-27

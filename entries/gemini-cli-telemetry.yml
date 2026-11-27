@@ -19,10 +19,10 @@ conventions:
 otel_evidence: https://geminicli.com/docs/cli/telemetry/
 telemetry: otel
 telemetry_docs: https://geminicli.com/docs/cli/telemetry/
-stars: 109167
+stars: 109225
 archived: false
-pushed_at: 2026-11-26T01:12:06Z
+pushed_at: 2026-11-27T10:00:19Z
 last_release:
   tag: v0.71.1
   published_at: 2026-11-24T03:50:24Z
-last_checked: 2026-11-26
+last_checked: 2026-11-27

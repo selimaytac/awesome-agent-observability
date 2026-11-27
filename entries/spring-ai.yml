@@ -16,10 +16,10 @@ conventions:
 otel_evidence: https://docs.spring.io/spring-ai/reference/observability/index.html
 telemetry: own
 telemetry_docs: https://docs.spring.io/spring-ai/reference/observability/index.html
-stars: 9687
+stars: 9694
 archived: false
-pushed_at: 2026-11-26T10:49:21Z
+pushed_at: 2026-11-27T12:16:04Z
 last_release:
   tag: v2.1.0
   published_at: 2026-11-20T15:46:59Z
-last_checked: 2026-11-26
+last_checked: 2026-11-27

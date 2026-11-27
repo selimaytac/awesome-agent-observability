@@ -18,10 +18,10 @@ otlp:
 conventions:
   - genai-semconv
 otel_evidence: https://mlflow.org/docs/latest/genai/tracing/
-stars: 28979
+stars: 28993
 archived: false
-pushed_at: 2026-11-26T11:09:46Z
+pushed_at: 2026-11-27T12:07:44Z
 last_release:
   tag: v3.18.0
   published_at: 2026-11-04T06:51:02Z
-last_checked: 2026-11-26
+last_checked: 2026-11-27

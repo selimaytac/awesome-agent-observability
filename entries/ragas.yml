@@ -13,10 +13,10 @@ languages:
   - python
 otlp: unknown
 conventions: unknown
-stars: 16435
+stars: 16443
 archived: false
 pushed_at: 2026-11-14T03:06:20Z
 last_release:
   tag: v0.4.4
   published_at: 2026-11-14T03:06:20Z
-last_checked: 2026-11-26
+last_checked: 2026-11-27
