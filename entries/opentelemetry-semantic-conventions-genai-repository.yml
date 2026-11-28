@@ -7,10 +7,10 @@ category: standards
 added: 2026-10-20
 body: OpenTelemetry
 version: development
-stars: 570
+stars: 571
 archived: false
-pushed_at: 2026-11-27T03:52:27Z
+pushed_at: 2026-11-28T03:55:12Z
 last_release:
   tag: v0.1.0
   published_at: 2026-11-21T00:29:01Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

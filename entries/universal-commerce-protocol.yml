@@ -14,10 +14,10 @@ agent_types:
   - commerce
 license: Apache-2.0
 body: Universal-Commerce-Protocol organization
-stars: 3526
+stars: 3528
 archived: false
-pushed_at: 2026-11-26T09:09:35Z
+pushed_at: 2026-11-28T03:35:17Z
 last_release:
   tag: v2026-08-25
   published_at: 2026-08-25T13:53:03Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

@@ -17,8 +17,8 @@ telemetry: otel
 telemetry_docs: https://docs.ag2.ai/latest/docs/user-guide/tracing/opentelemetry/
 stars: 5092
 archived: false
-pushed_at: 2026-11-27T05:09:59Z
+pushed_at: 2026-11-28T10:55:48Z
 last_release:
   tag: v1.3.4
   published_at: 2026-11-22T18:21:56Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

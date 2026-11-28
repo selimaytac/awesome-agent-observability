@@ -14,8 +14,8 @@ chains:
   - ethereum
 stars: 3620
 archived: false
-pushed_at: 2026-11-27T12:09:07Z
+pushed_at: 2026-11-28T11:38:28Z
 last_release:
   tag: v3.8.2
   published_at: 2026-11-19T13:33:00Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

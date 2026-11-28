@@ -12,10 +12,10 @@ languages:
   - python
 telemetry: external
 telemetry_docs: https://github.com/assafelovic/gpt-researcher
-stars: 30955
+stars: 30970
 archived: false
 pushed_at: 2026-11-23T14:51:56Z
 last_release:
   tag: v3.8.0
   published_at: 2026-11-09T15:12:43Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

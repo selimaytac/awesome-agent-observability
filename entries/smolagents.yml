@@ -15,10 +15,10 @@ conventions:
 otel_evidence: https://huggingface.co/docs/smolagents/tutorials/inspect_runs
 telemetry: external
 telemetry_docs: https://huggingface.co/docs/smolagents/tutorials/inspect_runs
-stars: 30566
+stars: 30574
 archived: false
 pushed_at: 2026-11-26T08:05:29Z
 last_release:
   tag: v1.26.0
   published_at: 2026-05-29T05:09:47Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28

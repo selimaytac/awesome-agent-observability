@@ -12,8 +12,8 @@ languages:
   - python
 stars: 13
 archived: false
-pushed_at: 2026-10-05T06:04:51Z
+pushed_at: 2026-11-28T08:26:16Z
 last_release:
   tag: v3.14.20
   published_at: 2026-07-23T08:28:34Z
-last_checked: 2026-11-27
+last_checked: 2026-11-28
